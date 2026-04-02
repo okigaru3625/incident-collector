@@ -1,0 +1,40 @@
+{
+  "lastUpdated": "2026年4月2日 17:36",
+  "lastUpdatedISO": "2026-04-02T17:36:07.634884+09:00",
+  "totalCount": 3,
+  "incidents": [
+    {
+      "id": "de2607092348",
+      "date": "2026年4月2日",
+      "title": "委託先の特許管理システムにマルウェア、情報流出の可能性 - 埼大",
+      "description": "埼玉大学は、特許管理において利用している業務委託先のシステムが侵害され、特許関連情報や個人情報が外部に流出した可能性があることを明らかにした。",
+      "url": "https://www.security-next.com/182773",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "cc3caff86332",
+      "date": "2026年4月1日",
+      "title": "「MLflow」にOSコマンドインジェクションの脆弱性 - 権限昇格のおそれ",
+      "description": "機械学習プラットフォーム「MLflow」に、コマンドインジェクションの脆弱性が明らかとなった。",
+      "url": "https://www.security-next.com/182823",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "3616eb42f2db",
+      "date": "2026年4月1日",
+      "title": "学生情報含むファイルを誤送信、参照元データの削除を失念 - 新潟大",
+      "description": "新潟大学は、学生の個人情報が含まれるファイルを、一部学生や教員にメールで誤って送信したことを明らかにした。",
+      "url": "https://www.security-next.com/182847",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    }
+  ]
+}
