@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年4月3日 14:51",
-  "lastUpdatedISO": "2026-04-03T14:51:01.969109+09:00",
-  "totalCount": 3,
+  "lastUpdated": "2026年4月4日 14:14",
+  "lastUpdatedISO": "2026-04-04T14:14:37.241083+09:00",
+  "totalCount": 4,
   "incidents": [
+    {
+      "id": "d2f4dc560640",
+      "date": "2026年4月3日",
+      "title": "委託事業者間でデータ誤送信、ファイル内に無関係の個人情報 - 大阪市",
+      "description": "大阪市は、児童いきいき放課後事業の委託先事業者間においてデータの誤送信が発生したことを明らかにした。児童に関する個人情報が含まれていたという。",
+      "url": "https://www.security-next.com/181929",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "de2607092348",
       "date": "2026年4月2日",
