@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年4月6日 15:18",
-  "lastUpdatedISO": "2026-04-06T15:18:10.654023+09:00",
-  "totalCount": 4,
+  "lastUpdated": "2026年4月7日 14:58",
+  "lastUpdatedISO": "2026-04-07T14:58:45.175021+09:00",
+  "totalCount": 6,
   "incidents": [
+    {
+      "id": "39698904fc2c",
+      "date": "2026年4月6日",
+      "title": "医師の経験症例リスト含むUSBメモリが所在不明 - 新潟大医歯学総合病院",
+      "description": "新潟大学医歯学総合病院は、患者の個人情報を含む可能性があるUSBメモリが所在不明になっていることを明らかにした。",
+      "url": "https://www.security-next.com/182969",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "5e0ae32c5e74",
+      "date": "2026年4月6日",
+      "title": "県立高で学習管理サービスに成績一覧を誤掲載 - 埼玉県",
+      "description": "埼玉県は、県内高校において職員が学習管理サービス上に生徒の成績一覧を誤って掲載するミスがあったことを明らかにした。",
+      "url": "https://www.security-next.com/182907",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "d2f4dc560640",
       "date": "2026年4月3日",
