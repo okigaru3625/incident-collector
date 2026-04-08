@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年4月7日 14:58",
-  "lastUpdatedISO": "2026-04-07T14:58:45.175021+09:00",
-  "totalCount": 6,
+  "lastUpdated": "2026年4月8日 15:00",
+  "lastUpdatedISO": "2026-04-08T15:00:42.755794+09:00",
+  "totalCount": 8,
   "incidents": [
+    {
+      "id": "4f9fd3842521",
+      "date": "2026年4月8日",
+      "title": "広教、教職員向け研修教材「事例で学ぶ 学校情報セキュリティ」バージョンアップ",
+      "description": "広島県教科用図書販売は1日、教職員向け情報セキュリティ研修教材「事例で学ぶ 学校情報セキュリティ」を2026年度版にバージョンアップした。 同教材は、東京学芸大学副学長・教職大学院 […]",
+      "url": "https://ict-enews.net/2026/04/08hirokyou/",
+      "source": "ICT教育ニュース",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "ee269ec02787",
+      "date": "2026年4月7日",
+      "title": "小学校で成績含むUSBメモリ紛失、データにはPW - 都城市",
+      "description": "宮崎県都城市は、市内小学校において児童の個人情報が保存されたUSBメモリが所在不明となっていることを明らかにした。",
+      "url": "https://www.security-next.com/183012",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "39698904fc2c",
       "date": "2026年4月6日",
