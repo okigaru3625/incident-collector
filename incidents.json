@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年4月8日 15:00",
-  "lastUpdatedISO": "2026-04-08T15:00:42.755794+09:00",
-  "totalCount": 8,
+  "lastUpdated": "2026年4月9日 15:00",
+  "lastUpdatedISO": "2026-04-09T15:00:07.432180+09:00",
+  "totalCount": 9,
   "incidents": [
     {
       "id": "4f9fd3842521",
@@ -12,6 +12,17 @@
       "source": "ICT教育ニュース",
       "category": "情報セキュリティ",
       "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "e1cfec8a0b9d",
+      "date": "2026年4月8日",
+      "title": "PDFに変換し忘れ、意図しない個人情報を誤送信 - 仙台市小学校",
+      "description": "仙台市は、市内小学校において本来は共有すべきではない児童の個人情報を保護者へ誤送信したことを明らかにした。",
+      "url": "https://www.security-next.com/183157",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
