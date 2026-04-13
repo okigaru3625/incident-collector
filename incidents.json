@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年4月12日 15:09",
-  "lastUpdatedISO": "2026-04-12T15:09:37.674597+09:00",
-  "totalCount": 10,
+  "lastUpdated": "2026年4月13日 16:26",
+  "lastUpdatedISO": "2026-04-13T16:26:08.646581+09:00",
+  "totalCount": 11,
   "incidents": [
+    {
+      "id": "b1f30f070120",
+      "date": "2026年4月13日",
+      "title": "市議会議員がブログに小学校入学生名簿を掲載 - 認識不足で",
+      "description": "北海道恵庭市は、同市議会議員のブログにおいて、小学校の入学生名簿が公開されたことを明らかにした。すでに削除されている。",
+      "url": "https://www.security-next.com/183316",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "783ba628c95c",
       "date": "2026年4月10日",
