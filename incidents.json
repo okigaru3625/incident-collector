@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年4月15日 15:20",
-  "lastUpdatedISO": "2026-04-15T15:20:10.105989+09:00",
-  "totalCount": 12,
+  "lastUpdated": "2026年4月16日 15:22",
+  "lastUpdatedISO": "2026-04-16T15:22:13.651759+09:00",
+  "totalCount": 13,
   "incidents": [
+    {
+      "id": "9b0a0ef6daec",
+      "date": "2026年4月15日",
+      "title": "生徒の個人情報を消費者金融に漏洩、教諭を懲戒処分 - 北海道",
+      "description": "北海道教育委員会は、金銭を借りる目的で、生徒や保護者の個人情報を消費者金融業者に漏洩した高校教諭に対し、懲戒処分を実施した。",
+      "url": "https://www.security-next.com/182133",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "b1f30f070120",
       "date": "2026年4月13日",
