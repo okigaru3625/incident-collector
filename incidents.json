@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年4月16日 15:22",
-  "lastUpdatedISO": "2026-04-16T15:22:13.651759+09:00",
-  "totalCount": 13,
+  "lastUpdated": "2026年4月17日 15:23",
+  "lastUpdatedISO": "2026-04-17T15:23:01.748122+09:00",
+  "totalCount": 15,
   "incidents": [
+    {
+      "id": "9c8c6eab4383",
+      "date": "2026年4月17日",
+      "title": "SMTPサーバで設定不備、約17万件のスパム送信 - 奈良女大",
+      "description": "奈良女子大学は、同大が運用するメール送信サーバにおいて設定不備があり、スパムメールを送信するための踏み台として悪用されたことを明らかにした。",
+      "url": "https://www.security-next.com/183454",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "d3fa76059843",
+      "date": "2026年4月17日",
+      "title": "小学校で児童の個人情報含む指導計画を紛失 - 柏市",
+      "description": "千葉県柏市は、市内小学校において、児童の個人情報が記載された「指導計画・記録簿」の所在がわからなくなっていることを明らかにした。",
+      "url": "https://www.security-next.com/183529",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "9b0a0ef6daec",
       "date": "2026年4月15日",
