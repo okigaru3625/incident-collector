@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年4月20日 16:27",
-  "lastUpdatedISO": "2026-04-20T16:27:11.551376+09:00",
-  "totalCount": 15,
+  "lastUpdated": "2026年4月21日 15:23",
+  "lastUpdatedISO": "2026-04-21T15:23:27.288331+09:00",
+  "totalCount": 16,
   "incidents": [
+    {
+      "id": "cb24a4baa2de",
+      "date": "2026年4月20日",
+      "title": "摂南大のサイトが一部改ざん、原因を調査中",
+      "description": "摂南大学は、一部ウェブサイトが改ざんされたことを明らかにした。サイトを閉鎖して原因を調査している。",
+      "url": "https://www.security-next.com/183386",
+      "source": "Security NEXT",
+      "category": "調査・報告",
+      "color": "blue",
+      "scale": ""
+    },
     {
       "id": "9c8c6eab4383",
       "date": "2026年4月17日",
