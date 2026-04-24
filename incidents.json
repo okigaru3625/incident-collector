@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年4月23日 10:16",
-  "lastUpdatedISO": "2026-04-23T10:16:20.058672+09:00",
-  "totalCount": 17,
+  "lastUpdated": "2026年4月24日 10:15",
+  "lastUpdatedISO": "2026-04-24T10:15:53.595066+09:00",
+  "totalCount": 19,
   "incidents": [
+    {
+      "id": "e4eb9bb34525",
+      "date": "2026年4月23日",
+      "title": "学生の複数アカウントに海外から不正アクセス - 千葉大",
+      "description": "千葉大学は、学生が利用する複数のアカウントが不正アクセスを受け、迷惑メールの送信などが発生したことを明らかにした。",
+      "url": "https://www.security-next.com/183716",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "0e44ad80b25a",
+      "date": "2026年4月23日",
+      "title": "高校で校内掲示した名簿の一部に成績情報 - 新潟県",
+      "description": "新潟県教育委員会は、県内高校において、誤って定期試験の平均点が記載された名簿を校内で掲示したことを明らかにした。",
+      "url": "https://www.security-next.com/183667",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "1bb1164822ef",
       "date": "2026年4月22日",
