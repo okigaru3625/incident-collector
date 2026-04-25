@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年4月24日 10:15",
-  "lastUpdatedISO": "2026-04-24T10:15:53.595066+09:00",
-  "totalCount": 19,
+  "lastUpdated": "2026年4月25日 10:08",
+  "lastUpdatedISO": "2026-04-25T10:08:51.088313+09:00",
+  "totalCount": 20,
   "incidents": [
+    {
+      "id": "6e5d6a5df05e",
+      "date": "2026年4月24日",
+      "title": "制服の受け渡し連絡メールで誤送信 - カンコー学生服",
+      "description": "カンコー学生服の直営店であるカンコーショップ盛岡は、顧客に送信したメールでミスがあり、メールアドレスが流出したことを明らかにした。",
+      "url": "https://www.security-next.com/183766",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "e4eb9bb34525",
       "date": "2026年4月23日",
