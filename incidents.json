@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年4月28日 10:25",
-  "lastUpdatedISO": "2026-04-28T10:25:16.410225+09:00",
-  "totalCount": 20,
+  "lastUpdated": "2026年4月29日 10:27",
+  "lastUpdatedISO": "2026-04-29T10:27:59.483439+09:00",
+  "totalCount": 21,
   "incidents": [
+    {
+      "id": "cd6b9e2a5884",
+      "date": "2026年4月28日",
+      "title": "県立高で生徒の保健調査票が所在不明 - 新潟県",
+      "description": "新潟県教育委員会は、県内高校において、生徒の保健調査票が所在不明になっていることを明らかにした。",
+      "url": "https://www.security-next.com/183864",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "6e5d6a5df05e",
       "date": "2026年4月24日",
