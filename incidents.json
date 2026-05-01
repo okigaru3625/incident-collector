@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年4月30日 10:26",
-  "lastUpdatedISO": "2026-04-30T10:26:59.720110+09:00",
-  "totalCount": 21,
+  "lastUpdated": "2026年5月1日 10:29",
+  "lastUpdatedISO": "2026-05-01T10:29:35.371955+09:00",
+  "totalCount": 22,
   "incidents": [
+    {
+      "id": "20f67dec7358",
+      "date": "2026年4月30日",
+      "title": "「NVIDIA FLARE SDK」に複数の脆弱性 - 認証回避やコード実行のおそれ",
+      "description": "NVIDIAは、分散環境において連合学習を実現するためのソフトウェア開発キット「NVIDIA FLARE SDK」に複数の脆弱性が判明したことを受け、セキュリティアップデートをリリースした。",
+      "url": "https://www.security-next.com/183969",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "cd6b9e2a5884",
       "date": "2026年4月28日",
