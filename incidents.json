@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年5月1日 10:29",
-  "lastUpdatedISO": "2026-05-01T10:29:35.371955+09:00",
-  "totalCount": 22,
+  "lastUpdated": "2026年5月2日 10:20",
+  "lastUpdatedISO": "2026-05-02T10:20:49.788142+09:00",
+  "totalCount": 23,
   "incidents": [
+    {
+      "id": "faf89f2c3a91",
+      "date": "2026年5月1日",
+      "title": "小中20校で児童生徒の個人情報を同意なしにPTAへ提供 - 静岡市",
+      "description": "静岡市は、複数の市内小中学校において、保護者の同意を得ることなく児童生徒の個人情報をPTA役員へ提供していたことを明らかにした。",
+      "url": "https://www.security-next.com/184008",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "20f67dec7358",
       "date": "2026年4月30日",
