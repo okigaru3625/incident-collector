@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年5月7日 10:26",
-  "lastUpdatedISO": "2026-05-07T10:26:21.418866+09:00",
-  "totalCount": 24,
+  "lastUpdated": "2026年5月8日 10:29",
+  "lastUpdatedISO": "2026-05-08T10:29:23.693866+09:00",
+  "totalCount": 26,
   "incidents": [
+    {
+      "id": "b20ca8063b6d",
+      "date": "2026年5月7日",
+      "title": "「PyTorch Lightning」に不正コード - 認証情報窃取のおそれ",
+      "description": "機械学習ライブラリ「PyTorch」向け開発フレームワーク「PyTorch Lightning」において、悪意あるコードが含まれるパッケージが「PyPI」経由で一時公開された。認証情報が窃取されるおそれがあり、関連システムの再構築や認証情報の変更が呼びかけられている。",
+      "url": "https://www.security-next.com/184110",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "a7fad840f9a9",
+      "date": "2026年5月7日",
+      "title": "サーバやNASに第三者がアクセス - 東北大や同大病院",
+      "description": "東北大学は、同大のサーバや大学病院のネットワークストレージなどが侵害されたことを明らかにした。患者の個人情報が流出したおそれがあるという。",
+      "url": "https://www.security-next.com/184105",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "f8284394d0ac",
       "date": "2026年5月6日",
