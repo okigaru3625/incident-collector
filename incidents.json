@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年5月8日 10:29",
-  "lastUpdatedISO": "2026-05-08T10:29:23.693866+09:00",
-  "totalCount": 26,
+  "lastUpdated": "2026年5月9日 10:26",
+  "lastUpdatedISO": "2026-05-09T10:26:45.153928+09:00",
+  "totalCount": 27,
   "incidents": [
+    {
+      "id": "d7b734c06960",
+      "date": "2026年5月8日",
+      "title": "開示文書の墨塗り個人情報、出力ミスで参照可能に - 北九州市",
+      "description": "福岡県北九州市は、開示した教員採用試験に関する行政文書に不備があり、墨塗りされた不開示情報の個人情報が参照できる状態だったことを明らかにした。",
+      "url": "https://www.security-next.com/184173",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "b20ca8063b6d",
       "date": "2026年5月7日",
