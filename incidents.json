@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年5月13日 10:47",
-  "lastUpdatedISO": "2026-05-13T10:47:07.460582+09:00",
-  "totalCount": 27,
+  "lastUpdated": "2026年5月14日 10:49",
+  "lastUpdatedISO": "2026-05-14T10:49:42.008163+09:00",
+  "totalCount": 28,
   "incidents": [
+    {
+      "id": "63b875a479e4",
+      "date": "2026年5月13日",
+      "title": "小学校教員がPCの校務画面をスマホ撮影、SNSに投稿 - 仙台市",
+      "description": "仙台市は、小学校教員が校務で使用している「Google Classroom」が表示されたパソコンの画面を撮影し、画像をSNSに投稿していたことを明らかにした。",
+      "url": "https://www.security-next.com/184219",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "d7b734c06960",
       "date": "2026年5月8日",
