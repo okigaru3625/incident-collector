@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年5月14日 10:49",
-  "lastUpdatedISO": "2026-05-14T10:49:42.008163+09:00",
-  "totalCount": 28,
+  "lastUpdated": "2026年5月15日 10:47",
+  "lastUpdatedISO": "2026-05-15T10:47:31.032654+09:00",
+  "totalCount": 29,
   "incidents": [
+    {
+      "id": "551f93cc61a2",
+      "date": "2026年5月14日",
+      "title": "修学旅行の添乗員が生徒の個人情報含む資料を紛失 - 北広島市",
+      "description": "北海道北広島市教育委員会は、中学校の修学旅行中に、旅行会社の添乗員が生徒や引率教員の個人情報を含む資料を紛失したことを明らかにした。",
+      "url": "https://www.security-next.com/184221",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "63b875a479e4",
       "date": "2026年5月13日",
