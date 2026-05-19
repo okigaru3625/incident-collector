@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年5月18日 10:53",
-  "lastUpdatedISO": "2026-05-18T10:53:13.856185+09:00",
-  "totalCount": 29,
+  "lastUpdated": "2026年5月19日 10:53",
+  "lastUpdatedISO": "2026-05-19T10:53:26.752872+09:00",
+  "totalCount": 30,
   "incidents": [
+    {
+      "id": "7138a51864f5",
+      "date": "2026年5月19日",
+      "title": "なりすましメール対策技術SPFとDMARCの導入状況、国内338大学の適切率は4.1%＝GMOブランドセキュリティ調べ＝",
+      "description": "GMOインターネットグループのGMOブランドセキュリティは18日、国内338大学が保有するドメインを対象に、なりすましメール対策技術SPFおよびDMARCの導入状況に関して調査した […]",
+      "url": "https://ict-enews.net/2026/05/19gmo-5/",
+      "source": "ICT教育ニュース",
+      "category": "調査・報告",
+      "color": "blue",
+      "scale": ""
+    },
     {
       "id": "551f93cc61a2",
       "date": "2026年5月14日",
