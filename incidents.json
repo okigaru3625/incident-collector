@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年5月19日 10:53",
-  "lastUpdatedISO": "2026-05-19T10:53:26.752872+09:00",
-  "totalCount": 30,
+  "lastUpdated": "2026年5月20日 10:53",
+  "lastUpdatedISO": "2026-05-20T10:53:11.318848+09:00",
+  "totalCount": 31,
   "incidents": [
     {
       "id": "7138a51864f5",
@@ -12,6 +12,17 @@
       "source": "ICT教育ニュース",
       "category": "調査・報告",
       "color": "blue",
+      "scale": ""
+    },
+    {
+      "id": "173ba8e74180",
+      "date": "2026年5月19日",
+      "title": "職員が患者情報を第三者に漏洩 - 福島県立医科大病院",
+      "description": "福島県立医科大学付属病院は、職員が患者情報を第三者に漏洩していたことを明らかにした。",
+      "url": "https://www.security-next.com/184355",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
