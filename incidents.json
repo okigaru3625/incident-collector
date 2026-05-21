@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年5月20日 10:53",
-  "lastUpdatedISO": "2026-05-20T10:53:11.318848+09:00",
-  "totalCount": 31,
+  "lastUpdated": "2026年5月21日 10:52",
+  "lastUpdatedISO": "2026-05-21T10:52:03.419623+09:00",
+  "totalCount": 33,
   "incidents": [
+    {
+      "id": "80c7796e9366",
+      "date": "2026年5月20日",
+      "title": "ランサム被害が発生、一部サービスを停止 - システム開発会社",
+      "description": "スマートフォンアプリやウェブシステムの開発を手がけるノストラムは、ランサムウェアによるサイバー攻撃を受けたことを明らかにした。学習支援サービスを一時停止している。",
+      "url": "https://www.security-next.com/184422",
+      "source": "Security NEXT",
+      "category": "ランサムウェア",
+      "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "2f9dd2d93418",
+      "date": "2026年5月20日",
+      "title": "県立校で生徒の成績情報を含むUSBメモリを紛失 - 茨城県",
+      "description": "茨城県立水戸第一高校および同付属中学校は、生徒の個人情報が保存されたUSBメモリが所在不明となっていることを明らかにした。",
+      "url": "https://www.security-next.com/184584",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "7138a51864f5",
       "date": "2026年5月19日",
