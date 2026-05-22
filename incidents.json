@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年5月21日 10:52",
-  "lastUpdatedISO": "2026-05-21T10:52:03.419623+09:00",
-  "totalCount": 33,
+  "lastUpdated": "2026年5月22日 10:53",
+  "lastUpdatedISO": "2026-05-22T10:53:37.428585+09:00",
+  "totalCount": 34,
   "incidents": [
+    {
+      "id": "d3d85059d658",
+      "date": "2026年5月22日",
+      "title": "AI CROSS、中村学園への生成AI活用支援を開始　安全なAI活用の自走を伴走",
+      "description": "AI CROSSは21日、中村学園（福岡県福岡市）への生成AI活用コンサルティング支援を4月から開始したと発表した。 教育機関へのサイバー攻撃が急増すると同時に、生成AIの学内活用 […]",
+      "url": "https://ict-enews.net/2026/05/22ai-cross-2/",
+      "source": "ICT教育ニュース",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "80c7796e9366",
       "date": "2026年5月20日",
