@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年5月22日 10:53",
-  "lastUpdatedISO": "2026-05-22T10:53:37.428585+09:00",
-  "totalCount": 34,
+  "lastUpdated": "2026年5月23日 10:45",
+  "lastUpdatedISO": "2026-05-23T10:45:01.827552+09:00",
+  "totalCount": 35,
   "incidents": [
     {
       "id": "d3d85059d658",
@@ -12,6 +12,17 @@
       "source": "ICT教育ニュース",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "6cef3dbecb6a",
+      "date": "2026年5月22日",
+      "title": "県立高の授業見学申込フォームで個人情報が閲覧可能に - 群馬県",
+      "description": "群馬県は、県内高校において、授業見学の申し込みフォームに不備があったことを明らかにした。個人情報が閲覧できる状態だったという。",
+      "url": "https://www.security-next.com/184662",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
