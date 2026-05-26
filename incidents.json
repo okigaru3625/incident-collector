@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年5月25日 10:57",
-  "lastUpdatedISO": "2026-05-25T10:57:08.638637+09:00",
-  "totalCount": 35,
+  "lastUpdated": "2026年5月26日 10:49",
+  "lastUpdatedISO": "2026-05-26T10:49:17.779030+09:00",
+  "totalCount": 36,
   "incidents": [
+    {
+      "id": "995aa522d8c1",
+      "date": "2026年5月25日",
+      "title": "交通指導員が小学校児童の登下校用名簿を紛失 - 名古屋市",
+      "description": "名古屋市は、小学校児童における登下校の安全確保を目的に作成された名簿が所在不明となっていることを明らかにした。",
+      "url": "https://www.security-next.com/184673",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "d3d85059d658",
       "date": "2026年5月22日",
