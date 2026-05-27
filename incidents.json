@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年5月26日 10:49",
-  "lastUpdatedISO": "2026-05-26T10:49:17.779030+09:00",
-  "totalCount": 36,
+  "lastUpdated": "2026年5月27日 10:57",
+  "lastUpdatedISO": "2026-05-27T10:57:19.639695+09:00",
+  "totalCount": 37,
   "incidents": [
+    {
+      "id": "2e80e7bc123c",
+      "date": "2026年5月26日",
+      "title": "県内高校で生徒情報含む連携支援シートを紛失 - 新潟県",
+      "description": "新潟県は、県内高校において、生徒の個人情報が記載された書類を紛失したことを明らかにした。",
+      "url": "https://www.security-next.com/184953",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "995aa522d8c1",
       "date": "2026年5月25日",
