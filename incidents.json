@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026年5月28日 10:29",
-  "lastUpdatedISO": "2026-05-28T10:29:07.514733+09:00",
-  "totalCount": 37,
+  "lastUpdated": "2026年5月29日 10:51",
+  "lastUpdatedISO": "2026-05-29T10:51:05.163087+09:00",
+  "totalCount": 40,
   "incidents": [
+    {
+      "id": "d75e6bf27647",
+      "date": "2026年5月28日",
+      "title": "問合管理システムがランサム被害、学習システムなどは影響なし - CKCグループ",
+      "description": "学習塾や家庭教師派遣サービスを展開する教育事業者のCKCネットワークと学参は、共同で運用している問い合わせ情報管理システムがランサムウェアによるサイバー攻撃を受けたことを明らかにした。",
+      "url": "https://www.security-next.com/184513",
+      "source": "Security NEXT",
+      "category": "ランサムウェア",
+      "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "7d0751fe323a",
+      "date": "2026年5月28日",
+      "title": "委託業者が患者情報含む診断用機器を紛失 - 東邦大大森病院",
+      "description": "東邦大学医療センター大森病院は、業務委託先において患者情報が保存された診断用機器が所在不明となっていることを明らかにした。",
+      "url": "https://www.security-next.com/184680",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "8dd9c7e437c9",
+      "date": "2026年5月28日",
+      "title": "市教委、保護者向けの案内メールで誤送信 - 佐渡市",
+      "description": "新潟県佐渡市は、同市教育委員会においてメールの送信ミスがあり、保護者のメールアドレスが流出したことを明らかにした。",
+      "url": "https://www.security-next.com/185016",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "2e80e7bc123c",
       "date": "2026年5月26日",
