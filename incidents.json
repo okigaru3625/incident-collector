@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年5月29日 10:51",
-  "lastUpdatedISO": "2026-05-29T10:51:05.163087+09:00",
-  "totalCount": 40,
+  "lastUpdated": "2026年5月30日 10:46",
+  "lastUpdatedISO": "2026-05-30T10:46:43.613035+09:00",
+  "totalCount": 41,
   "incidents": [
+    {
+      "id": "a4a61525dd69",
+      "date": "2026年5月29日",
+      "title": "偽警告被害、ファイル共有サービス利用時に誘導 - 北九州市立大",
+      "description": "北九州市立大学は、職員が偽警告にだまされ、利用していたパソコンを遠隔から操作されたことを明らかにした。端末内部には個人情報が保存されていたという。",
+      "url": "https://www.security-next.com/185007",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "d75e6bf27647",
       "date": "2026年5月28日",
