@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026年6月1日 11:06",
-  "lastUpdatedISO": "2026-06-01T11:06:35.190525+09:00",
-  "totalCount": 41,
+  "lastUpdated": "2026年6月2日 11:07",
+  "lastUpdatedISO": "2026-06-02T11:07:21.585108+09:00",
+  "totalCount": 44,
   "incidents": [
+    {
+      "id": "b300abf583a7",
+      "date": "2026年6月1日",
+      "title": "元職員が個人情報を掲示板投稿、システム設定に不備も - 津田塾大",
+      "description": "津田塾大学は、元職員が学生に関する個人情報を匿名掲示板に投稿していたことを明らかにした。元職員は、閲覧権限がない個人情報にもアクセスできた可能性があるという。",
+      "url": "https://www.security-next.com/184944",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "5d9d03782e94",
+      "date": "2026年6月1日",
+      "title": "教室内で保管した小学校の児童情報含む書類が所在不明 - 大阪市",
+      "description": "大阪市は、小学校において、児童の個人情報を含むキャリアパスポート記入用紙を紛失したことを明らかにした。",
+      "url": "https://www.security-next.com/185110",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "b86a153a9a8a",
+      "date": "2026年6月1日",
+      "title": "公開講座を案内する一斉メールで送信ミス - 東北学院大",
+      "description": "東北学院大学は、メールで公開講座について案内を行った際、送信ミスが発生し、メールアドレスが流出したことを明らかにした。",
+      "url": "https://www.security-next.com/185187",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "a4a61525dd69",
       "date": "2026年5月29日",
