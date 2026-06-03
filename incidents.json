@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年6月2日 11:07",
-  "lastUpdatedISO": "2026-06-02T11:07:21.585108+09:00",
-  "totalCount": 44,
+  "lastUpdated": "2026年6月3日 11:15",
+  "lastUpdatedISO": "2026-06-03T11:15:31.941303+09:00",
+  "totalCount": 46,
   "incidents": [
+    {
+      "id": "31d583c4639b",
+      "date": "2026年6月2日",
+      "title": "学校で図書の貸出情報含むUSBメモリを紛失 - 関市",
+      "description": "岐阜県関市は、市内学校の図書館において、児童の個人情報を含む図書の貸出情報が保存されたUSBメモリが所在不明となっていることを明らかにした。",
+      "url": "https://www.security-next.com/185271",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "f4b9a3d20a81",
+      "date": "2026年6月2日",
+      "title": "委託業者がメール誤送信、児童の保護者のメアド流出 - 大阪市",
+      "description": "大阪市は、業務委託先においてメールの誤送信が発生し、児童の保護者に関するメールアドレスが流出したことを明らかにした。",
+      "url": "https://www.security-next.com/185204",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "b300abf583a7",
       "date": "2026年6月1日",
