@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026年6月3日 11:15",
-  "lastUpdatedISO": "2026-06-03T11:15:31.941303+09:00",
-  "totalCount": 46,
+  "lastUpdated": "2026年6月4日 11:12",
+  "lastUpdatedISO": "2026-06-04T11:12:59.830594+09:00",
+  "totalCount": 50,
   "incidents": [
+    {
+      "id": "da9ae5352d44",
+      "date": "2026年6月4日",
+      "title": "「MLflow」にアクセスキーなど機密情報が流出する深刻な脆弱性",
+      "description": "機械学習ライフサイクル管理ツール「MLflow」に脆弱性が明らかとなった。アクセスキー、暗号化鍵など重要な情報が外部に流出するおそれがある。",
+      "url": "https://www.security-next.com/185397",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "ed609ce2fa31",
+      "date": "2026年6月4日",
+      "title": "JPRS、ドメインやDNSを学べるマンガ冊子を教育機関へ無償配布",
+      "description": "日本レジストリサービス（JPRS）は、マンガで気軽にドメイン名やDNSのことを学ぶことができる「ポン太のネットの大冒険 ～楽しくわかるインターネットのしくみ～」の無償配布を実施する。",
+      "url": "https://www.security-next.com/185403",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "aeeb915ffd3e",
+      "date": "2026年6月3日",
+      "title": "中学校でサポート詐欺被害、1000万円が不正送金 - 牧之原市",
+      "description": "静岡県牧之原市は、市内中学校でサポート詐欺による被害が発生したことを明らかにした。金融機関の口座から外部口座へ約1000万円が不正送金されたという。",
+      "url": "https://www.security-next.com/185320",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "ef5464b55f19",
+      "date": "2026年6月3日",
+      "title": "学校説明会の案内メールで誤送信 - サッカー総合専門学校",
+      "description": "サッカー総合専門学校のJAPANサッカーカレッジは、学校説明会の案内メールで送信ミスがあり、メールアドレスが流出したことを明らかにした。",
+      "url": "https://www.security-next.com/185276",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "31d583c4639b",
       "date": "2026年6月2日",
