@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年6月4日 11:12",
-  "lastUpdatedISO": "2026-06-04T11:12:59.830594+09:00",
-  "totalCount": 50,
+  "lastUpdated": "2026年6月5日 10:57",
+  "lastUpdatedISO": "2026-06-05T10:57:43.562557+09:00",
+  "totalCount": 52,
   "incidents": [
     {
       "id": "da9ae5352d44",
@@ -23,6 +23,28 @@
       "source": "Security NEXT",
       "category": "情報セキュリティ",
       "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "ca93c7b73f4d",
+      "date": "2026年6月4日",
+      "title": "個人情報含む教員マニュアルを一時紛失、空港トイレで - 大阪府",
+      "description": "大阪府は、高校の教諭が、生徒の個人情報が記載された宿泊研修の教員マニュアルを一時紛失したことを明らかにした。その後発見され、回収されている。",
+      "url": "https://www.security-next.com/184751",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "3646c28ab284",
+      "date": "2026年6月4日",
+      "title": "許可のもと持ち帰った全校児童名簿が所在不明に - 東かがわ市",
+      "description": "香川県東かがわ市は、市内小学校において児童の個人情報を含む名簿が所在不明となっていることを明らかにした。",
+      "url": "https://www.security-next.com/185202",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
       "scale": ""
     },
     {
