@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年6月5日 10:57",
-  "lastUpdatedISO": "2026-06-05T10:57:43.562557+09:00",
-  "totalCount": 52,
+  "lastUpdated": "2026年6月6日 10:49",
+  "lastUpdatedISO": "2026-06-06T10:49:20.133645+09:00",
+  "totalCount": 53,
   "incidents": [
+    {
+      "id": "011bd08f0954",
+      "date": "2026年6月5日",
+      "title": "卒業生宛の「進路だより」でメール誤送信 - 新潟県",
+      "description": "新潟県教育委員会は、県内高校においてメールの送信ミスがあり、卒業生に関するメールアドレスが流出したことを明らかにした。",
+      "url": "https://www.security-next.com/185455",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "da9ae5352d44",
       "date": "2026年6月4日",
