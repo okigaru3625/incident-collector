@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年6月8日 11:07",
-  "lastUpdatedISO": "2026-06-08T11:07:54.533416+09:00",
-  "totalCount": 54,
+  "lastUpdated": "2026年6月9日 10:45",
+  "lastUpdatedISO": "2026-06-09T10:45:37.812662+09:00",
+  "totalCount": 55,
   "incidents": [
     {
       "id": "1452a92a5698",
@@ -12,6 +12,17 @@
       "source": "ICT教育ニュース",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "3ad6a952394f",
+      "date": "2026年6月8日",
+      "title": "小学校で児童情報含む書類を紛失、確認作業中に - 名古屋市",
+      "description": "名古屋市は、市内小学校において、児童の個人情報が記載された書類が所在不明となっていることを明らかにした。",
+      "url": "https://www.security-next.com/185189",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
       "scale": ""
     },
     {
