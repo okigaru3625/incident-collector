@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年6月11日 11:07",
-  "lastUpdatedISO": "2026-06-11T11:07:52.723643+09:00",
-  "totalCount": 55,
+  "lastUpdated": "2026年6月12日 11:03",
+  "lastUpdatedISO": "2026-06-12T11:03:43.435597+09:00",
+  "totalCount": 56,
   "incidents": [
+    {
+      "id": "a361f212f15a",
+      "date": "2026年6月11日",
+      "title": "出張先の移動中にPCを置き忘れて紛失 - 高知工科大",
+      "description": "高知工科大学は、教員が出張した際、ノートパソコンを公共交通機関に置き忘れ、紛失したことを明らかにした。ログインパスワードなども設定されていなかったという。",
+      "url": "https://www.security-next.com/185689",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "1452a92a5698",
       "date": "2026年6月8日",
