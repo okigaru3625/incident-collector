@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026年6月12日 11:03",
-  "lastUpdatedISO": "2026-06-12T11:03:43.435597+09:00",
-  "totalCount": 56,
+  "lastUpdated": "2026年6月13日 10:57",
+  "lastUpdatedISO": "2026-06-13T10:57:08.242011+09:00",
+  "totalCount": 59,
   "incidents": [
+    {
+      "id": "c445bc158ee3",
+      "date": "2026年6月12日",
+      "title": "学校向けネット写真サービスで個人情報流出",
+      "description": "学校や幼稚園向けに提供されているインターネット写真サービス「はいチーズ！フォト」が侵害され、個人情報が流出したことが分かった。",
+      "url": "https://www.security-next.com/185625",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "1dabd269e6f0",
+      "date": "2026年6月12日",
+      "title": "研究室端末でランサム被害、手術動画が流出か - 九大",
+      "description": "九州大学は、研究室の端末でランサムウェアによる被害が発生し、九州大学病院に関する個人情報が外部流出した可能性があることを明らかにした。",
+      "url": "https://www.security-next.com/185733",
+      "source": "Security NEXT",
+      "category": "ランサムウェア",
+      "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "3071d2aeefe0",
+      "date": "2026年6月12日",
+      "title": "サポート詐欺被害で患者情報流出の可能性 - 藤医大病院",
+      "description": "藤田医科大学病院は、看護師が私物パソコンでサポート詐欺に遭ったことを明らかにした。端末内部の患者情報が外部へ流出した可能性がある。",
+      "url": "https://www.security-next.com/185406",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "a361f212f15a",
       "date": "2026年6月11日",
