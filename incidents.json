@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年6月15日 11:10",
-  "lastUpdatedISO": "2026-06-15T11:10:31.233338+09:00",
-  "totalCount": 59,
+  "lastUpdated": "2026年6月16日 11:14",
+  "lastUpdatedISO": "2026-06-16T11:14:15.249989+09:00",
+  "totalCount": 60,
   "incidents": [
+    {
+      "id": "4673b0418c5c",
+      "date": "2026年6月15日",
+      "title": "市教委会議資料の個人情報にマスキング不備 - 川崎市",
+      "description": "神奈川県川崎市のウェブサイトに掲載された市教育委員会の会議資料に個人情報が含まれていたことが明らかとなった。",
+      "url": "https://www.security-next.com/185746",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "c445bc158ee3",
       "date": "2026年6月12日",
