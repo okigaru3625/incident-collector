@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年6月16日 11:14",
-  "lastUpdatedISO": "2026-06-16T11:14:15.249989+09:00",
-  "totalCount": 60,
+  "lastUpdated": "2026年6月17日 11:10",
+  "lastUpdatedISO": "2026-06-17T11:10:00.523899+09:00",
+  "totalCount": 62,
   "incidents": [
+    {
+      "id": "ab0d511b1af1",
+      "date": "2026年6月17日",
+      "title": "JMC、JAPET&CECが主催する生成AI活用や学校情報セキュリティをテーマとした7月18日の無料セミナーに参画",
+      "description": "JMCは、日本教育情報化振興会（JAPET&CEC）が主催する、生成AI活用や学校情報セキュリティをテーマとした無料セミナー「AIが広げる新しい授業と、クラウドが変える先生 […]",
+      "url": "https://ict-enews.net/2026/06/17jmc-edu/",
+      "source": "ICT教育ニュース",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "d49fdc48eb03",
+      "date": "2026年6月16日",
+      "title": "机の中に生徒資料を置き忘れ、複数生徒が閲覧 - 大阪府",
+      "description": "大阪府は、府内高校において、教員が教室に置き忘れた個人情報を含む資料を複数の生徒が閲覧したことを明らかにした。",
+      "url": "https://www.security-next.com/185413",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "4673b0418c5c",
       "date": "2026年6月15日",
