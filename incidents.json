@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年6月17日 11:10",
-  "lastUpdatedISO": "2026-06-17T11:10:00.523899+09:00",
-  "totalCount": 62,
+  "lastUpdated": "2026年6月18日 11:07",
+  "lastUpdatedISO": "2026-06-18T11:07:57.840511+09:00",
+  "totalCount": 64,
   "incidents": [
+    {
+      "id": "9f79449980dc",
+      "date": "2026年6月18日",
+      "title": "「Splunk」向けのAI拡張ツールに複数の脆弱性",
+      "description": "データ基盤「Splunk」上でAIや機械学習を利用するための拡張ツール「Splunk AI Toolkit」に複数の脆弱性が明らかとなった。アップデートが呼びかけられている。",
+      "url": "https://www.security-next.com/186052",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "05613936294e",
+      "date": "2026年6月18日",
+      "title": "JMC、学校・教育機関の個人情報漏えい 2025年度は延べ31万人分",
+      "description": "JMCは16日、AIイノベーション&次世代教育ネットワーク（AISEN）が実施した「令和7年度 学校・教育機関における個人情報漏えい事故の発生状況」調査への協力内容を公表し […]",
+      "url": "https://ict-enews.net/2026/06/18jmc-2/",
+      "source": "ICT教育ニュース",
+      "category": "調査・報告",
+      "color": "blue",
+      "scale": ""
+    },
     {
       "id": "ab0d511b1af1",
       "date": "2026年6月17日",
