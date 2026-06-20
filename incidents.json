@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026年6月19日 11:39",
-  "lastUpdatedISO": "2026-06-19T11:39:54.559239+09:00",
-  "totalCount": 64,
+  "lastUpdated": "2026年6月20日 10:57",
+  "lastUpdatedISO": "2026-06-20T10:57:24.318783+09:00",
+  "totalCount": 67,
   "incidents": [
+    {
+      "id": "5aff272d4550",
+      "date": "2026年6月19日",
+      "title": "保護者の同意なく子どもの個人情報をPTAへ提供 - 小田原市",
+      "description": "神奈川県小田原市は、市内の幼稚園や一部小中学校において、園児や児童生徒の個人情報が同意なくPTAへ提供されていたことを明らかにした。",
+      "url": "https://www.security-next.com/185935",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "01fbf7270660",
+      "date": "2026年6月19日",
+      "title": "学生向けのイベント当選通知でメール誤送信 - 兵庫県立大",
+      "description": "兵庫県立大学は、イベントの当選通知メールにおいて誤送信が発生し、学生のメールアドレスが流出したことを明らかにした。",
+      "url": "https://www.security-next.com/186139",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "2e810e1b4a4c",
+      "date": "2026年6月19日",
+      "title": "JAPET&CEC、生成AI活用と学校情報セキュリティに関するセミナーを7/18に開催",
+      "description": "一社・日本教育情報化振興会（JAPET＆CEC）は7月18日に、生成AI活用や学校情報セキュリティをテーマとした無料セミナー「AIが広げる新しい授業と、クラウドが変える先生の働き方」を、東京・品川のビジョンセンター品川ア […]",
+      "url": "https://www.kknews.co.jp/news/20260619o04",
+      "source": "教育家庭新聞",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "9f79449980dc",
       "date": "2026年6月18日",
