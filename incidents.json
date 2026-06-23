@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年6月22日 11:13",
-  "lastUpdatedISO": "2026-06-22T11:13:01.508203+09:00",
-  "totalCount": 67,
+  "lastUpdated": "2026年6月23日 10:52",
+  "lastUpdatedISO": "2026-06-23T10:52:08.830483+09:00",
+  "totalCount": 69,
   "incidents": [
+    {
+      "id": "03c3bdf8a42d",
+      "date": "2026年6月22日",
+      "title": "患者情報含むUSBメモリを一時紛失 - 関西医科大病院",
+      "description": "関西医科大学付属病院は、患者の個人情報が保存されたUSBメモリを一時的に紛失していたことを明らかにした。",
+      "url": "https://www.security-next.com/185803",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "4cdbab37d405",
+      "date": "2026年6月22日",
+      "title": "県立高でサポート詐欺被害、端末内部に個人情報 - 島根県",
+      "description": "島根県は、県内高校において教員がサポート詐欺に遭ったことを明らかにした。端末内部には生徒に関する個人情報が保存されていたという。",
+      "url": "https://www.security-next.com/185864",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "5aff272d4550",
       "date": "2026年6月19日",
