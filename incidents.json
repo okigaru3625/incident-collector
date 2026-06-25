@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年6月24日 10:50",
-  "lastUpdatedISO": "2026-06-24T10:50:16.895694+09:00",
-  "totalCount": 69,
+  "lastUpdated": "2026年6月25日 10:54",
+  "lastUpdatedISO": "2026-06-25T10:54:24.392749+09:00",
+  "totalCount": 70,
   "incidents": [
+    {
+      "id": "ab7cf2585d95",
+      "date": "2026年6月24日",
+      "title": "学校家庭調査で回答を誤公開 - 仕様確認を担当者に依存",
+      "description": "沖縄県八重瀬町は、町内学校において家庭調査票のアンケートフォームに設定ミスがあり、回答内容が他回答者に誤って公開されていたことを明らかにした。",
+      "url": "https://www.security-next.com/186068",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "03c3bdf8a42d",
       "date": "2026年6月22日",
