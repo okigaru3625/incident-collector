@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年6月25日 10:54",
-  "lastUpdatedISO": "2026-06-25T10:54:24.392749+09:00",
-  "totalCount": 70,
+  "lastUpdated": "2026年6月26日 11:00",
+  "lastUpdatedISO": "2026-06-26T11:00:42.556959+09:00",
+  "totalCount": 72,
   "incidents": [
+    {
+      "id": "8ee208053f19",
+      "date": "2026年6月25日",
+      "title": "中学校の生徒情報含む修学旅行しおりを紛失 - 名古屋市",
+      "description": "名古屋市は、市内中学校において、生徒の個人情報を含む修学旅行教員用しおりを紛失したことを公表した。",
+      "url": "https://www.security-next.com/186334",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "46de8051feda",
+      "date": "2026年6月25日",
+      "title": "県内中高校向けのメールで誤送信 - 香川県",
+      "description": "香川県は、県内学校へ送信したイベントの案内メールにおいて送信ミスがあり、学校事務職員のメールアドレスが流出したことを公表した。",
+      "url": "https://www.security-next.com/186338",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "ab7cf2585d95",
       "date": "2026年6月24日",
