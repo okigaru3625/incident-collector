@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年6月30日 10:54",
-  "lastUpdatedISO": "2026-06-30T10:54:55.844340+09:00",
-  "totalCount": 72,
+  "lastUpdated": "2026年7月1日 11:00",
+  "lastUpdatedISO": "2026-07-01T11:00:15.664552+09:00",
+  "totalCount": 73,
   "incidents": [
+    {
+      "id": "34d53e309eb0",
+      "date": "2026年6月30日",
+      "title": "中学校でサポート詐欺被害、端末内部に個人情報 - 石垣市",
+      "description": "沖縄県石垣市は、市内中学校においてサポート詐欺の被害が発生したことを明らかにした。第三者によって侵害された校務用端末内部には個人情報が保存されていたという。",
+      "url": "https://www.security-next.com/186441",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "8ee208053f19",
       "date": "2026年6月25日",
