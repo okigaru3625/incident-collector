@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年7月1日 11:00",
-  "lastUpdatedISO": "2026-07-01T11:00:15.664552+09:00",
-  "totalCount": 73,
+  "lastUpdated": "2026年7月2日 10:54",
+  "lastUpdatedISO": "2026-07-02T10:54:19.865027+09:00",
+  "totalCount": 75,
   "incidents": [
+    {
+      "id": "471a7741c5e9",
+      "date": "2026年7月1日",
+      "title": "サポート詐欺でPC遠隔操作、情報流出を調査 - 東北文化学園大",
+      "description": "東北文化学園大学は、教員がサポート詐欺に遭ったことを明らかにした。影響など詳細について調査を進めている。",
+      "url": "https://www.security-next.com/186648",
+      "source": "Security NEXT",
+      "category": "調査・報告",
+      "color": "blue",
+      "scale": ""
+    },
+    {
+      "id": "0641a01a816e",
+      "date": "2026年7月1日",
+      "title": "児童情報を全認定こども園にメール誤送信 - 八王子市",
+      "description": "東京都八王子市は、市内の保育施設に在籍する児童の個人情報を、メールで誤送信するミスがあったことを公表した。",
+      "url": "https://www.security-next.com/186577",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "34d53e309eb0",
       "date": "2026年6月30日",
