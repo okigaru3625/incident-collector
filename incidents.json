@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年7月2日 10:54",
-  "lastUpdatedISO": "2026-07-02T10:54:19.865027+09:00",
-  "totalCount": 75,
+  "lastUpdated": "2026年7月3日 10:23",
+  "lastUpdatedISO": "2026-07-03T10:23:52.779190+09:00",
+  "totalCount": 77,
   "incidents": [
+    {
+      "id": "d0e7b76bfa7d",
+      "date": "2026年7月3日",
+      "title": "AIガイドライン改訂へ　次世代校務DX支援メニューと共同調達を整理　文科省デジタル学習基盤特別委員会",
+      "description": "文部科学省は６月30日、第10回デジタル学習基盤特別委員会（委員長＝堀田龍也東京学芸大学副学長）を開催。学校におけるAI活用の現状等、地方自治体法施行規則改正等に伴う教育情報セキュリティポリシーの改訂等、次世代校務DX環 […]",
+      "url": "https://www.kknews.co.jp/news/0702n01",
+      "source": "教育家庭新聞",
+      "category": "調査・報告",
+      "color": "blue",
+      "scale": ""
+    },
+    {
+      "id": "1686726b88c1",
+      "date": "2026年7月2日",
+      "title": "個人情報をメールに誤添付、容量から気づく - 阪教大",
+      "description": "大阪教育大学は、学生や教職員の個人情報を含むファイルを、誤ってメールに添付して送信したことを明らかにした。",
+      "url": "https://www.security-next.com/186643",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "471a7741c5e9",
       "date": "2026年7月1日",
