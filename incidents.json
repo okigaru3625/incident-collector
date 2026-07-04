@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年7月3日 10:23",
-  "lastUpdatedISO": "2026-07-03T10:23:52.779190+09:00",
-  "totalCount": 77,
+  "lastUpdated": "2026年7月4日 10:23",
+  "lastUpdatedISO": "2026-07-04T10:23:40.196721+09:00",
+  "totalCount": 78,
   "incidents": [
     {
       "id": "d0e7b76bfa7d",
@@ -12,6 +12,17 @@
       "source": "教育家庭新聞",
       "category": "調査・報告",
       "color": "blue",
+      "scale": ""
+    },
+    {
+      "id": "54e3e321434b",
+      "date": "2026年7月3日",
+      "title": "関係者リストを誤送信、入力用様式と同一ファイル名で取り違え - 堺市",
+      "description": "大阪府堺市は、市立小学校の施設運営を行う委託先関係者1人に、全関係者のリストを誤送信するミスがあったことを公表した。",
+      "url": "https://www.security-next.com/186506",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
