@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年7月7日 10:30",
-  "lastUpdatedISO": "2026-07-07T10:30:30.929193+09:00",
-  "totalCount": 78,
+  "lastUpdated": "2026年7月8日 10:19",
+  "lastUpdatedISO": "2026-07-08T10:19:59.213052+09:00",
+  "totalCount": 80,
   "incidents": [
+    {
+      "id": "5802a292971f",
+      "date": "2026年7月7日",
+      "title": "持込用学習端末のECサイトにサイバー攻撃 - 個人情報流出の可能性",
+      "description": "加賀ソルネットは、同社が教育機関向けに提供している授業持ち込み用学習端末の販売支援サイト「アカデミコナビ」が外部より侵害されたことを明らかにした。",
+      "url": "https://www.security-next.com/186704",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "2719a54de425",
+      "date": "2026年7月7日",
+      "title": "学生情報含む書類を宿泊施設に置き忘れて紛失 - 新潟県",
+      "description": "新潟県は、同県職員が学生の個人情報を含む書類を出張先で紛失したことを明らかにした。",
+      "url": "https://www.security-next.com/186765",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "d0e7b76bfa7d",
       "date": "2026年7月3日",
