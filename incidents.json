@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年7月8日 10:19",
-  "lastUpdatedISO": "2026-07-08T10:19:59.213052+09:00",
-  "totalCount": 80,
+  "lastUpdated": "2026年7月9日 10:23",
+  "lastUpdatedISO": "2026-07-09T10:23:34.626225+09:00",
+  "totalCount": 82,
   "incidents": [
+    {
+      "id": "459708d9530c",
+      "date": "2026年7月8日",
+      "title": "MS 365アカウントや学生団体サイトの侵害が判明 - 富山県立大",
+      "description": "富山県立大学は、学内で利用するクラウドサービスの学生アカウントや、学生団体が運営するウェブサイトが外部より侵害を受けたことを明らかにした。",
+      "url": "https://www.security-next.com/186814",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "4bcf7c17949b",
+      "date": "2026年7月8日",
+      "title": "個人情報の保存先を誤り、意図せず学生に共有 - 近畿大",
+      "description": "近畿大学は、個人情報を含むファイルが意図せず一部学生から閲覧できる状態となっていたことを明らかにした。",
+      "url": "https://www.security-next.com/186754",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "5802a292971f",
       "date": "2026年7月7日",
