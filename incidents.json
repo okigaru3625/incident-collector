@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年7月9日 10:23",
-  "lastUpdatedISO": "2026-07-09T10:23:34.626225+09:00",
-  "totalCount": 82,
+  "lastUpdated": "2026年7月10日 10:20",
+  "lastUpdatedISO": "2026-07-10T10:20:26.189118+09:00",
+  "totalCount": 83,
   "incidents": [
+    {
+      "id": "f984b0984758",
+      "date": "2026年7月9日",
+      "title": "複数学生アカウントに不正アクセス、スパムの踏み台に - 日大",
+      "description": "日本大学は、在学生や卒業生のメールアカウントが、不正アクセスを受けたことを明らかにした。迷惑メールの送信に悪用されたという。",
+      "url": "https://www.security-next.com/186973",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "459708d9530c",
       "date": "2026年7月8日",
