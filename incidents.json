@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年7月10日 10:20",
-  "lastUpdatedISO": "2026-07-10T10:20:26.189118+09:00",
-  "totalCount": 83,
+  "lastUpdated": "2026年7月11日 10:14",
+  "lastUpdatedISO": "2026-07-11T10:14:02.696680+09:00",
+  "totalCount": 84,
   "incidents": [
+    {
+      "id": "6bdb34a0b199",
+      "date": "2026年7月10日",
+      "title": "中学校の生徒情報含む私物メディアを鞄ごと紛失 - 江戸川区",
+      "description": "東京都江戸川区は、区立中学校の教諭が生徒の個人情報を含む記録メディアを学外に持ち出し、紛失したことを明らかにした。",
+      "url": "https://www.security-next.com/186977",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "f984b0984758",
       "date": "2026年7月9日",
