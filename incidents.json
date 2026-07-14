@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年7月13日 10:16",
-  "lastUpdatedISO": "2026-07-13T10:16:54.967244+09:00",
-  "totalCount": 84,
+  "lastUpdated": "2026年7月14日 10:06",
+  "lastUpdatedISO": "2026-07-14T10:06:56.128870+09:00",
+  "totalCount": 85,
   "incidents": [
+    {
+      "id": "d4c6d9aeab1e",
+      "date": "2026年7月13日",
+      "title": "高校で採点済み答案をグループウェアに誤掲載 - 宮城県",
+      "description": "宮城県は、県内高校において、採点済みの答案データを教諭がグループウェアに誤掲載するミスがあったことを明らかにした。",
+      "url": "https://www.security-next.com/186975",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "6bdb34a0b199",
       "date": "2026年7月10日",
