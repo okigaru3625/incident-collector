@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年7月17日 10:16",
-  "lastUpdatedISO": "2026-07-17T10:16:52.187446+09:00",
-  "totalCount": 88,
+  "lastUpdated": "2026年7月18日 10:08",
+  "lastUpdatedISO": "2026-07-18T10:08:45.546500+09:00",
+  "totalCount": 90,
   "incidents": [
+    {
+      "id": "b61d23df1140",
+      "date": "2026年7月17日",
+      "title": "小学校で児童の個人情報含む絵画作品を紛失 - 大阪市",
+      "description": "大阪市は、市内小学校において、児童の個人情報を含む絵画作品を紛失したことを明らかにした。",
+      "url": "https://www.security-next.com/186819",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "9f04475bc343",
+      "date": "2026年7月17日",
+      "title": "公開講座申込者向けの事前メールで誤送信 - 島根県立大",
+      "description": "島根県立大学は、公開講座の申込者にメールで資料を送信した際にミスがあり、メールアドレスが流出したことを明らかにした。",
+      "url": "https://www.security-next.com/187476",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "da60a57d981a",
       "date": "2026年7月15日",
