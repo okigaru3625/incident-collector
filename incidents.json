@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年7月21日 10:14",
-  "lastUpdatedISO": "2026-07-21T10:14:11.524188+09:00",
-  "totalCount": 90,
+  "lastUpdated": "2026年7月22日 10:13",
+  "lastUpdatedISO": "2026-07-22T10:13:05.446647+09:00",
+  "totalCount": 92,
   "incidents": [
+    {
+      "id": "2cf9b48ba8ff",
+      "date": "2026年7月21日",
+      "title": "委託先の就職試験対策サイトがランサムウェア被害 - 福岡大",
+      "description": "福岡大学は、学生が就職活動で受験する筆記試験の対策サイトのサーバがランサムウェアによる被害に遭ったことを明らかにした。",
+      "url": "https://www.security-next.com/187122",
+      "source": "Security NEXT",
+      "category": "ランサムウェア",
+      "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "edd3d7f4d4d2",
+      "date": "2026年7月21日",
+      "title": "児童発達支援センターで個人情報含む文書を誤廃棄 - 古河市",
+      "description": "茨城県古河市は、児童発達支援センターにおいて、保存期限を迎えていない文書を誤って廃棄した可能性が高いことを明らかにした。",
+      "url": "https://www.security-next.com/187220",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "b61d23df1140",
       "date": "2026年7月17日",
