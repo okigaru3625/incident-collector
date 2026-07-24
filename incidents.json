@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年7月23日 10:19",
-  "lastUpdatedISO": "2026-07-23T10:19:43.553171+09:00",
-  "totalCount": 92,
+  "lastUpdated": "2026年7月24日 10:15",
+  "lastUpdatedISO": "2026-07-24T10:15:50.492508+09:00",
+  "totalCount": 93,
   "incidents": [
+    {
+      "id": "7ada885627cb",
+      "date": "2026年7月23日",
+      "title": "個人情報含む書類を誤配布、様式変更で印字に気づかず - 郡山市",
+      "description": "福島県郡山市は、公立保育所と民間保育施設において、個人情報が含まれる書類の誤配布が発生したことを明らかにした。",
+      "url": "https://www.security-next.com/187524",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "2cf9b48ba8ff",
       "date": "2026年7月21日",
