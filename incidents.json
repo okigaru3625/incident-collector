@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年7月26日 10:19",
-  "lastUpdatedISO": "2026-07-26T10:19:47.492013+09:00",
-  "totalCount": 93,
+  "lastUpdated": "2026年7月27日 10:24",
+  "lastUpdatedISO": "2026-07-27T10:24:10.871702+09:00",
+  "totalCount": 95,
   "incidents": [
+    {
+      "id": "87119e82e847",
+      "date": "2026年7月27日",
+      "title": "生徒と保護者を対象に情報モラル講演を実施～SNSの安全な使い方を伝える～福島県喜多方市",
+      "description": "喜多方市立第三中学校は、SNS上でのトラブルや誹謗中傷が深刻な社会問題となっている中、生徒と保護者に向けて情報モラル講演を7月8日に実施。 講師は情報セキュリティの国際資格｢CISSP｣を持つNTT東日本ビジネス開発本部 […]",
+      "url": "https://www.kknews.co.jp/post_committee/260727_kitakatasi",
+      "source": "教育家庭新聞",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "c1a4ac4f5373",
+      "date": "2026年7月27日",
+      "title": "学校ネットワークの通信機器などを更新～仮想ホストサーバ機器を提供～栃木県佐野市",
+      "description": "佐野市教育センターは、学校ネットワーク通信機器や学校系サーバ機器などを更新し、情報セキュリティ対策の強化を図るにあたり条件付一般競争入札を6月30日に公示。 学校コアL3スイッチ装置はVLAN機能でインターネット接続セグ […]",
+      "url": "https://www.kknews.co.jp/post_nyusatsu/269727_sanosi",
+      "source": "教育家庭新聞",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "7ada885627cb",
       "date": "2026年7月23日",
