@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年7月31日 10:20",
-  "lastUpdatedISO": "2026-07-31T10:20:09.788900+09:00",
-  "totalCount": 98,
+  "lastUpdated": "2026年8月1日 10:21",
+  "lastUpdatedISO": "2026-08-01T10:21:22.785896+09:00",
+  "totalCount": 100,
   "incidents": [
+    {
+      "id": "03ad75024079",
+      "date": "2026年7月31日",
+      "title": "サーバでランサム被害を確認、影響など調査 - 八王子中高校",
+      "description": "八王子中学校・高校を運営する八王子学園は、第三者によるサイバー攻撃を受けたことを明らかにした。詳細について調査を進めている。",
+      "url": "https://www.security-next.com/187991",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "4a8dbd5e4773",
+      "date": "2026年7月31日",
+      "title": "講座受講者一覧表を紛失、メモから発覚 - 厚木市",
+      "description": "神奈川県厚木市は、生涯学習講座の受講者リストが所在不明となっていることを公表した。",
+      "url": "https://www.security-next.com/187995",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "4989c64c6a37",
       "date": "2026年7月29日",
