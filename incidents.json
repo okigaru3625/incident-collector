@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月3日 10:19",
-  "lastUpdatedISO": "2026-08-03T10:19:47.351782+09:00",
-  "totalCount": 100,
+  "lastUpdated": "2026年8月4日 10:15",
+  "lastUpdatedISO": "2026-08-04T10:15:57.293474+09:00",
+  "totalCount": 101,
   "incidents": [
+    {
+      "id": "4f0499e32442",
+      "date": "2026年8月3日",
+      "title": "県立高のオープンスクール申込フォームで設定ミス - 三重県",
+      "description": "三重県は、県立高校が実施するオープンスクールの申し込みフォームにおいて設定ミスがあり、個人情報が閲覧可能な状態だったことを明らかにした。",
+      "url": "https://www.security-next.com/188148",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "03ad75024079",
       "date": "2026年7月31日",
