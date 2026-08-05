@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月4日 10:15",
-  "lastUpdatedISO": "2026-08-04T10:15:57.293474+09:00",
-  "totalCount": 101,
+  "lastUpdated": "2026年8月5日 10:12",
+  "lastUpdatedISO": "2026-08-05T10:12:29.206370+09:00",
+  "totalCount": 102,
   "incidents": [
+    {
+      "id": "2a2240f937c4",
+      "date": "2026年8月4日",
+      "title": "教員がサポート詐欺被害、遠隔操作PCに個人情報 - 杏林大",
+      "description": "杏林大学は、教員がサポート詐欺の被害に遭い、第三者が遠隔からパソコンを操作できる状態に陥ったことを明らかにした。端末内部には個人情報が保存されていたという。",
+      "url": "https://www.security-next.com/188200",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "4f0499e32442",
       "date": "2026年8月3日",
