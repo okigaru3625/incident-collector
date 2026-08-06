@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月5日 10:12",
-  "lastUpdatedISO": "2026-08-05T10:12:29.206370+09:00",
-  "totalCount": 102,
+  "lastUpdated": "2026年8月6日 10:09",
+  "lastUpdatedISO": "2026-08-06T10:09:52.491136+09:00",
+  "totalCount": 103,
   "incidents": [
+    {
+      "id": "e36c300335b8",
+      "date": "2026年8月5日",
+      "title": "個人情報含む学内共有ファイルで公開設定ミス - 同志社大",
+      "description": "同志社大学は、個人情報を含む複数の共有ファイルに対し、本来アクセスが制限される学生や教職員からアクセスが可能な状態だったことを公表した。",
+      "url": "https://www.security-next.com/187998",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "2a2240f937c4",
       "date": "2026年8月4日",
