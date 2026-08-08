@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月7日 10:54",
-  "lastUpdatedISO": "2026-08-07T10:54:13.826869+09:00",
-  "totalCount": 103,
+  "lastUpdated": "2026年8月8日 09:36",
+  "lastUpdatedISO": "2026-08-08T09:36:27.084051+09:00",
+  "totalCount": 104,
   "incidents": [
+    {
+      "id": "6623323a8332",
+      "date": "2026年8月7日",
+      "title": "児童扶養手当受給資格者の個人情報を自治体宛に誤送信 - 石川県",
+      "description": "石川県は、児童扶養手当受給資格者の個人情報が含まれるファイルを、各町の担当者へメール送信する際、不要な個人情報を含めた状態で送信したことを公表した。",
+      "url": "https://www.security-next.com/188543",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "e36c300335b8",
       "date": "2026年8月5日",
