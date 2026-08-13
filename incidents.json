@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月12日 09:45",
-  "lastUpdatedISO": "2026-08-12T09:45:51.172781+09:00",
-  "totalCount": 104,
+  "lastUpdated": "2026年8月13日 09:48",
+  "lastUpdatedISO": "2026-08-13T09:48:28.527038+09:00",
+  "totalCount": 105,
   "incidents": [
+    {
+      "id": "a15608b8cb6f",
+      "date": "2026年8月12日",
+      "title": "小学校で健診結果を別の児童に配布、教員間の連携不足で - 矢板市",
+      "description": "栃木県矢板市は、市内小学校において児童の健康診断結果および心臓健診結果を、別の児童へ誤って配布したことを明らかにした。",
+      "url": "https://www.security-next.com/188069",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "6623323a8332",
       "date": "2026年8月7日",
