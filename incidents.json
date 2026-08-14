@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月13日 09:48",
-  "lastUpdatedISO": "2026-08-13T09:48:28.527038+09:00",
-  "totalCount": 105,
+  "lastUpdated": "2026年8月14日 09:46",
+  "lastUpdatedISO": "2026-08-14T09:46:45.729598+09:00",
+  "totalCount": 106,
   "incidents": [
+    {
+      "id": "e5078aa8d666",
+      "date": "2026年8月13日",
+      "title": "研修施設のサイトが改ざん被害、影響などを調査 - 東海大",
+      "description": "東海大学は、研修厚生施設「東海大学山中湖セミナーハウス」のウェブサイトが改ざんされたことを明らかにした。サーバ内部には個人情報が保存されており、影響などを調べている。",
+      "url": "https://www.security-next.com/188455",
+      "source": "Security NEXT",
+      "category": "調査・報告",
+      "color": "blue",
+      "scale": ""
+    },
     {
       "id": "a15608b8cb6f",
       "date": "2026年8月12日",
