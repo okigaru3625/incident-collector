@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月14日 09:46",
-  "lastUpdatedISO": "2026-08-14T09:46:45.729598+09:00",
-  "totalCount": 106,
+  "lastUpdated": "2026年8月15日 09:26",
+  "lastUpdatedISO": "2026-08-15T09:26:16.812047+09:00",
+  "totalCount": 107,
   "incidents": [
+    {
+      "id": "fa64e1ec7a9e",
+      "date": "2026年8月14日",
+      "title": "児童発達支援センターで個人情報含むUSBメモリを紛失 - 釧路町",
+      "description": "北海道釧路町は、児童発達支援センターにおいて、個人情報が保存されたUSBメモリが所在不明となっていることを明らかにした。",
+      "url": "https://www.security-next.com/188705",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "e5078aa8d666",
       "date": "2026年8月13日",
