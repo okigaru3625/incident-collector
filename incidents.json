@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月18日 09:29",
-  "lastUpdatedISO": "2026-08-18T09:29:12.355269+09:00",
-  "totalCount": 107,
+  "lastUpdated": "2026年8月19日 09:24",
+  "lastUpdatedISO": "2026-08-19T09:24:51.533137+09:00",
+  "totalCount": 108,
   "incidents": [
+    {
+      "id": "816f0b5d4474",
+      "date": "2026年8月18日",
+      "title": "教員がサポート詐欺被害、校内研修で被害に気づく - 那覇市",
+      "description": "沖縄県那覇市は、市立学校の教員がパソコンの利用中にサポート詐欺に遭ったことを明らかにした。サポート詐欺に関する校内研修を受けた際、自身が被害に遭っていたことに気づいたという。",
+      "url": "https://www.security-next.com/188878",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "fa64e1ec7a9e",
       "date": "2026年8月14日",
