@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年8月24日 09:26",
-  "lastUpdatedISO": "2026-08-24T09:26:25.581928+09:00",
-  "totalCount": 109,
+  "lastUpdated": "2026年8月25日 09:26",
+  "lastUpdatedISO": "2026-08-25T09:26:12.588096+09:00",
+  "totalCount": 111,
   "incidents": [
     {
       "id": "66fd7aecc883",
@@ -10,6 +10,28 @@
       "description": "教職員の私物スマートフォン（以下、私物スマホ）利用における情報漏洩リスクや盗撮などの不祥事等を受けて、私物スマホの全面禁止や利用制限を行っている教育委員会は多い。一方で公用スマホは約83％以上が未導入であり、私物スマホ利 […]",
       "url": "https://www.kknews.co.jp/news/282n01",
       "source": "教育家庭新聞",
+      "category": "調査・報告",
+      "color": "blue",
+      "scale": ""
+    },
+    {
+      "id": "e846b01dc6f6",
+      "date": "2026年8月24日",
+      "title": "休眠中サーバがランサム被害、内部に個人情報 - システム開発会社",
+      "description": "オンライン試験システムの開発、販売を手がける教育ソフトウェアは、契約している休眠中のレンタルサーバがサイバー攻撃を受けたことを明らかにした。内部に個人情報が保存されていたという。",
+      "url": "https://www.security-next.com/189257",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "def77aa24234",
+      "date": "2026年8月24日",
+      "title": "医療機器会社が手術室でのX線画像を保有、経緯を調査 - 金沢大病院",
+      "description": "金沢大学付属病院は、患者のX線画像を医療機器事業者が保有していたことを明らかにした。担当医師と事業者で説明が異なり、撮影から情報共有に至った経緯などがわかっていない。",
+      "url": "https://www.security-next.com/189121",
+      "source": "Security NEXT",
       "category": "調査・報告",
       "color": "blue",
       "scale": ""
