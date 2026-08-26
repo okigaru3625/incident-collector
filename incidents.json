@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月25日 09:26",
-  "lastUpdatedISO": "2026-08-25T09:26:12.588096+09:00",
-  "totalCount": 111,
+  "lastUpdated": "2026年8月26日 09:27",
+  "lastUpdatedISO": "2026-08-26T09:27:28.212538+09:00",
+  "totalCount": 112,
   "incidents": [
+    {
+      "id": "c3da425d735e",
+      "date": "2026年8月25日",
+      "title": "学習適応性検査の結果シートが所在不明 - 北教大付属校",
+      "description": "北海道教育大学は、同大付属釧路義務教育学校において実施した学習適応性検査の結果が記載された文書が、所在不明になっていることを明らかにした。",
+      "url": "https://www.security-next.com/189036",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "66fd7aecc883",
       "date": "2026年8月24日",
