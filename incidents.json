@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年8月27日 14:10",
-  "lastUpdatedISO": "2026-08-27T14:10:33.422898+09:00",
-  "totalCount": 112,
+  "lastUpdated": "2026年8月28日 16:09",
+  "lastUpdatedISO": "2026-08-28T16:09:28.363962+09:00",
+  "totalCount": 114,
   "incidents": [
+    {
+      "id": "96aba6e889af",
+      "date": "2026年8月27日",
+      "title": "フォーム設定ミス、イベント申込者情報が閲覧可能に - 東海村社会福祉協議会",
+      "description": "東海村社会福祉協議会は、夏休み期間の小学生向けイベント事業で利用した参加申し込みフォームに不備があり、個人情報が流出したことを明らかにした。",
+      "url": "https://www.security-next.com/188972",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "41a8c09062fe",
+      "date": "2026年8月27日",
+      "title": "公務災害の認定結果通知書が所在不明 - 公立学校共済組合",
+      "description": "公立学校共済組合は、岐阜支部において、個人情報が記載された書類が所在不明になっていることを明らかにした。",
+      "url": "https://www.security-next.com/189336",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "c3da425d735e",
       "date": "2026年8月25日",
