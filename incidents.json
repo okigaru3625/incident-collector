@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月28日 16:09",
-  "lastUpdatedISO": "2026-08-28T16:09:28.363962+09:00",
-  "totalCount": 114,
+  "lastUpdated": "2026年8月29日 13:26",
+  "lastUpdatedISO": "2026-08-29T13:26:14.969955+09:00",
+  "totalCount": 115,
   "incidents": [
+    {
+      "id": "284e84d731f4",
+      "date": "2026年8月28日",
+      "title": "教職員メルアカに不正アクセス、スパムの踏み台に - 日大法学部",
+      "description": "日本大学法学部は、教職員のメールアカウントが第三者に乗っ取られ、意図しない大量のメールに悪用されたことを明らかにした。情報が流出したおそれもある。",
+      "url": "https://www.security-next.com/189530",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "96aba6e889af",
       "date": "2026年8月27日",
