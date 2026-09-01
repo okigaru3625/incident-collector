@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年8月31日 10:43",
-  "lastUpdatedISO": "2026-08-31T10:43:28.735422+09:00",
-  "totalCount": 115,
+  "lastUpdated": "2026年9月1日 11:11",
+  "lastUpdatedISO": "2026-09-01T11:11:58.456095+09:00",
+  "totalCount": 116,
   "incidents": [
+    {
+      "id": "e21ac0211579",
+      "date": "2026年8月31日",
+      "title": "学習サイトで会員の個人情報が閲覧可能に - 京都府",
+      "description": "京都府は、同府が運営を委託して設置しているオンデマンド学習サイト「KYO育tv.」において、会員の個人情報がインターネット上で閲覧できる状態になっていたことを明らかにした。",
+      "url": "https://www.security-next.com/189328",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "284e84d731f4",
       "date": "2026年8月28日",
