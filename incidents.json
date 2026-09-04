@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年9月3日 10:34",
-  "lastUpdatedISO": "2026-09-03T10:34:13.766635+09:00",
-  "totalCount": 117,
+  "lastUpdated": "2026年9月4日 10:27",
+  "lastUpdatedISO": "2026-09-04T10:27:49.617247+09:00",
+  "totalCount": 118,
   "incidents": [
+    {
+      "id": "9ac0609e4890",
+      "date": "2026年9月3日",
+      "title": "大阪市の保育園サイトが改ざん - 個人情報流出は否定",
+      "description": "大阪市内にあるさつき保育園は、ウェブサイトが侵害され、一部コンテンツが改ざんされたことを明らかにした。",
+      "url": "https://www.security-next.com/189794",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "235c862b9d5c",
       "date": "2026年9月1日",
