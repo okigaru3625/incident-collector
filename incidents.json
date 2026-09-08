@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年9月7日 10:26",
-  "lastUpdatedISO": "2026-09-07T10:26:28.470014+09:00",
-  "totalCount": 118,
+  "lastUpdated": "2026年9月8日 10:31",
+  "lastUpdatedISO": "2026-09-08T10:31:19.924974+09:00",
+  "totalCount": 119,
   "incidents": [
+    {
+      "id": "a529a0e553ee",
+      "date": "2026年9月7日",
+      "title": "県立高体験入学申込サイトで個人情報が閲覧可能に - 福岡県",
+      "description": "福岡県は、県内高校の体験入学参加者申し込みサイトにおいて、申込者の個人情報が流出したことを明らかにした。",
+      "url": "https://www.security-next.com/189480",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "9ac0609e4890",
       "date": "2026年9月3日",
