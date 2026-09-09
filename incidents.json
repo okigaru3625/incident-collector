@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026年9月8日 10:31",
-  "lastUpdatedISO": "2026-09-08T10:31:19.924974+09:00",
-  "totalCount": 119,
+  "lastUpdated": "2026年9月9日 10:39",
+  "lastUpdatedISO": "2026-09-09T10:39:14.582420+09:00",
+  "totalCount": 122,
   "incidents": [
+    {
+      "id": "9825fc87312c",
+      "date": "2026年9月9日",
+      "title": "広教、2027年7月の法制化を見据えた教育情報セキュリティポリシー改訂セミナー動画を公開",
+      "description": "広島県教科用図書販売（広教）は、教育委員会および学校関係者を対象とした第8回オンラインセミナー「地方自治法施行規則改訂等に伴う教育情報セキュリティポリシーの改訂にむけて」の動画を無料公開している。事前申し込みは不要で、オ […]",
+      "url": "https://www.kknews.co.jp/news/20260909o03",
+      "source": "教育家庭新聞",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "b2389da61316",
+      "date": "2026年9月8日",
+      "title": "小学校で児童の個人情報含む指導要録を誤廃棄 - 尼崎市",
+      "description": "兵庫県尼崎市は、市内小学校において、卒業生の個人情報を含む指導要録が所在不明となっていることを明らかにした。誤って廃棄したものと見られている。",
+      "url": "https://www.security-next.com/189992",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "a1d8345f4af8",
+      "date": "2026年9月8日",
+      "title": "教員向けのメールを学生約1400人に誤送信 - 三重大",
+      "description": "三重大学は、メールの送信ミスにより、学生に関する配慮すべき情報が流出したことを明らかにした。",
+      "url": "https://www.security-next.com/189737",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "a529a0e553ee",
       "date": "2026年9月7日",
