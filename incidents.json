@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年9月10日 10:33",
-  "lastUpdatedISO": "2026-09-10T10:33:52.309432+09:00",
-  "totalCount": 123,
+  "lastUpdated": "2026年9月11日 10:32",
+  "lastUpdatedISO": "2026-09-11T10:32:55.555822+09:00",
+  "totalCount": 124,
   "incidents": [
+    {
+      "id": "63777f2ed369",
+      "date": "2026年9月10日",
+      "title": "学生の個人情報含むバックアップHDDが所在不明 - 秋田高専",
+      "description": "秋田工業高等専門学校において、学生の個人情報が保存されたハードディスクが所在不明となっている。",
+      "url": "https://www.security-next.com/189482",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "9825fc87312c",
       "date": "2026年9月9日",
