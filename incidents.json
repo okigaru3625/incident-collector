@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年9月11日 10:32",
-  "lastUpdatedISO": "2026-09-11T10:32:55.555822+09:00",
-  "totalCount": 124,
+  "lastUpdated": "2026年9月12日 10:39",
+  "lastUpdatedISO": "2026-09-12T10:39:18.445577+09:00",
+  "totalCount": 125,
   "incidents": [
+    {
+      "id": "4a7de67df33a",
+      "date": "2026年9月11日",
+      "title": "情報基盤から学生や教職員の個人情報が流出した可能性 - 東京科学大",
+      "description": "東京科学大学は、同大の情報基盤が第三者によって侵害され、個人情報が流出した可能性があることを明らかにした。",
+      "url": "https://www.security-next.com/189983",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "63777f2ed369",
       "date": "2026年9月10日",
