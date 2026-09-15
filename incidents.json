@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年9月14日 10:47",
-  "lastUpdatedISO": "2026-09-14T10:47:26.177661+09:00",
-  "totalCount": 126,
+  "lastUpdated": "2026年9月15日 10:57",
+  "lastUpdatedISO": "2026-09-15T10:57:27.976187+09:00",
+  "totalCount": 127,
   "incidents": [
+    {
+      "id": "00beabb138f6",
+      "date": "2026年9月14日",
+      "title": "生徒寮でサポート詐欺、入寮者の個人情報が流出か - 宮崎県",
+      "description": "宮崎県は、県立学校地区生徒寮の運営を委託している宮崎県奨学会がサポート詐欺に遭ったことを明らかにした。内部に個人情報が保存されたパソコンが遠隔操作されたという。",
+      "url": "https://www.security-next.com/189985",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "0e5c3b981a06",
       "date": "2026年9月13日",
