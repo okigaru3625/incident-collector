@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年9月18日 10:43",
-  "lastUpdatedISO": "2026-09-18T10:43:52.284818+09:00",
-  "totalCount": 127,
+  "lastUpdated": "2026年9月19日 10:43",
+  "lastUpdatedISO": "2026-09-19T10:43:47.507897+09:00",
+  "totalCount": 128,
   "incidents": [
+    {
+      "id": "9876e5f700bd",
+      "date": "2026年9月18日",
+      "title": "理工学部教職員がフィッシング被害、不審メールが送信 - 日大",
+      "description": "日本大学は、フィッシング攻撃により、教職員のメールアカウントが乗っ取られたことを明らかにした。同アカウントから不審なメールが送信されたという。",
+      "url": "https://www.security-next.com/190198",
+      "source": "Security NEXT",
+      "category": "フィッシング",
+      "color": "purple",
+      "scale": ""
+    },
     {
       "id": "00beabb138f6",
       "date": "2026年9月14日",
