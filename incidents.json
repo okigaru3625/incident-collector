@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年9月25日 10:59",
-  "lastUpdatedISO": "2026-09-25T10:59:51.895424+09:00",
-  "totalCount": 128,
+  "lastUpdated": "2026年9月26日 11:05",
+  "lastUpdatedISO": "2026-09-26T11:05:30.179213+09:00",
+  "totalCount": 129,
   "incidents": [
+    {
+      "id": "bd14e9b02016",
+      "date": "2026年9月25日",
+      "title": "オープンキャンパスの関連案内でメール誤送信 - 福岡女学院大",
+      "description": "福岡女学院大学は、オープンキャンパスのバス利用者および交通費補助申込者への案内メールにおいて送信ミスがあったことを明らかにした。",
+      "url": "https://www.security-next.com/190445",
+      "source": "Security NEXT",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "9876e5f700bd",
       "date": "2026年9月18日",
