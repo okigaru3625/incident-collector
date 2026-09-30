@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年9月29日 11:49",
-  "lastUpdatedISO": "2026-09-29T11:49:29.613462+09:00",
-  "totalCount": 130,
+  "lastUpdated": "2026年9月30日 11:30",
+  "lastUpdatedISO": "2026-09-30T11:30:44.658879+09:00",
+  "totalCount": 132,
   "incidents": [
+    {
+      "id": "6a557eee74e8",
+      "date": "2026年9月29日",
+      "title": "オープンキャンパスの受付名簿が所在不明 - 三重大",
+      "description": "三重大学は、オープンキャンパス参加者の個人情報が記載された受け付け名簿が所在不明になっていることを明らかにした。",
+      "url": "https://www.security-next.com/190384",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "34f7f95c1ff9",
+      "date": "2026年9月29日",
+      "title": "生徒の健康記録紛失、大規模改修時の移動で - 新潟市中学校",
+      "description": "新潟市は、市内中学校において、全校生徒の健康や歯に関する記録を収めた段ボール箱が所在不明となっていることを明らかにした。",
+      "url": "https://www.security-next.com/190689",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "8cd7185b1df3",
       "date": "2026年9月28日",
