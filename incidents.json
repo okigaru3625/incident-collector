@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年10月1日 11:32",
-  "lastUpdatedISO": "2026-10-01T11:32:43.715434+09:00",
-  "totalCount": 132,
+  "lastUpdated": "2026年10月2日 11:38",
+  "lastUpdatedISO": "2026-10-02T11:38:39.390297+09:00",
+  "totalCount": 133,
   "incidents": [
+    {
+      "id": "95200df12e7c",
+      "date": "2026年10月1日",
+      "title": "事務用NASがランサム被害、通常業務は再開 - 佐賀大",
+      "description": "佐賀大学は、事務に利用する一部情報システムで、ランサムウェアによる被害が発生したことを明らかにした。引き続き調査を進めているが、業務は再開しているという。",
+      "url": "https://www.security-next.com/190842",
+      "source": "Security NEXT",
+      "category": "ランサムウェア",
+      "color": "red",
+      "scale": ""
+    },
     {
       "id": "6a557eee74e8",
       "date": "2026年9月29日",
