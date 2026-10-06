@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年10月5日 11:28",
-  "lastUpdatedISO": "2026-10-05T11:28:18.732131+09:00",
-  "totalCount": 133,
+  "lastUpdated": "2026年10月6日 12:23",
+  "lastUpdatedISO": "2026-10-06T12:23:25.953011+09:00",
+  "totalCount": 134,
   "incidents": [
+    {
+      "id": "598d5fb2d08f",
+      "date": "2026年10月5日",
+      "title": "複数サイトに不正アクセス、プラグイン脆弱性が標的に - ベネッセグループ会社",
+      "description": "ベネッセコーポレーションのグループ会社で総合教育サービスを提供するアップは、運営する2サイトが不正アクセスを受け、採用応募者などの個人情報が流出した可能性があることを明らかにした。",
+      "url": "https://www.security-next.com/190961",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "95200df12e7c",
       "date": "2026年10月1日",
