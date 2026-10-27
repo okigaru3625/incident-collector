@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年10月26日 10:51",
-  "lastUpdatedISO": "2026-10-26T10:51:56.857671+09:00",
-  "totalCount": 137,
+  "lastUpdated": "2026年10月27日 11:30",
+  "lastUpdatedISO": "2026-10-27T11:30:09.513008+09:00",
+  "totalCount": 138,
   "incidents": [
+    {
+      "id": "b47d710fdc66",
+      "date": "2026年10月26日",
+      "title": "小中学校がPTAに生徒の個人情報を同意なしに提供 - 厚木市",
+      "description": "神奈川県厚木市は、市内複数の小中学校で、児童生徒や保護者の個人情報を、本人の同意なくPTAへ提供していたことを明らかにした。",
+      "url": "https://www.security-next.com/191495",
+      "source": "Security NEXT",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "c95d96e0a453",
       "date": "2026年10月19日",
