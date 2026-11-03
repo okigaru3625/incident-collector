@@ -1,8 +1,327 @@
 {
-  "lastUpdated": "2026年11月3日 13:07",
-  "lastUpdatedISO": "2026-11-03T13:07:12.987212+09:00",
-  "totalCount": 138,
+  "lastUpdated": "2026年11月3日 18:38",
+  "lastUpdatedISO": "2026-11-03T18:38:38.267238+09:00",
+  "totalCount": 133,
   "incidents": [
+    {
+      "id": "f590f6c8262d",
+      "date": "2026年11月3日",
+      "title": "生徒１８人の個人情報を含んだ資料、保護者ら８４家庭に誤配信…中学教員がチェック怠り連絡アプリで（読売新聞オンライン）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pRVNIQ201X280M09CTllkQmdkREZ5eXdtOFIxaDNyN0lNdUtyYnhaSUdvX2dXYWxMUFZoZzJJRDUwMEd4M1ByMU1uSkprX3d1UTd1Q1pPbWRyX2R0WkgtODVnbFlhcnBydE5RVHRaZGJweF9rVEh5SFh3MGxrS2c?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "5da1d52001e0",
+      "date": "2026年11月2日",
+      "title": "「サラッとバラしたぞ…」辺野古沖転覆事故を受けて、学校法人同志社が記者会見を行うが、批判が殺到した上、さらに遺族の個人情報までうっかり漏洩してしまう",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4xMUl0d0NLZmpEekI0WEV4QlZsc1J1XzNZUVlYaWJqVTJydHVmeWg3WWh4RGU3OVJZZWJKQ08zMXZkdDhQV3c?oc=5",
+      "source": "Googleニュース（Togetter）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "bceb5b652750",
+      "date": "2026年11月2日",
+      "title": "釧路市の学習用端末の委託先がランサムウェア被害、児童生徒・教職員のアカウント情報が流出の恐れ",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oQ3ZHekVRaF9kV0tOUzM2Y3FwZDBTbUpJQU5oTG13NS1XVVZSZjFRTVczbnFoc054TEVTZ3NvMUtuUHF0emZoUzJ4cHY0Wmk0OTkw?oc=5",
+      "source": "Googleニュース（株式会社VLCセキュリティ）",
+      "category": "ランサムウェア",
+      "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "1ca54ebd1f84",
+      "date": "2026年10月31日",
+      "title": "生徒の受験予定大学などを教室に約2か月間掲示…北海道夕張高校が「個人情報流出」としてお詫び 外部への流出は現時点で確認されず",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CUGViME51UWxtLXRMeFAyMGM1LXNyMkFkUmNXd0FiMTRmMER3UjgwWDJFU21RMzNGbmlNbXZ6QW00bzBqSnNGQURycnpFQjJJdFdHM0E1b1g3NERWTEhNZVFaQXg4d2ZSZ21qalFVN0JwMXQ0alFGaWNPOHZTdG8?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "284a17761b9f",
+      "date": "2026年10月31日",
+      "title": "佐賀大学、ランサムウェアによるサイバー攻撃で約8万人の個人情報漏洩のおそれ-ランサムウェアグループ「The Gentlemen」が犯行声明|セキュリティニュースのセキュリティ対策Lab",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3dzRnNpRzFzOGxXNlpfZU5xc2tsUDE0QUx1dXVqN2hwclNqb2JTZ0xWLThTVWV5Y1hsZEdyRDRkYXR6R3FwcEpmcEY1T0Jxc1RYai1GUHBOa0NlM0ZpbU9YcHJsXzYtUlFOYWt5aEpXS25iRXZDZmdTRmZkSWw5VEdsZVZ2bEJQR2VOVWxYcFYxNjZlSTU2R2Y2bzgzTVVhZndz?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "ランサムウェア",
+      "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "3c984ded68ac",
+      "date": "2026年10月30日",
+      "title": "県立高の教諭と生徒のメールアカウントが不正アクセス被害 千葉（毎日新聞）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iMGc1dVA0OUVxVXNQVEhTRDU2aGllSDhOUHhxMFhxSkxkck1iNGY1QUIxVWZBVnBBbHY4NVRmYWNoWFg5SklZRW9iS2c0U0c5N3pSMGk2OUxuN0JUUHhaeDFNUlRwZHNtN2Z6Z3JTNG5yQlBLUWp2MHMyOGhwV2s?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "8fde2b26c68e",
+      "date": "2026年10月30日",
+      "title": "生徒82人分の志望校や受験先など進路情報が教室に誤掲示、誤配布も…北見柏陽高校",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81ZmtRb0dYX3NYbTJXQjRiUGRVOER2akJ3Q2xuYlp4dGtxN2tGSE5CT1B3alpjU0Y1cGpFTGRLNEFFYUNfdFRhN3psZkxLdmhKWGRNN1FMbnlqQUZuVzFSVnh5cWR6VWFyQzhWYjJ3?oc=5",
+      "source": "Googleニュース（au Webポータル）",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "ffa87048b13b",
+      "date": "2026年10月30日",
+      "title": "大原学園に不正アクセス、採用応募者の履歴書や大学院生の個人情報に漏えいのおそれ 教職員の顔写真も対象",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmdjSVdmS3ZVbDFpN2VVTExlaDdPQVNZOUQ2RC1uN2tBZjZxZnNNRzNYLWYtZTdfU0NjMkdXOWlab2p0MERqMTdac3hrRlZhMncza2d4aHZSNjFPeDhGbnVlNG1DNVR3Nkp1ZUNRQTJKMlhyNVVEczBkZ050VmFpU3Z4LXFOUlZWbGJJNDhrZWhtb2R3UVVPWUE0bEJLMXVqaDN4VkxBUkhvTGpmM0oyNHRxTl83Z3NrR1RrU2ln?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "831bdb7d93a1",
+      "date": "2026年10月30日",
+      "title": "佐賀大学 ランサムウェア被害で8万人分の個人情報流出か",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tdUEwbEtfcVFmRjdvRjNHLWQ3dmpLcGdrUU5tWER4Z2t4ekhDZVBDNUMwazlmWENtOUxkTmF2VFVjcnFFZEdDZTlsMkw0THZTR1FlTUFDdVNfdFZDTUEw?oc=5",
+      "source": "Googleニュース（NHKニュース）",
+      "category": "ランサムウェア",
+      "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "0157b6a71e17",
+      "date": "2026年10月29日",
+      "title": "千葉県立高校7校のメールアカウントに不正アクセス 迷惑メール48万5,446件を送信、個人情報の漏えいは認められず",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUUl1S0tzVkRHQWNvRFI2bnJJMHdOemVUZlZXUEdsQ3NmNHNCdlU5Q1lfM3pvQXh6a1IycG04d0hiT0lYUEFtMzN1SmhPeXRUV25FekRHc3Q4ekNnU1JaQTZrb2VCeTF3elZxWnFfd0U4TG4tQ3UwLU50RUNtV3l2Mm9hNklZQ0pfZkdCa21welpLNGtFVTJDaDFORmdUWFQxTU5ja3Zn?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "cfc3ba6b55e0",
+      "date": "2026年10月29日",
+      "title": "金融機関から教育、飲食まで被害拡大 韓国でも相次ぐ個人情報流出",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tbV9SUHVMNjdkZE1MZWF4dmdWUnY0dnFKTndlRlQzZklFVDNORmp0MWRBVHA3VnRRNVhzdUdRSGw1UjZaZGF6QUtXOFk2M0hTeUZDMGNwWWFsbWN4eGlLbWxjNjhIUUE?oc=5",
+      "source": "Googleニュース（朝日新聞）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "fcb546527a56",
+      "date": "2026年10月29日",
+      "title": "学校メールに不正アクセス 大量送信を停止 千葉県教委（千葉日報オンライン）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43R1Iwd2Rrc2JzRnFHUHIyWGNFV0VvbXBTNG1FM2RNRDd2TEhrSFNYZUFWT0I3SVlQRzZDeWlQV3lfaWo2Z2IwejRPVUtKR2dDTE43RW93OG1tOTB5djVWSEZMMFpRUUZYdE9ETzNBWmh6Qks2Nzc1WTZhOHl1Rjg?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "bb3236a6e73e",
+      "date": "2026年10月29日",
+      "title": "保険代理店や学校職員になりすまして金銭をだまし取る詐欺行為に関する警告です。",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHJYNnlIQVdlYUQ1RXpLR2xYS3d4WE9BUjdBOHo0MFQzci1rcUlKSXAwZmFxZWdsRXdHRnY1aGJucUJNQzdUTXhERkxvTEh3WEtLcTRfM09mWEE1OE42MU84TlF0eVk4di0ySkVxamJFU0ZHSGdyc0dHNERLRVlJUmJDVWtSNWhsd3ZvSFJiNWQyWEdQN0ZYd29hRUFsc3RwZzRaRi01cEFNZFc3b2xOblpmMnBrSDQ?oc=5",
+      "source": "Googleニュース（Vietnam.vn）",
+      "category": "フィッシング",
+      "color": "purple",
+      "scale": ""
+    },
+    {
+      "id": "cf0e135d3916",
+      "date": "2026年10月29日",
+      "title": "九州大学同窓生のメール配信サービスに不正アクセス、個人情報漏えい…最大９９９９件登録か（読売新聞オンライン）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DU0NuUEJYVTN3TEl1VHA3LTUwUjItZ3ZoZzU1UHEySFE0M05SbzIxbGcwUGd4dy0yaHJ6Ty16aGUwbUJqZ1RCcVRKMFl4em1VMzB3WFg3THViVXBxTnB1ZmlkZThiZDR3WTRYOEFJOExoQldFRzR1ZmlYSEE0MDA?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "28514ba132dc",
+      "date": "2026年10月29日",
+      "title": "十文字学園女子大学のシステムに先月サイバー攻撃か 今も利用できず 個人情報漏えいの可能性も",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MMmtMRVBZS2VVaFBuN1huS3NpR0J2UkRzbzUwa3BaaU1wT1BPZEZpYVp1enpWZG9DYmVhQXF2d09GRk5YTTJPbDBhcUJyajBuTnpxSXFEZw?oc=5",
+      "source": "Googleニュース（TBS NEWS DIG）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "007e0e4faae3",
+      "date": "2026年10月29日",
+      "title": "韓国・国立釜慶大学の学費システムがハッキング、学生5,106人の個人情報流出",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14R19NY2RWX0VrX0h4RHZtRWxrd3hESi1GeTFGUHdqTWhHR0wxSEJaWTNBRjdZNTJBaVNELUt0VGZtSndqTXFqU3J6UVdBNzNXMEtESUloSms5bDYxZHlUb1A2Z2tFZHQ0ZzRPeFptUU16Y1dk?oc=5",
+      "source": "Googleニュース（BigGo ファイナンス）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "7711e334c3c1",
+      "date": "2026年10月29日",
+      "title": "国立釜慶大、授業料収納システムに不正アクセス…5108人の個人情報流出",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGdQbUltUmgyWGRpTjR1c0FxaW9PLWZEd2xjRkJ1ZHBJajBhYjdMRnMyTkVITkg4SmUzWDJ4VjV6X1J3R0h4WnE4VU5ZYlk4VGVadDRzRXZuXzRDRXp6WXhNUHQ3M1hQZG5yWFVINWcwUjVBZEc1NkRFUF9WbzAwa3gzcnFQNVZMM2NvVTFB?oc=5",
+      "source": "Googleニュース（조선일보）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "3c5e38fe455a",
+      "date": "2026年10月29日",
+      "title": "九州大学 - 九州大、不正アクセス受け情報流出 校友会メールサービス - 写真・画像(1/1)",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YR09qa3l3UjExeW1aQVJycjRLcjgyRWZJcU1rSXQxRmluWnVaVFdUZFZjMzc3SXdURXBNQlZKZ2wzNlk1ZTRqbm8wN3N3aVNIT3B1ZzBTWQ?oc=5",
+      "source": "Googleニュース（西日本新聞me）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "0d09c4343762",
+      "date": "2026年10月28日",
+      "title": "修学旅行中に県立高校教員がリュックサック紛失 生徒226人分の個人情報記載",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNlBhSUVTblB4YWFiM1p3dVFrekE4MVBoMHJHTUtjcVR6b1EwWHNWUVVVNmEwcVlJaS1sM1MtaWp3V1JtOVBuWlpiV3hONWZ4Z0Y3MG1maFM1dG5DYXFDM0lETjdjUTg5UWROeTNiNXVkTVFILW1CRF9kSE9SeWc?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "1401fb3c6f7a",
+      "date": "2026年10月28日",
+      "title": "日誌の紛失・誤廃棄判明 広島市内の児童館・放課後児童クラブ計４か所で紛失 計２か所で誤廃棄 児童の姓・学年など漏えいのおそれも | RCC NEWS | 広島ニュース | RCC中国放送 (1ページ)",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5N2pCZTFlNkN4enJYc3NoSEZpbDVUUktPYmh6blBjNXVPME1CVXNvT0NMYndNNlhQRWZ6V0t0d0wtRWNIRGtrVjdjMmFZclcxV1BDNDdGMXVtYzRhYURHWjhjaGdPa1U?oc=5",
+      "source": "Googleニュース（TBS NEWS DIG）",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "93c7e5e0b323",
+      "date": "2026年10月28日",
+      "title": "釧路市が市立小中学校の学習用端末の管理運用を委託しているポータスにランサムウェア攻撃",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Id0J0TUNXOGlYRThlTnpZVFd4LTFHcklyRURJWWR5LU03RGR2bF9JOENJSF8yVnM4NDQxaE9BVDBxTTR2eklVM1JDWlo4U3FQamwyMnRjcW9iaDQ2cGdudmhuYnkyNDRlZjN0bA?oc=5",
+      "source": "Googleニュース（ScanNetSecurity）",
+      "category": "ランサムウェア",
+      "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "c206639f0baf",
+      "date": "2026年10月28日",
+      "title": "広島学院中学校・高等学校、Microsoft 365の8アカウントに不正アクセス-過去には2,107メールボックス宛てにフィッシングメール",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVF6eUdldk1GWGRybzh1X3RIUXZBMUJaUC0yOEFQZi1FOEFfN3ZhNEI4cm42YUhlekFtNHlZbDljbE1NSFZpVHhTamY5cW1kZ3R6SjZjYUFyWkdUekNOVkE2Rm5MTlU3akZXZVo1Z3d1OU1JbVc5Z3k5OFVLMVdJREh4LXhIYWxSQ2J1dTZodXZ0TWI3RnZpRXVR?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "フィッシング",
+      "color": "purple",
+      "scale": ""
+    },
+    {
+      "id": "7771f0a8c1ce",
+      "date": "2026年10月28日",
+      "title": "大阪府立高校がFAX誤送信 AI検索の番号確認不足で個人情報漏えい",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40UTkyWm9zbURtMG93OFA1WnJKMFd5MkJ2T1ZYcmtYNW1KMHFCMWIyRGJ3SURIejFaS29YNWE3MmJnVEdzMTlvNVN2OWdtS3dQWVVXdFY1VXR6YUZKQVVR?oc=5",
+      "source": "Googleニュース（PlusWeb3）",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "9a3ab791fe43",
+      "date": "2026年10月28日",
+      "title": "県立高校7校でメールアカウント不正利用 約48万件の迷惑メール送信（チバテレ）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PV2VYYVNOeXRKYXVSV0FaVFZfYXU1eFBVTjBkckpxank1eElJUk1QME9NV0lOTFZmYWJZZG5KaW8tUXdJUFhEZFB1MGw4dmFEN2xHYWxsVlV4aU9tM2hLcHJlZWZFREhXLVc0MWt4Y3dLWTFIVzhOOGRvSC13NE0?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "e0f311ec80b8",
+      "date": "2026年10月28日",
+      "title": "不正アクセス問題、教委支援求める 「単独対応難しい」衆院文科委",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaNHJIVGxoQkJSa3djbXBmd3RvNG5sZkloZTJBQ1g1SE9LeUY4SnVTYXR3ZHZPT2NGb2M1MjBhcHJlVG1kWHVzVUgtNTBLdDBBRTRGQ3FB?oc=5",
+      "source": "Googleニュース（教育新聞）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "ab9930a7141c",
+      "date": "2026年10月28日",
+      "title": "不正アクセスに備え予防的メンテナンスで小学校も対応追われる",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rWmNsQzU3RmdZdVJ0ZVplbEI0Z3FwTXcwUjhiNGZJeEVPeDctNUg5aUdaOEtPUGZBRUltc0dFVTM5QmZrTnczXzk2ZEJiUEJ4Umd6cDNiWnBKVk1JS3hz?oc=5",
+      "source": "Googleニュース（NHKニュース）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "23b5dc5d7d48",
+      "date": "2026年10月28日",
+      "title": "九州大学校友会の”メール配信サービス”に不正アクセス 最大9999件の氏名とアドレスが流出した可能性（RKB毎日放送）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjWkpRODgxWFIxQmlyd3NjTDF0SHpWX3RrdzNmR2M0WmJHbm5SZVdjVEJXQW1zZWx1OVF6WW1OS1YxTTRKU1c2SG9WVGc3dko5ak9qOTQwcjBrakI0UzdaSy1zZjYyTFdvbXl0SzBncWQwYzhCcVd0WDN0SXlVbE0?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "719b8a557780",
+      "date": "2026年10月28日",
+      "title": "【GMOサイバー攻撃】約120万円被害も…顔写真流出で「パスワード勝手に再発行」通販も株も“入り放題”に?大阪大学・猪俣敦夫教授が指摘する「なりすましログイン」の恐怖",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aRDF3dE1PUzRzSEdyQlBFZzRHMnFqRmFfeW45MEhVSHhQN3AzdzRVN0pIMDVWTmtUOUdwMWtjQXdPTm9RYXRTRm1ORDZXUWFjR0FFWFBuaU1XbFdMUzM1eko5S3BhdEpKMEpHTWxHanhTMVZlOWZKRjduZlVRM2s?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "フィッシング",
+      "color": "purple",
+      "scale": ""
+    },
+    {
+      "id": "1836b3441b67",
+      "date": "2026年10月27日",
+      "title": "茨城県生涯学習情報提供システム メールアドレス1390件漏えいか 県教委（茨城新聞クロスアイ）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LZ0dwLWtaQkxLYXc0UFlsckhwbDJfS2NfcWwyTlphSEg0WHNwSmJBVkF1U0x1V2VJU0NCV2JxM1NuTjJ0QnNyN2hQZHZtcTRjMGx2eTVWYUVJRk5WWVYzdVhZRFBkVUVYWkxlaUpkd3pWNmNwa2dDVk5rcVVKWnM?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "b47d710fdc66",
       "date": "2026年10月26日",
@@ -10,8 +329,8 @@
       "description": "神奈川県厚木市は、市内複数の小中学校で、児童生徒や保護者の個人情報を、本人の同意なくPTAへ提供していたことを明らかにした。",
       "url": "https://www.security-next.com/191495",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -26,17 +345,6 @@
       "scale": ""
     },
     {
-      "id": "2714393d12a7",
-      "date": "2026年10月9日",
-      "title": "ネットラーニング、「教育現場の情報セキュリティ研修、何から始める？事例で学ぶ実践ノウハウ」29日開催",
-      "description": "ネットラーニングは、オンラインウェビナー「教育現場の情報セキュリティ研修、何から始める？事例で学ぶ実践ノウハウ」を10月29日に開催する。 教育機関では、学生・教職員の個人情報や研 […]",
-      "url": "https://ict-enews.net/2026/10/09netlearning-2/",
-      "source": "ICT教育ニュース",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
       "id": "734900b40c28",
       "date": "2026年10月8日",
       "title": "関係者の個人情報や口座情報が流出の可能性 - 修道学園",
@@ -45,17 +353,6 @@
       "source": "Security NEXT",
       "category": "情報セキュリティ",
       "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "598d5fb2d08f",
-      "date": "2026年10月5日",
-      "title": "複数サイトに不正アクセス、プラグイン脆弱性が標的に - ベネッセグループ会社",
-      "description": "ベネッセコーポレーションのグループ会社で総合教育サービスを提供するアップは、運営する2サイトが不正アクセスを受け、採用応募者などの個人情報が流出した可能性があることを明らかにした。",
-      "url": "https://www.security-next.com/190961",
-      "source": "Security NEXT",
-      "category": "不正アクセス",
-      "color": "orange",
       "scale": ""
     },
     {
@@ -131,19 +428,8 @@
       "description": "宮崎県は、県立学校地区生徒寮の運営を委託している宮崎県奨学会がサポート詐欺に遭ったことを明らかにした。内部に個人情報が保存されたパソコンが遠隔操作されたという。",
       "url": "https://www.security-next.com/189985",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "0e5c3b981a06",
-      "date": "2026年9月13日",
-      "title": "兵庫県多可町、教員の負担軽減と情報管理一元化へＳｋｙと校務スマート化支援アプリの実証研究開始",
-      "description": "多可町教育委員会（兵庫県）は、教員による私用スマートフォンの利用課題に対応するため、Ｓｋｙと共同で実証研究を開始した。近年、学校現場では行事の写真撮影や連絡に私用スマホが使われることがあり、情報セキュリティリスクや管理の […]",
-      "url": "https://www.kknews.co.jp/news/20260913o02",
-      "source": "教育家庭新聞",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "フィッシング",
+      "color": "purple",
       "scale": ""
     },
     {
@@ -166,17 +452,6 @@
       "source": "Security NEXT",
       "category": "紛失・盗難",
       "color": "amber",
-      "scale": ""
-    },
-    {
-      "id": "9825fc87312c",
-      "date": "2026年9月9日",
-      "title": "広教、2027年7月の法制化を見据えた教育情報セキュリティポリシー改訂セミナー動画を公開",
-      "description": "広島県教科用図書販売（広教）は、教育委員会および学校関係者を対象とした第8回オンラインセミナー「地方自治法施行規則改訂等に伴う教育情報セキュリティポリシーの改訂にむけて」の動画を無料公開している。事前申し込みは不要で、オ […]",
-      "url": "https://www.kknews.co.jp/news/20260909o03",
-      "source": "教育家庭新聞",
-      "category": "情報セキュリティ",
-      "color": "gray",
       "scale": ""
     },
     {
@@ -219,8 +494,8 @@
       "description": "福岡県は、県内高校の体験入学参加者申し込みサイトにおいて、申込者の個人情報が流出したことを明らかにした。",
       "url": "https://www.security-next.com/189480",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -241,8 +516,8 @@
       "description": "静岡県長泉町は、大量の公文書を自宅に不正に持ち帰っていた同町教育委員会の職員に対し、懲戒処分を実施した。",
       "url": "https://www.security-next.com/189426",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "紛失・盗難",
+      "color": "amber",
       "scale": ""
     },
     {
@@ -252,8 +527,8 @@
       "description": "京都府は、同府が運営を委託して設置しているオンデマンド学習サイト「KYO育tv.」において、会員の個人情報がインターネット上で閲覧できる状態になっていたことを明らかにした。",
       "url": "https://www.security-next.com/189328",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -274,8 +549,8 @@
       "description": "東海村社会福祉協議会は、夏休み期間の小学生向けイベント事業で利用した参加申し込みフォームに不備があり、個人情報が流出したことを明らかにした。",
       "url": "https://www.security-next.com/188972",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -301,36 +576,14 @@
       "scale": ""
     },
     {
-      "id": "66fd7aecc883",
-      "date": "2026年8月24日",
-      "title": "私物スマホ、全面禁止でも約4割が利用～私物スマホ利用実態を調査",
-      "description": "教職員の私物スマートフォン（以下、私物スマホ）利用における情報漏洩リスクや盗撮などの不祥事等を受けて、私物スマホの全面禁止や利用制限を行っている教育委員会は多い。一方で公用スマホは約83％以上が未導入であり、私物スマホ利 […]",
-      "url": "https://www.kknews.co.jp/news/282n01",
-      "source": "教育家庭新聞",
-      "category": "調査・報告",
-      "color": "blue",
-      "scale": ""
-    },
-    {
       "id": "e846b01dc6f6",
       "date": "2026年8月24日",
       "title": "休眠中サーバがランサム被害、内部に個人情報 - システム開発会社",
       "description": "オンライン試験システムの開発、販売を手がける教育ソフトウェアは、契約している休眠中のレンタルサーバがサイバー攻撃を受けたことを明らかにした。内部に個人情報が保存されていたという。",
       "url": "https://www.security-next.com/189257",
       "source": "Security NEXT",
-      "category": "不正アクセス",
-      "color": "orange",
-      "scale": ""
-    },
-    {
-      "id": "def77aa24234",
-      "date": "2026年8月24日",
-      "title": "医療機器会社が手術室でのX線画像を保有、経緯を調査 - 金沢大病院",
-      "description": "金沢大学付属病院は、患者のX線画像を医療機器事業者が保有していたことを明らかにした。担当医師と事業者で説明が異なり、撮影から情報共有に至った経緯などがわかっていない。",
-      "url": "https://www.security-next.com/189121",
-      "source": "Security NEXT",
-      "category": "調査・報告",
-      "color": "blue",
+      "category": "ランサムウェア",
+      "color": "red",
       "scale": ""
     },
     {
@@ -340,8 +593,8 @@
       "description": "沖縄県那覇市は、市立学校の教員がパソコンの利用中にサポート詐欺に遭ったことを明らかにした。サポート詐欺に関する校内研修を受けた際、自身が被害に遭っていたことに気づいたという。",
       "url": "https://www.security-next.com/188878",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "フィッシング",
+      "color": "purple",
       "scale": ""
     },
     {
@@ -362,8 +615,8 @@
       "description": "東海大学は、研修厚生施設「東海大学山中湖セミナーハウス」のウェブサイトが改ざんされたことを明らかにした。サーバ内部には個人情報が保存されており、影響などを調べている。",
       "url": "https://www.security-next.com/188455",
       "source": "Security NEXT",
-      "category": "調査・報告",
-      "color": "blue",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
@@ -373,8 +626,8 @@
       "description": "栃木県矢板市は、市内小学校において児童の健康診断結果および心臓健診結果を、別の児童へ誤って配布したことを明らかにした。",
       "url": "https://www.security-next.com/188069",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -395,8 +648,8 @@
       "description": "同志社大学は、個人情報を含む複数の共有ファイルに対し、本来アクセスが制限される学生や教職員からアクセスが可能な状態だったことを公表した。",
       "url": "https://www.security-next.com/187998",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -406,8 +659,8 @@
       "description": "杏林大学は、教員がサポート詐欺の被害に遭い、第三者が遠隔からパソコンを操作できる状態に陥ったことを明らかにした。端末内部には個人情報が保存されていたという。",
       "url": "https://www.security-next.com/188200",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "フィッシング",
+      "color": "purple",
       "scale": ""
     },
     {
@@ -417,8 +670,8 @@
       "description": "三重県は、県立高校が実施するオープンスクールの申し込みフォームにおいて設定ミスがあり、個人情報が閲覧可能な状態だったことを明らかにした。",
       "url": "https://www.security-next.com/188148",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -428,8 +681,8 @@
       "description": "八王子中学校・高校を運営する八王子学園は、第三者によるサイバー攻撃を受けたことを明らかにした。詳細について調査を進めている。",
       "url": "https://www.security-next.com/187991",
       "source": "Security NEXT",
-      "category": "不正アクセス",
-      "color": "orange",
+      "category": "ランサムウェア",
+      "color": "red",
       "scale": ""
     },
     {
@@ -444,28 +697,6 @@
       "scale": ""
     },
     {
-      "id": "4989c64c6a37",
-      "date": "2026年7月29日",
-      "title": "地域部活動の運営管理をデジタルで効率化 hacomono、情報共有や個人情報権限管理などの機能を拡充",
-      "description": "運動施設向けシステムを手掛けるhacomonoは7月24日、部活動の地域展開や地域クラブ活動の運営基盤を支援するため、オールインワン・マネジメントシステム「hacomono」の機能を大幅に拡充したと発表。少子化や教員の働 […]",
-      "url": "https://www.kknews.co.jp/news/20260729o04",
-      "source": "教育家庭新聞",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "43c85dddf708",
-      "date": "2026年7月29日",
-      "title": "愛媛県とマイナビが協定締結 高校生の地元定着へ探究学習プログラム「Locus」活用",
-      "description": "愛媛県とマイナビは7月23日、「『若者に選ばれる愛媛』の実現に向けた連携と協力に関する協定」を締結した。同社が自治体と高校生等を対象にした人材還流協定を結ぶのは全国で4県目。若者の県外流出が深刻化する中、高校で必修化され […]",
-      "url": "https://www.kknews.co.jp/news/20260729o02",
-      "source": "教育家庭新聞",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
       "id": "6a67e32d51ca",
       "date": "2026年7月28日",
       "title": "高校で生徒証明写真データ含む光ディスクを紛失 - 大阪府",
@@ -477,36 +708,14 @@
       "scale": ""
     },
     {
-      "id": "87119e82e847",
-      "date": "2026年7月27日",
-      "title": "生徒と保護者を対象に情報モラル講演を実施～SNSの安全な使い方を伝える～福島県喜多方市",
-      "description": "喜多方市立第三中学校は、SNS上でのトラブルや誹謗中傷が深刻な社会問題となっている中、生徒と保護者に向けて情報モラル講演を7月8日に実施。 講師は情報セキュリティの国際資格｢CISSP｣を持つNTT東日本ビジネス開発本部 […]",
-      "url": "https://www.kknews.co.jp/post_committee/260727_kitakatasi",
-      "source": "教育家庭新聞",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "c1a4ac4f5373",
-      "date": "2026年7月27日",
-      "title": "学校ネットワークの通信機器などを更新～仮想ホストサーバ機器を提供～栃木県佐野市",
-      "description": "佐野市教育センターは、学校ネットワーク通信機器や学校系サーバ機器などを更新し、情報セキュリティ対策の強化を図るにあたり条件付一般競争入札を6月30日に公示。 学校コアL3スイッチ装置はVLAN機能でインターネット接続セグ […]",
-      "url": "https://www.kknews.co.jp/post_nyusatsu/269727_sanosi",
-      "source": "教育家庭新聞",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
       "id": "7ada885627cb",
       "date": "2026年7月23日",
       "title": "個人情報含む書類を誤配布、様式変更で印字に気づかず - 郡山市",
       "description": "福島県郡山市は、公立保育所と民間保育施設において、個人情報が含まれる書類の誤配布が発生したことを明らかにした。",
       "url": "https://www.security-next.com/187524",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -554,28 +763,6 @@
       "scale": ""
     },
     {
-      "id": "da60a57d981a",
-      "date": "2026年7月15日",
-      "title": "広教、教育情報セキュリティのセミナー動画公開、教員の意識と知識にギャップも",
-      "description": "広島県教科用図書販売（広教）はこのほど、「教育情報セキュリティの実態とこれからの学び」と題したオンラインセミナー動画を公開した。学校現場における情報セキュリティの現状を伝え、今後の学校運営に必要な学びを提示する内容となっ […]",
-      "url": "https://www.kknews.co.jp/news/20260715o03",
-      "source": "教育家庭新聞",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "29e6f1291c99",
-      "date": "2026年7月15日",
-      "title": "広教、「教育情報セキュリティの実態とこれからの学び」セミナー動画を公開",
-      "description": "広島県教科用図書販売は13日、南九州大学 人間発達学部 子ども教育学科 准教授の渡邉光浩氏を講師に迎え、「教育情報セキュリティの実態とこれからの学び」と題したセミナー動画を公開した […]",
-      "url": "https://ict-enews.net/2026/07/15hirokyou-2/",
-      "source": "ICT教育ニュース",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
       "id": "f208f1e4cfae",
       "date": "2026年7月14日",
       "title": "個人情報含むファイルを誤送信、別ファイルと勘違い - 大阪市",
@@ -593,8 +780,8 @@
       "description": "宮城県は、県内高校において、採点済みの答案データを教諭がグループウェアに誤掲載するミスがあったことを明らかにした。",
       "url": "https://www.security-next.com/186975",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -637,8 +824,8 @@
       "description": "近畿大学は、個人情報を含むファイルが意図せず一部学生から閲覧できる状態となっていたことを明らかにした。",
       "url": "https://www.security-next.com/186754",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -664,17 +851,6 @@
       "scale": ""
     },
     {
-      "id": "d0e7b76bfa7d",
-      "date": "2026年7月3日",
-      "title": "AIガイドライン改訂へ　次世代校務DX支援メニューと共同調達を整理　文科省デジタル学習基盤特別委員会",
-      "description": "文部科学省は６月30日、第10回デジタル学習基盤特別委員会（委員長＝堀田龍也東京学芸大学副学長）を開催。学校におけるAI活用の現状等、地方自治体法施行規則改正等に伴う教育情報セキュリティポリシーの改訂等、次世代校務DX環 […]",
-      "url": "https://www.kknews.co.jp/news/0702n01",
-      "source": "教育家庭新聞",
-      "category": "調査・報告",
-      "color": "blue",
-      "scale": ""
-    },
-    {
       "id": "54e3e321434b",
       "date": "2026年7月3日",
       "title": "関係者リストを誤送信、入力用様式と同一ファイル名で取り違え - 堺市",
@@ -692,8 +868,8 @@
       "description": "大阪教育大学は、学生や教職員の個人情報を含むファイルを、誤ってメールに添付して送信したことを明らかにした。",
       "url": "https://www.security-next.com/186643",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -703,8 +879,8 @@
       "description": "東北文化学園大学は、教員がサポート詐欺に遭ったことを明らかにした。影響など詳細について調査を進めている。",
       "url": "https://www.security-next.com/186648",
       "source": "Security NEXT",
-      "category": "調査・報告",
-      "color": "blue",
+      "category": "フィッシング",
+      "color": "purple",
       "scale": ""
     },
     {
@@ -725,8 +901,8 @@
       "description": "沖縄県石垣市は、市内中学校においてサポート詐欺の被害が発生したことを明らかにした。第三者によって侵害された校務用端末内部には個人情報が保存されていたという。",
       "url": "https://www.security-next.com/186441",
       "source": "Security NEXT",
-      "category": "不正アクセス",
-      "color": "orange",
+      "category": "フィッシング",
+      "color": "purple",
       "scale": ""
     },
     {
@@ -763,25 +939,14 @@
       "scale": ""
     },
     {
-      "id": "03c3bdf8a42d",
-      "date": "2026年6月22日",
-      "title": "患者情報含むUSBメモリを一時紛失 - 関西医科大病院",
-      "description": "関西医科大学付属病院は、患者の個人情報が保存されたUSBメモリを一時的に紛失していたことを明らかにした。",
-      "url": "https://www.security-next.com/185803",
-      "source": "Security NEXT",
-      "category": "紛失・盗難",
-      "color": "amber",
-      "scale": ""
-    },
-    {
       "id": "4cdbab37d405",
       "date": "2026年6月22日",
       "title": "県立高でサポート詐欺被害、端末内部に個人情報 - 島根県",
       "description": "島根県は、県内高校において教員がサポート詐欺に遭ったことを明らかにした。端末内部には生徒に関する個人情報が保存されていたという。",
       "url": "https://www.security-next.com/185864",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "フィッシング",
+      "color": "purple",
       "scale": ""
     },
     {
@@ -791,8 +956,8 @@
       "description": "神奈川県小田原市は、市内の幼稚園や一部小中学校において、園児や児童生徒の個人情報が同意なくPTAへ提供されていたことを明らかにした。",
       "url": "https://www.security-next.com/185935",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -807,28 +972,6 @@
       "scale": ""
     },
     {
-      "id": "2e810e1b4a4c",
-      "date": "2026年6月19日",
-      "title": "JAPET&CEC、生成AI活用と学校情報セキュリティに関するセミナーを7/18に開催",
-      "description": "一社・日本教育情報化振興会（JAPET＆CEC）は7月18日に、生成AI活用や学校情報セキュリティをテーマとした無料セミナー「AIが広げる新しい授業と、クラウドが変える先生の働き方」を、東京・品川のビジョンセンター品川ア […]",
-      "url": "https://www.kknews.co.jp/news/20260619o04",
-      "source": "教育家庭新聞",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "9f79449980dc",
-      "date": "2026年6月18日",
-      "title": "「Splunk」向けのAI拡張ツールに複数の脆弱性",
-      "description": "データ基盤「Splunk」上でAIや機械学習を利用するための拡張ツール「Splunk AI Toolkit」に複数の脆弱性が明らかとなった。アップデートが呼びかけられている。",
-      "url": "https://www.security-next.com/186052",
-      "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
       "id": "05613936294e",
       "date": "2026年6月18日",
       "title": "JMC、学校・教育機関の個人情報漏えい 2025年度は延べ31万人分",
@@ -840,25 +983,14 @@
       "scale": ""
     },
     {
-      "id": "ab0d511b1af1",
-      "date": "2026年6月17日",
-      "title": "JMC、JAPET&CECが主催する生成AI活用や学校情報セキュリティをテーマとした7月18日の無料セミナーに参画",
-      "description": "JMCは、日本教育情報化振興会（JAPET&CEC）が主催する、生成AI活用や学校情報セキュリティをテーマとした無料セミナー「AIが広げる新しい授業と、クラウドが変える先生 […]",
-      "url": "https://ict-enews.net/2026/06/17jmc-edu/",
-      "source": "ICT教育ニュース",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
       "id": "d49fdc48eb03",
       "date": "2026年6月16日",
       "title": "机の中に生徒資料を置き忘れ、複数生徒が閲覧 - 大阪府",
       "description": "大阪府は、府内高校において、教員が教室に置き忘れた個人情報を含む資料を複数の生徒が閲覧したことを明らかにした。",
       "url": "https://www.security-next.com/185413",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "紛失・盗難",
+      "color": "amber",
       "scale": ""
     },
     {
@@ -868,8 +1000,8 @@
       "description": "神奈川県川崎市のウェブサイトに掲載された市教育委員会の会議資料に個人情報が含まれていたことが明らかとなった。",
       "url": "https://www.security-next.com/185746",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -895,17 +1027,6 @@
       "scale": ""
     },
     {
-      "id": "3071d2aeefe0",
-      "date": "2026年6月12日",
-      "title": "サポート詐欺被害で患者情報流出の可能性 - 藤医大病院",
-      "description": "藤田医科大学病院は、看護師が私物パソコンでサポート詐欺に遭ったことを明らかにした。端末内部の患者情報が外部へ流出した可能性がある。",
-      "url": "https://www.security-next.com/185406",
-      "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
       "id": "a361f212f15a",
       "date": "2026年6月11日",
       "title": "出張先の移動中にPCを置き忘れて紛失 - 高知工科大",
@@ -914,17 +1035,6 @@
       "source": "Security NEXT",
       "category": "紛失・盗難",
       "color": "amber",
-      "scale": ""
-    },
-    {
-      "id": "1452a92a5698",
-      "date": "2026年6月8日",
-      "title": "GMOインターネットグループ、陸上自衛隊高等工科学校でITリテラシー・サイバーセキュリティ講話を実施",
-      "description": "GMOインターネットグループでサイバー攻撃対策事業を展開するGMOサイバーセキュリティbyイエラエは5日、5月12日に神奈川県横須賀市の陸上自衛隊高等工科学校で、全校生徒約1000 […]",
-      "url": "https://ict-enews.net/2026/06/08gmo-4/",
-      "source": "ICT教育ニュース",
-      "category": "不正アクセス",
-      "color": "orange",
       "scale": ""
     },
     {
@@ -947,28 +1057,6 @@
       "source": "Security NEXT",
       "category": "誤操作・誤公開",
       "color": "yellow",
-      "scale": ""
-    },
-    {
-      "id": "da9ae5352d44",
-      "date": "2026年6月4日",
-      "title": "「MLflow」にアクセスキーなど機密情報が流出する深刻な脆弱性",
-      "description": "機械学習ライフサイクル管理ツール「MLflow」に脆弱性が明らかとなった。アクセスキー、暗号化鍵など重要な情報が外部に流出するおそれがある。",
-      "url": "https://www.security-next.com/185397",
-      "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "ed609ce2fa31",
-      "date": "2026年6月4日",
-      "title": "JPRS、ドメインやDNSを学べるマンガ冊子を教育機関へ無償配布",
-      "description": "日本レジストリサービス（JPRS）は、マンガで気軽にドメイン名やDNSのことを学ぶことができる「ポン太のネットの大冒険 ～楽しくわかるインターネットのしくみ～」の無償配布を実施する。",
-      "url": "https://www.security-next.com/185403",
-      "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
       "scale": ""
     },
     {
@@ -1000,8 +1088,8 @@
       "description": "静岡県牧之原市は、市内中学校でサポート詐欺による被害が発生したことを明らかにした。金融機関の口座から外部口座へ約1000万円が不正送金されたという。",
       "url": "https://www.security-next.com/185320",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "フィッシング",
+      "color": "purple",
       "scale": ""
     },
     {
@@ -1044,8 +1132,8 @@
       "description": "津田塾大学は、元職員が学生に関する個人情報を匿名掲示板に投稿していたことを明らかにした。元職員は、閲覧権限がない個人情報にもアクセスできた可能性があるという。",
       "url": "https://www.security-next.com/184944",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -1066,8 +1154,8 @@
       "description": "東北学院大学は、メールで公開講座について案内を行った際、送信ミスが発生し、メールアドレスが流出したことを明らかにした。",
       "url": "https://www.security-next.com/185187",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -1077,8 +1165,8 @@
       "description": "北九州市立大学は、職員が偽警告にだまされ、利用していたパソコンを遠隔から操作されたことを明らかにした。端末内部には個人情報が保存されていたという。",
       "url": "https://www.security-next.com/185007",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "フィッシング",
+      "color": "purple",
       "scale": ""
     },
     {
@@ -1090,17 +1178,6 @@
       "source": "Security NEXT",
       "category": "ランサムウェア",
       "color": "red",
-      "scale": ""
-    },
-    {
-      "id": "7d0751fe323a",
-      "date": "2026年5月28日",
-      "title": "委託業者が患者情報含む診断用機器を紛失 - 東邦大大森病院",
-      "description": "東邦大学医療センター大森病院は、業務委託先において患者情報が保存された診断用機器が所在不明となっていることを明らかにした。",
-      "url": "https://www.security-next.com/184680",
-      "source": "Security NEXT",
-      "category": "紛失・盗難",
-      "color": "amber",
       "scale": ""
     },
     {
@@ -1137,25 +1214,14 @@
       "scale": ""
     },
     {
-      "id": "d3d85059d658",
-      "date": "2026年5月22日",
-      "title": "AI CROSS、中村学園への生成AI活用支援を開始　安全なAI活用の自走を伴走",
-      "description": "AI CROSSは21日、中村学園（福岡県福岡市）への生成AI活用コンサルティング支援を4月から開始したと発表した。 教育機関へのサイバー攻撃が急増すると同時に、生成AIの学内活用 […]",
-      "url": "https://ict-enews.net/2026/05/22ai-cross-2/",
-      "source": "ICT教育ニュース",
-      "category": "不正アクセス",
-      "color": "orange",
-      "scale": ""
-    },
-    {
       "id": "6cef3dbecb6a",
       "date": "2026年5月22日",
       "title": "県立高の授業見学申込フォームで個人情報が閲覧可能に - 群馬県",
       "description": "群馬県は、県内高校において、授業見学の申し込みフォームに不備があったことを明らかにした。個人情報が閲覧できる状態だったという。",
       "url": "https://www.security-next.com/184662",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -1181,28 +1247,6 @@
       "scale": ""
     },
     {
-      "id": "7138a51864f5",
-      "date": "2026年5月19日",
-      "title": "なりすましメール対策技術SPFとDMARCの導入状況、国内338大学の適切率は4.1%＝GMOブランドセキュリティ調べ＝",
-      "description": "GMOインターネットグループのGMOブランドセキュリティは18日、国内338大学が保有するドメインを対象に、なりすましメール対策技術SPFおよびDMARCの導入状況に関して調査した […]",
-      "url": "https://ict-enews.net/2026/05/19gmo-5/",
-      "source": "ICT教育ニュース",
-      "category": "調査・報告",
-      "color": "blue",
-      "scale": ""
-    },
-    {
-      "id": "173ba8e74180",
-      "date": "2026年5月19日",
-      "title": "職員が患者情報を第三者に漏洩 - 福島県立医科大病院",
-      "description": "福島県立医科大学付属病院は、職員が患者情報を第三者に漏洩していたことを明らかにした。",
-      "url": "https://www.security-next.com/184355",
-      "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
       "id": "551f93cc61a2",
       "date": "2026年5月14日",
       "title": "修学旅行の添乗員が生徒の個人情報含む資料を紛失 - 北広島市",
@@ -1220,8 +1264,8 @@
       "description": "仙台市は、小学校教員が校務で使用している「Google Classroom」が表示されたパソコンの画面を撮影し、画像をSNSに投稿していたことを明らかにした。",
       "url": "https://www.security-next.com/184219",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -1231,41 +1275,8 @@
       "description": "福岡県北九州市は、開示した教員採用試験に関する行政文書に不備があり、墨塗りされた不開示情報の個人情報が参照できる状態だったことを明らかにした。",
       "url": "https://www.security-next.com/184173",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "b20ca8063b6d",
-      "date": "2026年5月7日",
-      "title": "「PyTorch Lightning」に不正コード - 認証情報窃取のおそれ",
-      "description": "機械学習ライブラリ「PyTorch」向け開発フレームワーク「PyTorch Lightning」において、悪意あるコードが含まれるパッケージが「PyPI」経由で一時公開された。認証情報が窃取されるおそれがあり、関連システムの再構築や認証情報の変更が呼びかけられている。",
-      "url": "https://www.security-next.com/184110",
-      "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "a7fad840f9a9",
-      "date": "2026年5月7日",
-      "title": "サーバやNASに第三者がアクセス - 東北大や同大病院",
-      "description": "東北大学は、同大のサーバや大学病院のネットワークストレージなどが侵害されたことを明らかにした。患者の個人情報が流出したおそれがあるという。",
-      "url": "https://www.security-next.com/184105",
-      "source": "Security NEXT",
-      "category": "不正アクセス",
-      "color": "orange",
-      "scale": ""
-    },
-    {
-      "id": "f8284394d0ac",
-      "date": "2026年5月6日",
-      "title": "大阪学院大、生成AI利用ガイドラインを策定〜学生・教職員が守るべき基本7原則",
-      "description": "大阪学院大学・大阪学院大学短期大学部は4月、「生成AI利用ガイドライン」を策定した。同ガイドラインは、生成AIを学修・研究・業務に活用し、学びの質の向上を図る一方、誤情報、情報漏えい、著作権侵害等のリスクを適切に抑えるこ […]",
-      "url": "https://www.kknews.co.jp/news/20260506o04",
-      "source": "教育家庭新聞",
-      "category": "不正アクセス",
-      "color": "orange",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -1275,19 +1286,8 @@
       "description": "静岡市は、複数の市内小中学校において、保護者の同意を得ることなく児童生徒の個人情報をPTA役員へ提供していたことを明らかにした。",
       "url": "https://www.security-next.com/184008",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "20f67dec7358",
-      "date": "2026年4月30日",
-      "title": "「NVIDIA FLARE SDK」に複数の脆弱性 - 認証回避やコード実行のおそれ",
-      "description": "NVIDIAは、分散環境において連合学習を実現するためのソフトウェア開発キット「NVIDIA FLARE SDK」に複数の脆弱性が判明したことを受け、セキュリティアップデートをリリースした。",
-      "url": "https://www.security-next.com/183969",
-      "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -1330,19 +1330,8 @@
       "description": "新潟県教育委員会は、県内高校において、誤って定期試験の平均点が記載された名簿を校内で掲示したことを明らかにした。",
       "url": "https://www.security-next.com/183667",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "1bb1164822ef",
-      "date": "2026年4月22日",
-      "title": "LRM、「AI時代のフィッシングメール対策とは！？『技術』と『教育』で守るメールセキュリティを解説」セミナー 22日開催",
-      "description": "LRMとNSDは、「AI時代のフィッシングメール対策とは！？『技術』と『教育』で守るメールセキュリティを解説」をテーマに、無料セミナーを22日にオンラインで開催する。 セミナーでは […]",
-      "url": "https://ict-enews.net/2026/04/22lrm/",
-      "source": "ICT教育ニュース",
-      "category": "フィッシング",
-      "color": "purple",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -1352,8 +1341,8 @@
       "description": "摂南大学は、一部ウェブサイトが改ざんされたことを明らかにした。サイトを閉鎖して原因を調査している。",
       "url": "https://www.security-next.com/183386",
       "source": "Security NEXT",
-      "category": "調査・報告",
-      "color": "blue",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
@@ -1396,8 +1385,8 @@
       "description": "北海道恵庭市は、同市議会議員のブログにおいて、小学校の入学生名簿が公開されたことを明らかにした。すでに削除されている。",
       "url": "https://www.security-next.com/183316",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -1409,28 +1398,6 @@
       "source": "Security NEXT",
       "category": "紛失・盗難",
       "color": "amber",
-      "scale": ""
-    },
-    {
-      "id": "783ba628c95c",
-      "date": "2026年4月10日",
-      "title": "広教、研修教材「事例で学ぶ学校情報セキュリティ」をバージョンアップ　生成AI活用の基本など追加",
-      "description": "広島県教科用図書販売株式会社（広教）は4月、教職員向け情報セキュリティ研修教材「事例で学ぶ 学校情報セキュリティ」を2026年度版にバージョンアップした。 「事例で学ぶ 学校情報セキュリティ」は、学校での情報セキュリティ […]",
-      "url": "https://www.kknews.co.jp/news/20260410o03",
-      "source": "教育家庭新聞",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "4f9fd3842521",
-      "date": "2026年4月8日",
-      "title": "広教、教職員向け研修教材「事例で学ぶ 学校情報セキュリティ」バージョンアップ",
-      "description": "広島県教科用図書販売は1日、教職員向け情報セキュリティ研修教材「事例で学ぶ 学校情報セキュリティ」を2026年度版にバージョンアップした。 同教材は、東京学芸大学副学長・教職大学院 […]",
-      "url": "https://ict-enews.net/2026/04/08hirokyou/",
-      "source": "ICT教育ニュース",
-      "category": "情報セキュリティ",
-      "color": "gray",
       "scale": ""
     },
     {
@@ -1456,25 +1423,14 @@
       "scale": ""
     },
     {
-      "id": "39698904fc2c",
-      "date": "2026年4月6日",
-      "title": "医師の経験症例リスト含むUSBメモリが所在不明 - 新潟大医歯学総合病院",
-      "description": "新潟大学医歯学総合病院は、患者の個人情報を含む可能性があるUSBメモリが所在不明になっていることを明らかにした。",
-      "url": "https://www.security-next.com/182969",
-      "source": "Security NEXT",
-      "category": "紛失・盗難",
-      "color": "amber",
-      "scale": ""
-    },
-    {
       "id": "5e0ae32c5e74",
       "date": "2026年4月6日",
       "title": "県立高で学習管理サービスに成績一覧を誤掲載 - 埼玉県",
       "description": "埼玉県は、県内高校において職員が学習管理サービス上に生徒の成績一覧を誤って掲載するミスがあったことを明らかにした。",
       "url": "https://www.security-next.com/182907",
       "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -1495,19 +1451,8 @@
       "description": "埼玉大学は、特許管理において利用している業務委託先のシステムが侵害され、特許関連情報や個人情報が外部に流出した可能性があることを明らかにした。",
       "url": "https://www.security-next.com/182773",
       "source": "Security NEXT",
-      "category": "不正アクセス",
-      "color": "orange",
-      "scale": ""
-    },
-    {
-      "id": "cc3caff86332",
-      "date": "2026年4月1日",
-      "title": "「MLflow」にOSコマンドインジェクションの脆弱性 - 権限昇格のおそれ",
-      "description": "機械学習プラットフォーム「MLflow」に、コマンドインジェクションの脆弱性が明らかとなった。",
-      "url": "https://www.security-next.com/182823",
-      "source": "Security NEXT",
-      "category": "情報セキュリティ",
-      "color": "gray",
+      "category": "マルウェア感染",
+      "color": "red",
       "scale": ""
     },
     {
