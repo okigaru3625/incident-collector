@@ -2,13 +2,18 @@ name: 学校インシデント情報収集
 
 on:
   schedule:
-    # 毎日 09:00 JST（= 00:00 UTC）に実行
-    - cron: '0 0 * * *'
+    # 3時間おきに実行（UTC 0,3,6,...時 = JST 9,12,15,...時。GitHub側の混雑で遅れることがあります）
+    - cron: '0 */3 * * *'
   workflow_dispatch:
     # 手動実行も可能
 
 permissions:
   contents: write
+
+# 同時に複数回動いて push がぶつからないようにする（月次レポートと共通）
+concurrency:
+  group: update-main
+  cancel-in-progress: false
 
 jobs:
   collect:
@@ -29,10 +34,18 @@ jobs:
       - name: インシデント情報を収集
         run: python collect_incidents.py
 
-      - name: incidents.json をコミット・プッシュ
+      - name: 変更があればコミット・プッシュ
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add incidents.json
-          git diff --cached --quiet || git commit -m "chore: インシデント情報を自動更新 $(date +'%Y-%m-%d')"
-          git push
+          git add incidents.json excluded.json 2>/dev/null || git add incidents.json
+          if git diff --cached --quiet; then
+            echo "記事内容に変化がないため、コミットしません"
+            exit 0
+          fi
+          git commit -m "chore: インシデント情報を自動更新 $(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
