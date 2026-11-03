@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月3日 18:53",
-  "lastUpdatedISO": "2026-11-03T18:53:22.212155+09:00",
-  "totalCount": 119,
+  "lastUpdated": "2026年11月4日 03:52",
+  "lastUpdatedISO": "2026-11-04T03:52:12.628031+09:00",
+  "totalCount": 122,
   "incidents": [
     {
       "id": "f590f6c8262d",
@@ -15,6 +15,17 @@
       "scale": ""
     },
     {
+      "id": "eb0376e1a26b",
+      "date": "2026年11月2日",
+      "title": "大津市の中学校で教員用日報を84家庭に配信 保健室の利用など生徒の個人情報記載",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hbW55cjh5TEhkRXdqTzQ0d1ZpWnZYcGpMaWJrME1NMHp3ajE1NFdCXzFoSDZMa3A2ejZPeEl5SHlDWE1XbWtfVENNc1VOd29vMWxSSlBpcS0?oc=5",
+      "source": "Googleニュース（京都新聞デジタル）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
       "id": "1ca54ebd1f84",
       "date": "2026年10月31日",
       "title": "生徒の受験予定大学などを教室に約2か月間掲示…北海道夕張高校が「個人情報流出」としてお詫び 外部への流出は現時点で確認されず",
@@ -23,6 +34,17 @@
       "source": "Googleニュース（Yahoo!ニュース）",
       "category": "誤操作・誤公開",
       "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "a604e5bf2d6b",
+      "date": "2026年10月31日",
+      "title": "大阪公立大のシステム障害、NECの再委託先へのサイバー攻撃が原因",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BUkFTSVE1TFJZSTJEbGNEZmlQV1dLMzh2RW1RYWFUcTZZa3VYS2FSdjBqcHItMjB5MzZlQTlTZXVfNHNWTjU3bEgxR3huZ2JFVzA4YTBvZ1l5UWRKRHBYVEE0TjI?oc=5",
+      "source": "Googleニュース（朝日新聞）",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
@@ -56,6 +78,17 @@
       "source": "Googleニュース（NHKニュース）",
       "category": "ランサムウェア",
       "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "e38379c475fd",
+      "date": "2026年10月30日",
+      "title": "岩手県立大学でメールアドレス約5300件流出か 安否確認システムの連携先に不正アクセス",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuQzlpNjZtSkpxaTIyQVJ3Tm5IbXBPbGNoeHY3RXlOa09OZXFnYmY3c1c4ZzVlS3FxQ2hOLVp2am01dDlNZnF1M0MzRmRUY2tvLWdsX0p6Nl8tQQ?oc=5",
+      "source": "Googleニュース（TBS NEWS DIG）",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
