@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月3日 18:38",
-  "lastUpdatedISO": "2026-11-03T18:38:38.267238+09:00",
-  "totalCount": 133,
+  "lastUpdated": "2026年11月3日 18:53",
+  "lastUpdatedISO": "2026-11-03T18:53:22.212155+09:00",
+  "totalCount": 119,
   "incidents": [
     {
       "id": "f590f6c8262d",
@@ -15,28 +15,6 @@
       "scale": ""
     },
     {
-      "id": "5da1d52001e0",
-      "date": "2026年11月2日",
-      "title": "「サラッとバラしたぞ…」辺野古沖転覆事故を受けて、学校法人同志社が記者会見を行うが、批判が殺到した上、さらに遺族の個人情報までうっかり漏洩してしまう",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4xMUl0d0NLZmpEekI0WEV4QlZsc1J1XzNZUVlYaWJqVTJydHVmeWg3WWh4RGU3OVJZZWJKQ08zMXZkdDhQV3c?oc=5",
-      "source": "Googleニュース（Togetter）",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "bceb5b652750",
-      "date": "2026年11月2日",
-      "title": "釧路市の学習用端末の委託先がランサムウェア被害、児童生徒・教職員のアカウント情報が流出の恐れ",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oQ3ZHekVRaF9kV0tOUzM2Y3FwZDBTbUpJQU5oTG13NS1XVVZSZjFRTVczbnFoc054TEVTZ3NvMUtuUHF0emZoUzJ4cHY0Wmk0OTkw?oc=5",
-      "source": "Googleニュース（株式会社VLCセキュリティ）",
-      "category": "ランサムウェア",
-      "color": "red",
-      "scale": ""
-    },
-    {
       "id": "1ca54ebd1f84",
       "date": "2026年10月31日",
       "title": "生徒の受験予定大学などを教室に約2か月間掲示…北海道夕張高校が「個人情報流出」としてお詫び 外部への流出は現時点で確認されず",
@@ -45,28 +23,6 @@
       "source": "Googleニュース（Yahoo!ニュース）",
       "category": "誤操作・誤公開",
       "color": "yellow",
-      "scale": ""
-    },
-    {
-      "id": "284a17761b9f",
-      "date": "2026年10月31日",
-      "title": "佐賀大学、ランサムウェアによるサイバー攻撃で約8万人の個人情報漏洩のおそれ-ランサムウェアグループ「The Gentlemen」が犯行声明|セキュリティニュースのセキュリティ対策Lab",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3dzRnNpRzFzOGxXNlpfZU5xc2tsUDE0QUx1dXVqN2hwclNqb2JTZ0xWLThTVWV5Y1hsZEdyRDRkYXR6R3FwcEpmcEY1T0Jxc1RYai1GUHBOa0NlM0ZpbU9YcHJsXzYtUlFOYWt5aEpXS25iRXZDZmdTRmZkSWw5VEdsZVZ2bEJQR2VOVWxYcFYxNjZlSTU2R2Y2bzgzTVVhZndz?oc=5",
-      "source": "Googleニュース（合同会社ロケットボーイズ）",
-      "category": "ランサムウェア",
-      "color": "red",
-      "scale": ""
-    },
-    {
-      "id": "3c984ded68ac",
-      "date": "2026年10月30日",
-      "title": "県立高の教諭と生徒のメールアカウントが不正アクセス被害 千葉（毎日新聞）",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iMGc1dVA0OUVxVXNQVEhTRDU2aGllSDhOUHhxMFhxSkxkck1iNGY1QUIxVWZBVnBBbHY4NVRmYWNoWFg5SklZRW9iS2c0U0c5N3pSMGk2OUxuN0JUUHhaeDFNUlRwZHNtN2Z6Z3JTNG5yQlBLUWp2MHMyOGhwV2s?oc=5",
-      "source": "Googleニュース（Yahoo!ニュース）",
-      "category": "不正アクセス",
-      "color": "orange",
       "scale": ""
     },
     {
@@ -103,61 +59,6 @@
       "scale": ""
     },
     {
-      "id": "0157b6a71e17",
-      "date": "2026年10月29日",
-      "title": "千葉県立高校7校のメールアカウントに不正アクセス 迷惑メール48万5,446件を送信、個人情報の漏えいは認められず",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUUl1S0tzVkRHQWNvRFI2bnJJMHdOemVUZlZXUEdsQ3NmNHNCdlU5Q1lfM3pvQXh6a1IycG04d0hiT0lYUEFtMzN1SmhPeXRUV25FekRHc3Q4ekNnU1JaQTZrb2VCeTF3elZxWnFfd0U4TG4tQ3UwLU50RUNtV3l2Mm9hNklZQ0pfZkdCa21welpLNGtFVTJDaDFORmdUWFQxTU5ja3Zn?oc=5",
-      "source": "Googleニュース（合同会社ロケットボーイズ）",
-      "category": "不正アクセス",
-      "color": "orange",
-      "scale": ""
-    },
-    {
-      "id": "cfc3ba6b55e0",
-      "date": "2026年10月29日",
-      "title": "金融機関から教育、飲食まで被害拡大 韓国でも相次ぐ個人情報流出",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tbV9SUHVMNjdkZE1MZWF4dmdWUnY0dnFKTndlRlQzZklFVDNORmp0MWRBVHA3VnRRNVhzdUdRSGw1UjZaZGF6QUtXOFk2M0hTeUZDMGNwWWFsbWN4eGlLbWxjNjhIUUE?oc=5",
-      "source": "Googleニュース（朝日新聞）",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "fcb546527a56",
-      "date": "2026年10月29日",
-      "title": "学校メールに不正アクセス 大量送信を停止 千葉県教委（千葉日報オンライン）",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43R1Iwd2Rrc2JzRnFHUHIyWGNFV0VvbXBTNG1FM2RNRDd2TEhrSFNYZUFWT0I3SVlQRzZDeWlQV3lfaWo2Z2IwejRPVUtKR2dDTE43RW93OG1tOTB5djVWSEZMMFpRUUZYdE9ETzNBWmh6Qks2Nzc1WTZhOHl1Rjg?oc=5",
-      "source": "Googleニュース（Yahoo!ニュース）",
-      "category": "不正アクセス",
-      "color": "orange",
-      "scale": ""
-    },
-    {
-      "id": "bb3236a6e73e",
-      "date": "2026年10月29日",
-      "title": "保険代理店や学校職員になりすまして金銭をだまし取る詐欺行為に関する警告です。",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHJYNnlIQVdlYUQ1RXpLR2xYS3d4WE9BUjdBOHo0MFQzci1rcUlKSXAwZmFxZWdsRXdHRnY1aGJucUJNQzdUTXhERkxvTEh3WEtLcTRfM09mWEE1OE42MU84TlF0eVk4di0ySkVxamJFU0ZHSGdyc0dHNERLRVlJUmJDVWtSNWhsd3ZvSFJiNWQyWEdQN0ZYd29hRUFsc3RwZzRaRi01cEFNZFc3b2xOblpmMnBrSDQ?oc=5",
-      "source": "Googleニュース（Vietnam.vn）",
-      "category": "フィッシング",
-      "color": "purple",
-      "scale": ""
-    },
-    {
-      "id": "cf0e135d3916",
-      "date": "2026年10月29日",
-      "title": "九州大学同窓生のメール配信サービスに不正アクセス、個人情報漏えい…最大９９９９件登録か（読売新聞オンライン）",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DU0NuUEJYVTN3TEl1VHA3LTUwUjItZ3ZoZzU1UHEySFE0M05SbzIxbGcwUGd4dy0yaHJ6Ty16aGUwbUJqZ1RCcVRKMFl4em1VMzB3WFg3THViVXBxTnB1ZmlkZThiZDR3WTRYOEFJOExoQldFRzR1ZmlYSEE0MDA?oc=5",
-      "source": "Googleニュース（Yahoo!ニュース）",
-      "category": "不正アクセス",
-      "color": "orange",
-      "scale": ""
-    },
-    {
       "id": "28514ba132dc",
       "date": "2026年10月29日",
       "title": "十文字学園女子大学のシステムに先月サイバー攻撃か 今も利用できず 個人情報漏えいの可能性も",
@@ -169,36 +70,14 @@
       "scale": ""
     },
     {
-      "id": "007e0e4faae3",
+      "id": "0dcdcedd90a6",
       "date": "2026年10月29日",
-      "title": "韓国・国立釜慶大学の学費システムがハッキング、学生5,106人の個人情報流出",
+      "title": "国立釜慶大で個人情報流出 水協銀行システム経由",
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14R19NY2RWX0VrX0h4RHZtRWxrd3hESi1GeTFGUHdqTWhHR0wxSEJaWTNBRjdZNTJBaVNELUt0VGZtSndqTXFqU3J6UVdBNzNXMEtESUloSms5bDYxZHlUb1A2Z2tFZHQ0ZzRPeFptUU16Y1dk?oc=5",
-      "source": "Googleニュース（BigGo ファイナンス）",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnFSQ0FIN0lUQXRrS1U4eXBOZzRqQnBKRm9STHQyZVFLd000X3FIcmdvZl85ZV9oOWo4LXNZNENDZTFlVnhUOWtETnFQS201cXR1RF9XWFFLX1VlNlJMS19BWDJ4ZmlXVm1yS0hTbHRPZlJ3ejJqbXYyQzV2ZGpXSdIBlAFBVV95cUxQSGlMV1BTRy1QNE9aSG1QbDY5ODJiSmlucEVINnZ3M2dSRkduWWFFY01paVQwbzBCTk5KUVRubXUxUVFrenlUV3lyVVY5aDBhTW9HY0EtZUE2dUhNa0dKQjNSM0RLb1pNSEVtQkhLdkQ1WGZwMXoxVVU5bERSd3B0RmtTVkNySjRoZWJudVJzVFp1NWFr?oc=5",
+      "source": "Googleニュース（Chosunbiz）",
       "category": "情報セキュリティ",
       "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "7711e334c3c1",
-      "date": "2026年10月29日",
-      "title": "国立釜慶大、授業料収納システムに不正アクセス…5108人の個人情報流出",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGdQbUltUmgyWGRpTjR1c0FxaW9PLWZEd2xjRkJ1ZHBJajBhYjdMRnMyTkVITkg4SmUzWDJ4VjV6X1J3R0h4WnE4VU5ZYlk4VGVadDRzRXZuXzRDRXp6WXhNUHQ3M1hQZG5yWFVINWcwUjVBZEc1NkRFUF9WbzAwa3gzcnFQNVZMM2NvVTFB?oc=5",
-      "source": "Googleニュース（조선일보）",
-      "category": "不正アクセス",
-      "color": "orange",
-      "scale": ""
-    },
-    {
-      "id": "3c5e38fe455a",
-      "date": "2026年10月29日",
-      "title": "九州大学 - 九州大、不正アクセス受け情報流出 校友会メールサービス - 写真・画像(1/1)",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YR09qa3l3UjExeW1aQVJycjRLcjgyRWZJcU1rSXQxRmluWnVaVFdUZFZjMzc3SXdURXBNQlZKZ2wzNlk1ZTRqbm8wN3N3aVNIT3B1ZzBTWQ?oc=5",
-      "source": "Googleニュース（西日本新聞me）",
-      "category": "不正アクセス",
-      "color": "orange",
       "scale": ""
     },
     {
@@ -263,28 +142,6 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PV2VYYVNOeXRKYXVSV0FaVFZfYXU1eFBVTjBkckpxank1eElJUk1QME9NV0lOTFZmYWJZZG5KaW8tUXdJUFhEZFB1MGw4dmFEN2xHYWxsVlV4aU9tM2hLcHJlZWZFREhXLVc0MWt4Y3dLWTFIVzhOOGRvSC13NE0?oc=5",
       "source": "Googleニュース（Yahoo!ニュース）",
-      "category": "情報セキュリティ",
-      "color": "gray",
-      "scale": ""
-    },
-    {
-      "id": "e0f311ec80b8",
-      "date": "2026年10月28日",
-      "title": "不正アクセス問題、教委支援求める 「単独対応難しい」衆院文科委",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaNHJIVGxoQkJSa3djbXBmd3RvNG5sZkloZTJBQ1g1SE9LeUY4SnVTYXR3ZHZPT2NGb2M1MjBhcHJlVG1kWHVzVUgtNTBLdDBBRTRGQ3FB?oc=5",
-      "source": "Googleニュース（教育新聞）",
-      "category": "不正アクセス",
-      "color": "orange",
-      "scale": ""
-    },
-    {
-      "id": "ab9930a7141c",
-      "date": "2026年10月28日",
-      "title": "不正アクセスに備え予防的メンテナンスで小学校も対応追われる",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rWmNsQzU3RmdZdVJ0ZVplbEI0Z3FwTXcwUjhiNGZJeEVPeDctNUg5aUdaOEtPUGZBRUltc0dFVTM5QmZrTnczXzk2ZEJiUEJ4Umd6cDNiWnBKVk1JS3hz?oc=5",
-      "source": "Googleニュース（NHKニュース）",
       "category": "不正アクセス",
       "color": "orange",
       "scale": ""
@@ -298,17 +155,6 @@
       "source": "Googleニュース（Yahoo!ニュース）",
       "category": "不正アクセス",
       "color": "orange",
-      "scale": ""
-    },
-    {
-      "id": "719b8a557780",
-      "date": "2026年10月28日",
-      "title": "【GMOサイバー攻撃】約120万円被害も…顔写真流出で「パスワード勝手に再発行」通販も株も“入り放題”に?大阪大学・猪俣敦夫教授が指摘する「なりすましログイン」の恐怖",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aRDF3dE1PUzRzSEdyQlBFZzRHMnFqRmFfeW45MEhVSHhQN3AzdzRVN0pIMDVWTmtUOUdwMWtjQXdPTm9RYXRTRm1ORDZXUWFjR0FFWFBuaU1XbFdMUzM1eko5S3BhdEpKMEpHTWxHanhTMVZlOWZKRjduZlVRM2s?oc=5",
-      "source": "Googleニュース（Yahoo!ニュース）",
-      "category": "フィッシング",
-      "color": "purple",
       "scale": ""
     },
     {
