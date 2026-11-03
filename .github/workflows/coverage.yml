@@ -1,0 +1,45 @@
+name: 収集率の月次記録
+
+on:
+  schedule:
+    # 毎月1日 10:00 JST（= 01:00 UTC）
+    - cron: '0 1 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-main
+  cancel-in-progress: false
+
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python 3.11 をセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 収集率を集計
+        run: python coverage_report.py
+
+      - name: 変更があればコミット・プッシュ
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add coverage.md coverage.json
+          if git diff --cached --quiet; then
+            echo "変化がないため、コミットしません"
+            exit 0
+          fi
+          git commit -m "chore: 収集率の月次記録を更新 $(TZ=Asia/Tokyo date +'%Y-%m')"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
