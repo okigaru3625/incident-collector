@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月4日 19:12",
-  "lastUpdatedISO": "2026-11-04T19:12:58.099018+09:00",
-  "totalCount": 128,
+  "lastUpdated": "2026年11月5日 04:09",
+  "lastUpdatedISO": "2026-11-05T04:09:23.813130+09:00",
+  "totalCount": 130,
   "incidents": [
     {
       "id": "8584f9d34d8a",
@@ -21,6 +21,28 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zTkliT08wNTNodFB0VkNsYzV4U0xET2tVLURtaVJ3OFJSb0lQRHlxTG45aTktdFdVNXhaZnlyWU42R2x4MW9lOHE2N0ZoNUNOaVZuWkk0Q2JocHZUeUpVWmVUbnNRYmN6Q3FUYlpJbTVobTdydVFNUGM5SDNTclk?oc=5",
       "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "1f5389d84547",
+      "date": "2026年11月4日",
+      "title": "県立学校6校で生徒指導要録が所在不明 - 静岡県",
+      "description": "静岡県の県内6校において、生徒指導要録の「学籍に関する記録」を紛失したことがわかった。",
+      "url": "https://www.security-next.com/192171",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "eb158ce1d73f",
+      "date": "2026年11月4日",
+      "title": "「これって個人情報だよね…」PTAのグループLINEに保護者の住所と電話番号→直後…緊急連絡にゾッ",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sY2JxYzhKczlSRFFmNGdURENuelFabTI5dzNlUE9GMWFEdGlJZmlRQ09pLVVaQjhCWXNYMUptdTQwQU9OamowSUJySnlydUE?oc=5",
+      "source": "Googleニュース（TRILL）",
       "category": "情報セキュリティ",
       "color": "gray",
       "scale": ""
