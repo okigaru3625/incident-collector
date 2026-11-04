@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月4日 03:52",
-  "lastUpdatedISO": "2026-11-04T03:52:12.628031+09:00",
-  "totalCount": 122,
+  "lastUpdated": "2026年11月4日 09:59",
+  "lastUpdatedISO": "2026-11-04T09:59:08.840544+09:00",
+  "totalCount": 124,
   "incidents": [
+    {
+      "id": "8584f9d34d8a",
+      "date": "2026年11月4日",
+      "title": "大学コンソーシアム大阪に不正アクセス、学生延べ1,557人分・43大学の管理用アカウントが漏えいのおそれ 近畿大学の延べ789人分にも影響|セキュリティニュースのセキュリティ対策Lab",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcU1meTFuM2RGUFJtd2MxTXZyYzBVOXdLNE1TNFpzZW03Wk5IOWg4UlRIX20tMGc1SjB1WU9zbHpVRE1PeFNQendZYnhFa0RFbjF5ODFZXy1pMXF1Y0VtbXZRZFVUM3pRWG9aLWpiWFNNbEw1UTN1Sl8zdldBNTBTVzZhQlRSNDVyZ2FJVGExLUlsbURxbnZZRHlxSWtybjI3Nlk5dk5OU1BfOTh6VUZLTlZ6SGhfYnc?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "f590f6c8262d",
       "date": "2026年11月3日",
@@ -12,6 +23,17 @@
       "source": "Googleニュース（Yahoo!ニュース）",
       "category": "誤操作・誤公開",
       "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "dd9faa0fd827",
+      "date": "2026年11月3日",
+      "title": "甲斐教育長、学校現場の情報流出「今のところ大きな事案ない」 佐賀県教育委員会 | 行政・社会 | 佐賀県のニュース",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MOWpzb1F4XzBjZVNFY016MkpWZ3ZtOS1yNjdjcWt0ck1lYWlyZ0dtSTdmTDFwaHdUQ25WcjF0Ri15QzBCODVLTVFRYzN6SnpjOFo4dldfbG5ncmVPNW95VlJsQmE?oc=5",
+      "source": "Googleニュース（佐賀新聞）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
