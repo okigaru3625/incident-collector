@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月4日 09:59",
-  "lastUpdatedISO": "2026-11-04T09:59:08.840544+09:00",
-  "totalCount": 124,
+  "lastUpdated": "2026年11月4日 19:12",
+  "lastUpdatedISO": "2026-11-04T19:12:58.099018+09:00",
+  "totalCount": 128,
   "incidents": [
     {
       "id": "8584f9d34d8a",
@@ -12,6 +12,17 @@
       "source": "Googleニュース（合同会社ロケットボーイズ）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "3f93602470d3",
+      "date": "2026年11月4日",
+      "title": "教職員の出産日など個人情報が含まれたメールを無関係の教育委員会に送信 香川県教育委員会 （KSB瀬戸内海放送）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zTkliT08wNTNodFB0VkNsYzV4U0xET2tVLURtaVJ3OFJSb0lQRHlxTG45aTktdFdVNXhaZnlyWU42R2x4MW9lOHE2N0ZoNUNOaVZuWkk0Q2JocHZUeUpVWmVUbnNRYmN6Q3FUYlpJbTVobTdydVFNUGM5SDNTclk?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
@@ -37,12 +48,45 @@
       "scale": ""
     },
     {
+      "id": "873bd8538b89",
+      "date": "2026年11月3日",
+      "title": "京都市の「市民緑地」指定管理者に不正アクセス 不特定多数に迷惑メール大量送信、個人情報流出か",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kWUZENnJvVkYyUklrdjBPby1SQ0ZEWDQ4akt4eF81RWlXelAtVVFzdG85N2wyTEhhemxiWmRCbXhGTXlvUzFuVmw4UFFRdVBxQjNqYll1d1c?oc=5",
+      "source": "Googleニュース（京都新聞デジタル）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
       "id": "eb0376e1a26b",
       "date": "2026年11月2日",
       "title": "大津市の中学校で教員用日報を84家庭に配信 保健室の利用など生徒の個人情報記載",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hbW55cjh5TEhkRXdqTzQ0d1ZpWnZYcGpMaWJrME1NMHp3ajE1NFdCXzFoSDZMa3A2ejZPeEl5SHlDWE1XbWtfVENNc1VOd29vMWxSSlBpcS0?oc=5",
       "source": "Googleニュース（京都新聞デジタル）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "8c91b815c4b3",
+      "date": "2026年11月2日",
+      "title": "急がれる不正アクセス対策 名古屋大学のスパコンに寄せられる期待 家電量販店では対策ソフトが売上アップ",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wMGhYU1Jibmx6TjA1Yk5JdFJfOU01a3pHcXZDekNlNVZza29zOXBBLXRGcnFKZ3RlOV9MRVg5NGNGSk9JX2xyU3dkdWhzdlhGLTQ3STk3MktJdW9HYUhn?oc=5",
+      "source": "Googleニュース（ライブドアニュース）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "ea85f1d1e577",
+      "date": "2026年11月1日",
+      "title": "クラブツーリズム、個人情報432万件流出か 旅行大手「旅券やカード情報は含まれず」",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54OEJqRTBtcmg2MzJVZlFObVR6NnBSV1dvTUpkejBCUl9RVWY4Z3MwbkxyNTkxZ1p6NlNPVTh2dDBybEUzRDNVTTk4V1V1U2tUQlRfU0NHUVJLVGtZb2dyWTQyR29aTUJNZ3Bob2dCa3lHNXFKM1E?oc=5",
+      "source": "Googleニュース（産経ニュース）",
       "category": "情報セキュリティ",
       "color": "gray",
       "scale": ""
