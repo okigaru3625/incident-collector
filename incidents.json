@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年11月5日 04:09",
-  "lastUpdatedISO": "2026-11-05T04:09:23.813130+09:00",
-  "totalCount": 130,
+  "lastUpdated": "2026年11月5日 19:06",
+  "lastUpdatedISO": "2026-11-05T19:06:28.926787+09:00",
+  "totalCount": 132,
   "incidents": [
+    {
+      "id": "a683baab3886",
+      "date": "2026年11月5日",
+      "title": "情報漏えい約3.8億件…大学・学校でアカウント乗っ取り目立つ",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiR2lSZ0lvUUd5QTV6TmYxNVpZU0NxNXI1UWI1d3ZJeGxfOTlQelFxdmhpWGNtTWVGUGI0ZDdWWHdEZDlMSjNEYUhGa3MwU3dsOHJVbjRONDRuT3lla0kzdm90VnI5Zw?oc=5",
+      "source": "Googleニュース（リセマム）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "71b625da9e4f",
+      "date": "2026年11月5日",
+      "title": "上越市教育委員会がメール誤送信でスポーツ団体関係者らのアドレス169件漏えい",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hc3J2WmdYLTlYZUZ4YjR3N0JKNTNOZnhycFRpS09VdmJmZXFSRDZMLXg0UFhHUENPZUVyZ1ViU0lRTUZFLUJkcHp0eklzN21VSUdGRg?oc=5",
+      "source": "Googleニュース（上越タウンジャーナル）",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
     {
       "id": "8584f9d34d8a",
       "date": "2026年11月4日",
