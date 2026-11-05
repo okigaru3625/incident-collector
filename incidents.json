@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月5日 19:06",
-  "lastUpdatedISO": "2026-11-05T19:06:28.926787+09:00",
-  "totalCount": 132,
+  "lastUpdated": "2026年11月6日 04:16",
+  "lastUpdatedISO": "2026-11-06T04:16:26.699234+09:00",
+  "totalCount": 134,
   "incidents": [
     {
       "id": "a683baab3886",
@@ -23,6 +23,28 @@
       "source": "Googleニュース（上越タウンジャーナル）",
       "category": "誤操作・誤公開",
       "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "faed46b18f4d",
+      "date": "2026年11月5日",
+      "title": "相次ぐ不正アクセスで需要高まる｢ホワイトハッカー｣ セキュリティー人材は約11万人不足 専門学校で進む育成",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbkFJcnRnQU52Und2QlBfVWNfN3FydDhTT2xnMzF4ZnRMOXVVVDNfZkQwUHZadjl2N2xmZm9RYnZ3X001bjI4Ui1qSGd4OGtRLUxfajVtOHRBZXlKME1Z?oc=5",
+      "source": "Googleニュース（TBS NEWS DIG）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "9b878bea3250",
+      "date": "2026年11月5日",
+      "title": "3AMランサムウェアによる学校攻撃が提起するハイブリッドAI運用の疑問",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMzl5aDI4dUVvSDBHc3pjRGlEdjRaWURGNUZaM3VMNHJ0YVl0cHVEMzJyaXoyMnZpRFp4QVlXVU92dEQyUkYyRkxxXzcyZEREeTR6MTRhRktJT05KaVp3N0pvV1J6ZVp0VzJjSExGWEpOcFgzR2k3REI1Nml0VzQ4TVN5QVR1TnJhbW1wQ0syOGV3NExsTldHT1BXUmE3QkJUQkFpS1J2QQ?oc=5",
+      "source": "Googleニュース（remio）",
+      "category": "ランサムウェア",
+      "color": "red",
       "scale": ""
     },
     {
