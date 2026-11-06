@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026年11月6日 04:16",
-  "lastUpdatedISO": "2026-11-06T04:16:26.699234+09:00",
-  "totalCount": 134,
+  "lastUpdated": "2026年11月6日 19:11",
+  "lastUpdatedISO": "2026-11-06T19:11:03.298102+09:00",
+  "totalCount": 137,
   "incidents": [
+    {
+      "id": "74bb4be9e951",
+      "date": "2026年11月6日",
+      "title": "東洋大学、大学関係者の一部アカウントに不正アクセス 文科省・個人情報保護委員会に報告、情報漏えいの影響を調査",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVpMZ0ZNM1ZMZVlUUVBkQkVwRXV5ci1QOUwxS1VZeWRfMU1vNWliM0NSTEx2bXFhblZ5M3RwaXUtWjg3WS1tZFBpVTZQMU1fU3gxRXJRWWk4UlVTNGJyVkNieF8xT0xDVDZVOUROV3dGRVZ6OGdSX1o4VXVKaWhoeWZIdUlSbDBZSVJWaW9mdk1FUWQtTUhhMw?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "3c9c67dd0235",
+      "date": "2026年11月6日",
+      "title": "情報セキュリティ教育サービスで情報漏えいの可能性 JNSAが利用停止、外部専門事業者と調査",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ybG5McWdsX0dWNUdPQmlRa0c2c3FKX1I2dVY3ei1MNFlhM3lLRWNBWl8wNlNXNE1zZEdvcTJXUXF2X0RmdEgzQi04OXB5N29Wc1BkbFR6TzljZ2lockQ0?oc=5",
+      "source": "Googleニュース（NOVAIST）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "c700895f4dca",
+      "date": "2026年11月6日",
+      "title": "【情報漏えい急増】攻撃による流出前提に対策 正しく恐れ、正しく備える 東京電機大情報セキュリティ研究室教授 寺田真敏",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80R044RkI3Yl9UVFhRV2MzOXgzZEUxSzdtYmdPeDVOSVphejlpRWtiY1FTRFJfcnBzQ2lJcWZkdjR1M1NSRktJNmh3QzB0MEY2TW9BQ0pxUHc3Vk4xWnc?oc=5",
+      "source": "Googleニュース（沖縄タイムス社）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "a683baab3886",
       "date": "2026年11月5日",
