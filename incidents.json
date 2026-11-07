@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月7日 03:42",
-  "lastUpdatedISO": "2026-11-07T03:42:44.023848+09:00",
-  "totalCount": 138,
+  "lastUpdated": "2026年11月8日 06:15",
+  "lastUpdatedISO": "2026-11-08T06:15:13.266728+09:00",
+  "totalCount": 139,
   "incidents": [
+    {
+      "id": "6e5a909ff70a",
+      "date": "2026年11月8日",
+      "title": "ミュンヘン工科大学にサイバー攻撃、myTUM利用者全員のパスワードが流出",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUQ0T09HaWMyTU5TMzNQcmVObF9hbjROek5QQUtQeWVmWlphblBveTltOGEwdUFXXzlicTdUNVVJYWxsTThEZUpfOXh0NTJJMVMzcWhLSG85SmRHbHBPMTJiZ0I4NXVBTGcyc1NKa015RU82SHI4U0wtb1hoN0Nub09JcXdKaVBvV3FMMWZVblh0S29xTl8xOQ?oc=5",
+      "source": "Googleニュース（Pasquale Pillitteri）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "74bb4be9e951",
       "date": "2026年11月6日",
