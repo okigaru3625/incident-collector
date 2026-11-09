@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月9日 19:41",
-  "lastUpdatedISO": "2026-11-09T19:41:07.157717+09:00",
-  "totalCount": 143,
+  "lastUpdated": "2026年11月10日 06:47",
+  "lastUpdatedISO": "2026-11-10T06:47:03.501419+09:00",
+  "totalCount": 149,
   "incidents": [
+    {
+      "id": "06df1b3913b9",
+      "date": "2026年11月10日",
+      "title": "神奈川大学のMNS認証基盤に不正侵入の形跡 氏名・ID・パスワードなど漏えいのおそれ、学外からのVPN・ポータル利用を停止",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYnhxVllNaTBLTVY0VXJfakR3Zm5OWFBLRjAzRGRraVZVZzZPSGx4Q3ZtTk5VOTV1Tzk1ZG5qamlCYzdoUXc5RFp3dGdzRzQtTXVNVmJlR01DVWpTSVdYX0NWb3o1VHF6d3REU0l4cGV5a3N2RTFNdU1MT0JiUHRyV1lERTZ5TXlYdHE1X1dLbHZoSXFJQW85Z29DUC1zOTZJYWd0WTFvOF9iQQ?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "fcea5e0cb177",
       "date": "2026年11月9日",
@@ -34,6 +45,61 @@
       "source": "Googleニュース（合同会社ロケットボーイズ）",
       "category": "調査・報告",
       "color": "blue",
+      "scale": ""
+    },
+    {
+      "id": "ed132700cf81",
+      "date": "2026年11月9日",
+      "title": "中学校で生徒の個人情報含む学習記録ファイルを紛失 - 伊万里市",
+      "description": "佐賀県伊万里市は、市内中学校において、生徒の個人情報が記載された学習記録ファイルが所在不明となっていることを明らかにした。",
+      "url": "https://www.security-next.com/192347",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "7275413c6317",
+      "date": "2026年11月9日",
+      "title": "小学館の「みんなの教育技術」「みんなの幼児と保育」に不正アクセス 認証トークンや子どもの個人情報漏洩の恐れ",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGdTZUpMS28xV1o5N0Z0QWk2cHBVdEFza0VIOTBYRkRudTZXLWZoNmxwLUFEWVJrem90MzFvaHlsSk42ZUFEa2JNSnV3RTRJSnZfNWVkbDRZcUxjbzZrMnRFcDRTVXVvTTJBYXpfbm1mZFRvVkVNQl9jVnExWC14TFA4Y0xzOU9NNlVtVHVoZzFFVTlBUjJPcURLUQ?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "ffdaba132dda",
+      "date": "2026年11月9日",
+      "title": "県教職員互助会主催イベントの参加者情報が漏えい 「新日本フィルハーモニー交響楽団アンサンブルコンサート」「又吉直樹講演会」",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpSWJxTHpSbF8wUjVQX2JNdHR2VmhsbDEySHhzQ2xIMUlITEV2RnJoYXE3bzFkSDFDSkxEOUpDRHFQMXpvOHp3eHl5VQ?oc=5",
+      "source": "Googleニュース（47NEWS）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "1351d54b946b",
+      "date": "2026年11月9日",
+      "title": "県教職員互助会主催イベントの参加者情報が漏えい",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UeHpZZnc4UzlKVkRrZDk5dURSUDJRU1M3SkhTNWdYVXZFMzluMjIyeG1WdDBmNnducXZtQnZreWttVGl2OXZKNmtJeUxOMXg0WnVNR1JwNEhaVmlybmc?oc=5",
+      "source": "Googleニュース（新潟日報）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "26d2531e57b3",
+      "date": "2026年11月9日",
+      "title": "ヨーク大学、2007年にさかのぼるフォームから個人情報が流出したと発表",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNejdnQ25lSUhaeVFlZ2VySTFIV3RWZVMzSDFoSkQxN2R3cUd2WmtSbTVkemU5MmxtX0JyOUZtS2IxTEVWRnpkSEkxM0VBXy1lWWxxdTEzSUpYcXFubHcxQk9TZk5MSVozWDRWTGFEeXFhWE5xVktPcC1lWndBSHhyMVVBQWZaYWhKc25lNmJ3VFJ0dnRkb0x1X0ViWm9JeHRNczJaeA?oc=5",
+      "source": "Googleニュース（Mezha.net）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
