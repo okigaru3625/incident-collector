@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026年11月9日 09:21",
-  "lastUpdatedISO": "2026-11-09T09:21:54.206884+09:00",
-  "totalCount": 140,
+  "lastUpdated": "2026年11月9日 19:41",
+  "lastUpdatedISO": "2026-11-09T19:41:07.157717+09:00",
+  "totalCount": 143,
   "incidents": [
+    {
+      "id": "fcea5e0cb177",
+      "date": "2026年11月9日",
+      "title": "【速報】大阪市の放課後事業「いきいき」で個人情報漏えいか 児童や保護者の氏名や通学先、電話番号など最大計415件 職員が”サポート詐欺”の被害に",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oWDRxWUp1R1RSbDF4QjdMcWh5N2pGWnVuaThmZVNEV196aDVDaDJ4WkdqbGtzRnNiOHFHam9DcVhBUFFwTFE1aVc2eXkxbzVWcWZ4WnlXLW43SGRRd28tM001LVc?oc=5",
+      "source": "Googleニュース（TBS NEWS DIG）",
+      "category": "フィッシング",
+      "color": "purple",
+      "scale": ""
+    },
+    {
+      "id": "ddab1875eaff",
+      "date": "2026年11月9日",
+      "title": "小学館、199万件の個人情報漏洩か アララ不正アクセス",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOEF2a1R1eTJHTFVRbF9RdGdqRDlnNEF5RzZtOHdISTZOOGt1ZnQ4bXdteWhhVkFJSzJsYlVXZkRTWUNteE5vTG0wYVpnRUV0Um5keTNGRmR3SU9YeGxlN004ZGpNbGlyNUR6MQ?oc=5",
+      "source": "Googleニュース（日本経済新聞）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "3a354c6f2fa0",
+      "date": "2026年11月9日",
+      "title": "早稲田大学「MyWaseda」認証情報が不正取得 延べ3,342件、暗号化パスワードも流出 卒業生向けサービス停止",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDBLaVlveW5vTXQ5TkprcE42NnhhbFUzc0MwTTFGZktEcXBTbU9jRGwyUkJHYmRQTW5DTWcydFd6czE4aVRRU1ZEa1FTODNBSDFRRmxpa0dJVGF4Nzg4cEl0SGdEbTNLMlF0TE5RM2ZRbjdEQjYxLVNHQl9hRHJHcDdUU1VNSklsLUxhVGhya0p0YmVkbGtv?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "調査・報告",
+      "color": "blue",
+      "scale": ""
+    },
     {
       "id": "6e5a909ff70a",
       "date": "2026年11月8日",
