@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月8日 06:15",
-  "lastUpdatedISO": "2026-11-08T06:15:13.266728+09:00",
-  "totalCount": 139,
+  "lastUpdated": "2026年11月9日 09:21",
+  "lastUpdatedISO": "2026-11-09T09:21:54.206884+09:00",
+  "totalCount": 140,
   "incidents": [
     {
       "id": "6e5a909ff70a",
@@ -89,6 +89,17 @@
       "source": "Googleニュース（remio）",
       "category": "ランサムウェア",
       "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "044300267ce3",
+      "date": "2026年11月5日",
+      "title": "明治学院大学、心理学部サイトが不正アクセスで改ざん Macに偽認証画面、旧iPhone・iPadも標的",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0RpQjlYb2xaM0lTektmdzNJY3JiTHdnbGhXbU03MTI0T01lX0NPM05CU1h5ZGtDZ0hDTTFVN1ZUc1dpY0tpS0RsTGZhNXMzNFgxc096ZS03M0VjcVk1OXg0Zk5wUHZEU0lOQzUyWUFmRVJiaGdWT05JWkwwNFVXR2FNNlNOYi1NLXRXbGlJcDNrRlRhdVpYazhDbzB0c2NkcUNKbDlkbVA0Slly?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
