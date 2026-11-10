@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月10日 06:47",
-  "lastUpdatedISO": "2026-11-10T06:47:03.501419+09:00",
-  "totalCount": 149,
+  "lastUpdated": "2026年11月10日 14:23",
+  "lastUpdatedISO": "2026-11-10T14:23:45.820502+09:00",
+  "totalCount": 150,
   "incidents": [
     {
       "id": "06df1b3913b9",
@@ -98,6 +98,17 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNejdnQ25lSUhaeVFlZ2VySTFIV3RWZVMzSDFoSkQxN2R3cUd2WmtSbTVkemU5MmxtX0JyOUZtS2IxTEVWRnpkSEkxM0VBXy1lWWxxdTEzSUpYcXFubHcxQk9TZk5MSVozWDRWTGFEeXFhWE5xVktPcC1lWndBSHhyMVVBQWZaYWhKc25lNmJ3VFJ0dnRkb0x1X0ViWm9JeHRNczJaeA?oc=5",
       "source": "Googleニュース（Mezha.net）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "8a8e32f9840d",
+      "date": "2026年11月9日",
+      "title": "生成AIに社内文書を送る前に、個人情報を社内のPCだけで検出・マスキング。AI Librarium、東北大学との共著論文をCSS2026で発表",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMkI4MURWTFVQS3R4UkVuQ19TRGdvVkNkRVFHV2Eyam1QaF9OTzl3SGpMQ3oxOFlOR3Z4ek5EeU43MkE2TlVqRDR3X295Y1VHSzBSM05hN2lHcmZXeUI1SjIzdG9wRUo1MnNsQTRGWFFEUQ?oc=5",
+      "source": "Googleニュース（Infoseek）",
       "category": "情報セキュリティ",
       "color": "gray",
       "scale": ""
