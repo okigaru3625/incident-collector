@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月10日 14:23",
-  "lastUpdatedISO": "2026-11-10T14:23:45.820502+09:00",
-  "totalCount": 150,
+  "lastUpdated": "2026年11月10日 22:59",
+  "lastUpdatedISO": "2026-11-10T22:59:59.497658+09:00",
+  "totalCount": 153,
   "incidents": [
     {
       "id": "06df1b3913b9",
@@ -12,6 +12,39 @@
       "source": "Googleニュース（合同会社ロケットボーイズ）",
       "category": "情報セキュリティ",
       "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "decc19285c9f",
+      "date": "2026年11月10日",
+      "title": "簿記受験者98万人分に漏えいの恐れ、日商ネット試験の外部システムに不正アクセス",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUMEhlX1A2djZzMVU5akVMak1YbGFka2tZaWtOWjFZZ0lucjZ2bWxGcEFSVFZzYUJTQkZrbEN2MGRwNGJoYVJKMVVMUXhyTThQQXM4?oc=5",
+      "source": "Googleニュース（ビジネス+IT）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "2669a5c182fa",
+      "date": "2026年11月10日",
+      "title": "日商受験情報９８万人流出か",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zYVpjbVIxazE4VV9iTlJaWFY3d3hSZnNZQndIcnZhWDJhc2g3aTU0WFp6blNGbFpOMXpIZEwwdExXT0VqMFJrM25tMC1neFRTOFNHUVFuX1Q2MVE?oc=5",
+      "source": "Googleニュース（下野新聞社）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "e389e62d6b8f",
+      "date": "2026年11月10日",
+      "title": "富山県立大学の安否確認メール配信システムに不正アクセス 学生・教職員約3000人分のアドレス流出（富山テレビ）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BdzVHRGVwV1BldG1ZcnRmd0I5N2lYU2NIQm5xblVOeXp2Rng3ekpGb3g3MDNncjhtNTI5QkZYLVAxcnBwNGc3YnprM0N2WkExUXdzb1lIVFI5Zm9IQVBsWnNwTm4xN2tYV1J2RzFxM2RET3g5VEhpSmlSSTNtSzg?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
