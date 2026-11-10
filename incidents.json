@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月10日 22:59",
-  "lastUpdatedISO": "2026-11-10T22:59:59.497658+09:00",
-  "totalCount": 153,
+  "lastUpdated": "2026年11月11日 06:07",
+  "lastUpdatedISO": "2026-11-11T06:07:19.386786+09:00",
+  "totalCount": 154,
   "incidents": [
     {
       "id": "06df1b3913b9",
@@ -43,6 +43,17 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BdzVHRGVwV1BldG1ZcnRmd0I5N2lYU2NIQm5xblVOeXp2Rng3ekpGb3g3MDNncjhtNTI5QkZYLVAxcnBwNGc3YnprM0N2WkExUXdzb1lIVFI5Zm9IQVBsWnNwTm4xN2tYV1J2RzFxM2RET3g5VEhpSmlSSTNtSzg?oc=5",
       "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "3f9951e0ba7d",
+      "date": "2026年11月10日",
+      "title": "「朝の児童の居場所確保事業」メール配信サービスへの不正アクセスによる情報漏えい",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPclNGdDhzQjBqT00xVXQzRmM1enFGT3JtM1VWTEJzU3FlcW5jMjBsTUNfQl93LXpBWDNzYVVMa3JZc0JjeVZNNUQzc0RPWUMwWEphalpqVERoMUtuMW83OTNCRzhKRGszOTNmbWhFRWpsMGN0QlFkNU5DakZhVlRqMDEyQ0w?oc=5",
+      "source": "Googleニュース（www.city.shinagawa.tokyo.jp）",
       "category": "不正アクセス",
       "color": "orange",
       "scale": ""
