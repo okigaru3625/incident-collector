@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月11日 06:07",
-  "lastUpdatedISO": "2026-11-11T06:07:19.386786+09:00",
-  "totalCount": 154,
+  "lastUpdated": "2026年11月11日 12:53",
+  "lastUpdatedISO": "2026-11-11T12:53:56.792937+09:00",
+  "totalCount": 155,
   "incidents": [
+    {
+      "id": "bfa6495078e9",
+      "date": "2026年11月11日",
+      "title": "京都外国語大学の旧サーバーに不正アクセス、5,376人の個人情報漏えいのおそれ 認証不要の機能とサポート終了OSが原因",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWN1VHZkMzVlLVpXeXVEUzVXNWl2UzZQNXR5NmRGS1BvUXQydEJuTnJ4bHltVGRVLWx2NnMtY3NES1lVblFIT1ZtYW44TExsbXZiMFRFcGREdkVDWXo0XzdqUEtOY1JkNThhVUpCcjRyS1hCc2tkTWhCak1RRzFrQmNRNl84TXIyQXV6dWVRNkdneWxSNm5aV3RfQ2luUlZPYjViczVPSkg?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "06df1b3913b9",
       "date": "2026年11月10日",
