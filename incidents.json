@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月11日 22:17",
-  "lastUpdatedISO": "2026-11-11T22:17:19.288665+09:00",
-  "totalCount": 159,
+  "lastUpdated": "2026年11月12日 06:40",
+  "lastUpdatedISO": "2026-11-12T06:40:26.041761+09:00",
+  "totalCount": 160,
   "incidents": [
     {
       "id": "bfa6495078e9",
@@ -56,6 +56,17 @@
       "source": "Googleニュース（47NEWS）",
       "category": "紛失・盗難",
       "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "3bcdd6c04e7e",
+      "date": "2026年11月11日",
+      "title": "ゴルフスクール「ステップゴルフ」で不正アクセス 顔写真など漏洩か [情報漏洩・個人情報流出の最新ニュース]",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaE9QSkMySWxyNFRfS3hPaEVlYU16b1lRZG9hZ1RBa3I5c0RNNXRoQ2dwQmhGNms5Y3VRdW9NbDlsaTNtSmY0eXU0bGJLT0FyREtYTDJTQzBRdmYxd1ZoOWtsOVZqc3NxMm1oTTFEeDFsdVpDZzNJWHh2QTVLbDF6cm9mSjVaWHlRU3hjSDdMOA?oc=5",
+      "source": "Googleニュース（朝日新聞）",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
