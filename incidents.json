@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月11日 12:53",
-  "lastUpdatedISO": "2026-11-11T12:53:56.792937+09:00",
-  "totalCount": 155,
+  "lastUpdated": "2026年11月11日 22:17",
+  "lastUpdatedISO": "2026-11-11T22:17:19.288665+09:00",
+  "totalCount": 159,
   "incidents": [
     {
       "id": "bfa6495078e9",
@@ -12,6 +12,50 @@
       "source": "Googleニュース（合同会社ロケットボーイズ）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "be0920f0d32f",
+      "date": "2026年11月11日",
+      "title": "福岡市公立小学校の修学旅行中児童50人撮影のデジタルカメラを引率教師が紛失（KBC九州朝日放送）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hcl9rTF9INlQxX2VTU0d3LVROYnloREhUQm54T05IS2FYUDJhLUxka1o2dmZHdFVNWXJFVGNnRmRIU1lsSzkxWXdmNmZnSnZwZUFXMk8xR0ZNcHFQa0RvU0RPT2JkYXE3eHE4NEsxdzMwN0d2enB4ZDNwZzJxV1k?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "7fcbcc6eb748",
+      "date": "2026年11月11日",
+      "title": "岐阜・下呂中学校で個人情報525人分記載の名簿紛失 下呂署に被害届提出",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ESjByZm5xQzNEMDExMExKLVNGQ3h0cl9CZGJVVUNKX1NIV0E1b0ktMHpjNkZyRzZoUk1ueXN1b1RVc3Awa0NQOEI0V0lkVXl0Z0ZiMw?oc=5",
+      "source": "Googleニュース（中日新聞Web）",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "e091f611b77b",
+      "date": "2026年11月11日",
+      "title": "ゴルフスクール、顔写真漏えいか 個人情報１１万件、銀行口座も",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wd2VubW9hdnp6c2xHcVFwVVZraDBGLV9mRHVCcTd6dFpDUU1wbEdWMjUzank4N3AydGFyRHlCRGZSTUxvRG5JQjdGV0dhdGtCZHpnNXdFNEZfUkxYR3c?oc=5",
+      "source": "Googleニュース（沖縄タイムス社）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "142f8fb017a4",
+      "date": "2026年11月11日",
+      "title": "学校勤務の臨時職員1人分の源泉徴収票が所在不明、中越教育事務所",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2aFhMbF9mMkczc2NfbHN6WTQ1WEF6LUZ5cFBydmtMWTVyZmVpaUtsNEdrc25HenBVZDJmb0pLYW5MeW1aTlVpM0JKWQ?oc=5",
+      "source": "Googleニュース（47NEWS）",
+      "category": "紛失・盗難",
+      "color": "amber",
       "scale": ""
     },
     {
