@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026年11月12日 06:40",
-  "lastUpdatedISO": "2026-11-12T06:40:26.041761+09:00",
-  "totalCount": 160,
+  "lastUpdated": "2026年11月12日 23:20",
+  "lastUpdatedISO": "2026-11-12T23:20:38.453537+09:00",
+  "totalCount": 163,
   "incidents": [
+    {
+      "id": "2ab78cf5ff5d",
+      "date": "2026年11月12日",
+      "title": "保育施設職員が偽警告でサポート詐欺被害 - 田村市",
+      "description": "福島県田村市は、職員がサポート詐欺の被害に遭い、パソコン内の個人情報が流出した可能性があることを明らかにした。",
+      "url": "https://www.security-next.com/192344",
+      "source": "Security NEXT",
+      "category": "フィッシング",
+      "color": "purple",
+      "scale": ""
+    },
+    {
+      "id": "c3d1e5baffe2",
+      "date": "2026年11月12日",
+      "title": "太田市の学校連絡アプリでメールアドレス流出 スポーツ学校、芸術学校などでも",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96MnNMaTNEeXZTMVhRRFFrMGpZRWpEOGc2V2FPaHpBS3BvOHc4NDJqMnJGYUY1Vll1T2pOVHc4QzdwN0o4NGk5emZn?oc=5",
+      "source": "Googleニュース（みんなの学校新聞）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "bfa6495078e9",
       "date": "2026年11月11日",
@@ -67,6 +89,17 @@
       "source": "Googleニュース（朝日新聞）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "ace99c6a7a1c",
+      "date": "2026年11月11日",
+      "title": "ゴルフスクール、顔写真漏えいか",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBNjdVQlc0dlJoS2xOVkd4WVdVNXdDODJPTExrUGx5b05rTE52WUZzRXRRSF9fMVcyRm5YU1VrejRpVnQ5UmdPQXlwOGVZbEJSbW5uSkgtNlFTcDg?oc=5",
+      "source": "Googleニュース（下野新聞社）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
