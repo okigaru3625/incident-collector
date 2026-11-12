@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月12日 23:20",
-  "lastUpdatedISO": "2026-11-12T23:20:38.453537+09:00",
-  "totalCount": 163,
+  "lastUpdated": "2026年11月13日 06:39",
+  "lastUpdatedISO": "2026-11-13T06:39:56.884390+09:00",
+  "totalCount": 164,
   "incidents": [
     {
       "id": "2ab78cf5ff5d",
@@ -23,6 +23,17 @@
       "source": "Googleニュース（みんなの学校新聞）",
       "category": "情報セキュリティ",
       "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "60baa1a43f26",
+      "date": "2026年11月12日",
+      "title": "試験管理システムで侵害、受験者情報流出の可能性 - 日商",
+      "description": "日本商工会議所は、「商工会議所ネット試験管理システム」が不正アクセスされ、受験者の個人情報が流出した可能性があることを明らかにした。",
+      "url": "https://www.security-next.com/192652",
+      "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
