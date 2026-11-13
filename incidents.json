@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月13日 06:39",
-  "lastUpdatedISO": "2026-11-13T06:39:56.884390+09:00",
-  "totalCount": 164,
+  "lastUpdated": "2026年11月13日 13:17",
+  "lastUpdatedISO": "2026-11-13T13:17:02.774883+09:00",
+  "totalCount": 166,
   "incidents": [
+    {
+      "id": "440522878ebf",
+      "date": "2026年11月13日",
+      "title": "TOKYO GLOBAL GATEWAY、メールアドレス1万4,143件の情報漏えいを確認 アララへの不正アクセスで学校団体・イベント参加者らに影響|セキュリティニュースのセキュリティ対策Lab",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWEdoMVBNd0pYeWpGS2IzdC1zVWVKcVdVUVpUYjJ0VFBiRlRMN18ycXlXTGNMeTVtdDN6QWlCTG5TYjZRSFVya1BScmFiRFk3ZnozOEpxZkZHcllBQ1hHZUZ6ZHpGQ2FreUUxMWNtYmJpY3BlUm5QUmJNbmwwNDNUSTNBTktyUVppbHltczJ3U1QySzh0Qko0?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "2ab78cf5ff5d",
       "date": "2026年11月12日",
@@ -111,6 +122,17 @@
       "source": "Googleニュース（下野新聞社）",
       "category": "情報セキュリティ",
       "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "25ee8c5391ea",
+      "date": "2026年11月11日",
+      "title": "高知市職員採用試験の受験者情報が漏えい、２カ月公表せず １４６４人分の電話番号やメールアドレス 面接サービス委託先が不正アクセス受ける",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0dWM0UnRqT21VYnVPbWYzLWY2TVZVc2cySzVzWEdiaXlRRU5WdFBwQjNGblJSeEU2TGdLNVBFYTFXRWlac2h4YkxqNDJUdGxWQTg3cG9XejFWU0ZseHU0?oc=5",
+      "source": "Googleニュース（高知新聞）",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
