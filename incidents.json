@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月13日 13:17",
-  "lastUpdatedISO": "2026-11-13T13:17:02.774883+09:00",
-  "totalCount": 166,
+  "lastUpdated": "2026年11月13日 22:40",
+  "lastUpdatedISO": "2026-11-13T22:40:58.746737+09:00",
+  "totalCount": 169,
   "incidents": [
     {
       "id": "440522878ebf",
@@ -9,6 +9,39 @@
       "title": "TOKYO GLOBAL GATEWAY、メールアドレス1万4,143件の情報漏えいを確認 アララへの不正アクセスで学校団体・イベント参加者らに影響|セキュリティニュースのセキュリティ対策Lab",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWEdoMVBNd0pYeWpGS2IzdC1zVWVKcVdVUVpUYjJ0VFBiRlRMN18ycXlXTGNMeTVtdDN6QWlCTG5TYjZRSFVya1BScmFiRFk3ZnozOEpxZkZHcllBQ1hHZUZ6ZHpGQ2FreUUxMWNtYmJpY3BlUm5QUmJNbmwwNDNUSTNBTktyUVppbHltczJ3U1QySzh0Qko0?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "945bcf249b4a",
+      "date": "2026年11月13日",
+      "title": "廿日市の小学校で27人分の調査表紛失 家族構成や電話番号を記載",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jX0pjSDRyNm83ZjlPNE81TzRDY2Y4TU9acG05elh4ZlU2MnhOUU04WlQwdjRHOGhwMTJINFlWY1hpZDVTQms3ODI0dm1pbHEtcDc1Z0JGa19qdw?oc=5",
+      "source": "Googleニュース（中国新聞デジタル）",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "4f864c4e0d1a",
+      "date": "2026年11月13日",
+      "title": "市立小学校2校で文書が所在不明・誤廃棄、約1320名分の個人情報廃棄も…児童・卒業生の氏名、住所、電話番号などの情報、流出は確認されず | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知 (1ページ)",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzbXhOWVZBdVVRSlJLSWNPSE5kaF9qZGVvQ2owSEdDcmUzU19HYXVWbkNnRERFMDNRNVJHLVdaQ0xUVVp3Q0FQMFNmSkQwa0xLclI4cnhiY3BOZEkyUUFZN1pUQVdDeUNw?oc=5",
+      "source": "Googleニュース（TBS NEWS DIG）",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "f04e8c2351a7",
+      "date": "2026年11月13日",
+      "title": "渋谷区、教育ICT・民生ICT基盤の情報が第三者に閲覧された可能性 デジタルアーツのクラウドサービスに不正アクセス",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPem1ZeXlXTzRqaEMzNDBCR3dDY05pQl9UR3ZDby1qbDgyUW9yZkZNaVktX2Ixcm9td2k0Rm1QbWxKVllpMjVWMDBwNnNROVNsNDZCQjR2cGJ0VU45bmRxUHp3Y080cndIakxYblBHMkFfRmZSQno0Q01vd0gxV0lmR3ZHUmJJVHdEMlhMMWV5NEE3UElkYU1fY1ZlRHlwLWhIcW5id3dxWC1iWDUzRk14aklMc0tYbkszWUFGWGhmMml1OXg2cnNLNg?oc=5",
       "source": "Googleニュース（合同会社ロケットボーイズ）",
       "category": "不正アクセス",
       "color": "orange",
