@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月13日 22:40",
-  "lastUpdatedISO": "2026-11-13T22:40:58.746737+09:00",
-  "totalCount": 169,
+  "lastUpdated": "2026年11月14日 06:06",
+  "lastUpdatedISO": "2026-11-14T06:06:40.661623+09:00",
+  "totalCount": 170,
   "incidents": [
     {
       "id": "440522878ebf",
@@ -45,6 +45,17 @@
       "source": "Googleニュース（合同会社ロケットボーイズ）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "50f24f6e23f1",
+      "date": "2026年11月13日",
+      "title": "学校などの情報漏えい、10月末で昨年超す51件 目立つ乗っ取り",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ObTRFSVIzcWF3dkxtNV9BWDYwSXp1b0lRLWotZWJNSWJuUE1mSlhuNWUxaWcwTEw2UTMyX0FVc0JYUWhNQmFTMV9PYzhHdlkxLVcwcS1n?oc=5",
+      "source": "Googleニュース（教育新聞）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
