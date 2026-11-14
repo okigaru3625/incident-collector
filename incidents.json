@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月14日 06:06",
-  "lastUpdatedISO": "2026-11-14T06:06:40.661623+09:00",
-  "totalCount": 170,
+  "lastUpdated": "2026年11月15日 04:38",
+  "lastUpdatedISO": "2026-11-15T04:38:06.556890+09:00",
+  "totalCount": 171,
   "incidents": [
+    {
+      "id": "f7e138d2757d",
+      "date": "2026年11月14日",
+      "title": "インジェ大学で個人情報2万4011件流出",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQekJsSmkzM2xOZy02eWc1TkFOSVhfbTFXckU1TDU3V1RTbkhmZk9IYVFLYnJBZ2tkSnFnVTMxNUdpa3VFc2JPUlY5cjdjYWhjVVhlVG5fbE5iM0ZHdWpSLUFVM3pkS1NibHlGdnlIT2ozeC1aT2hPRUljdmxhVHRaR9IBlAFBVV95cUxPN1dYemhfalBXR1dSRzlXc24wMUhxRk5IaURlUkJVbHQwd0xrU25ENDRKd1JrckRDY3l5alM3NDYwbmZCV1Zaay00VUVjX2ZIX1d6UGtWb2NkZkFNZzZRTk13Vk4wSkc0UjZjTW92ZzhrRXpfcGJWLUNENXQ2Z19HX0U1bWRWbGZ5ekRwcnFKZ2psbjR0?oc=5",
+      "source": "Googleニュース（Chosunbiz）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "440522878ebf",
       "date": "2026年11月13日",
