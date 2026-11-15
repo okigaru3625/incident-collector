@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月15日 04:38",
-  "lastUpdatedISO": "2026-11-15T04:38:06.556890+09:00",
-  "totalCount": 171,
+  "lastUpdated": "2026年11月15日 09:34",
+  "lastUpdatedISO": "2026-11-15T09:34:05.746836+09:00",
+  "totalCount": 172,
   "incidents": [
     {
       "id": "f7e138d2757d",
@@ -98,6 +98,17 @@
       "description": "日本商工会議所は、「商工会議所ネット試験管理システム」が不正アクセスされ、受験者の個人情報が流出した可能性があることを明らかにした。",
       "url": "https://www.security-next.com/192652",
       "source": "Security NEXT",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "32af63a86c83",
+      "date": "2026年11月12日",
+      "title": "群馬県太田市、学校連絡アプリ「はなまる連絡帳」でメールアドレス漏えいのおそれ アララ不正アクセス、こどもプラッツなどに影響|セキュリティニュースのセキュリティ対策Lab",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUkyUTJDRFhKQi03OHNzUmRaNlhpSnlsdml3dlNNTzU4UlNOZnl5d1pkNE1FZkpKZllnV3JJSHNzRjdyLU1CRGUwNURxU0RBREY3bldVTG5YYmdwQTFoQjQ2VUtqNVVFTlpUUkx1VFlSeElxdGhLeVNHME9iZzc4cGN5bkc5ajJia08ydi1PUW5xZy1QcmR2dFVETlhRODkzTDdtV012WXdNUnNu?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
       "category": "不正アクセス",
       "color": "orange",
       "scale": ""
