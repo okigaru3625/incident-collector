@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026年11月15日 09:34",
-  "lastUpdatedISO": "2026-11-15T09:34:05.746836+09:00",
-  "totalCount": 172,
+  "lastUpdated": "2026年11月16日 19:24",
+  "lastUpdatedISO": "2026-11-16T19:24:43.819382+09:00",
+  "totalCount": 176,
   "incidents": [
+    {
+      "id": "cb73cf202298",
+      "date": "2026年11月16日",
+      "title": "墨塗り薄く文字透けるなど…オホーツク教育局で生徒の個人情報が漏えい 開示文書でミス 保護者に謝罪",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DSWR3d3BXZ2dCdmVGYmQ0ZHJsYWs2MjVoNE1IWjFoal9zU3lJeUpJa0RFblhRYW1rTUZGRjVSalRienVqMmNJcTJTQV9lQ05CMEpFUnU1Zmk3dFIzWmtUcmhCeElzQzJpWml3Qnk2N2drUTVuSm9GOTl0ZEJNTmM?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "7979a945f545",
+      "date": "2026年11月16日",
+      "title": "道立学校生徒の氏名など漏えい オホーツク教育局が事故報告書の黒塗りミス",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMzI2N0loUklJekZYR1g1YkZPUW5pa3ozRFctQTNxWGczNWFackZGNy1ocWRCMWRURTRGSVBfa2EtdkRmb2JQeEFraklZRE03c3FwN0ctblRqZw?oc=5",
+      "source": "Googleニュース（北海道新聞デジタル）",
+      "category": "調査・報告",
+      "color": "blue",
+      "scale": ""
+    },
+    {
+      "id": "bfaee6c75e33",
+      "date": "2026年11月16日",
+      "title": "山口県の全県立学校導入の「心の健康観察アプリ」 不正アクセスでメールアドレス流出",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NFY3WTB3UVc5TEQzOW1oeGxLUE1aQVhuLVBlR3hlbVMtS0JMUkNhNzhUMWlMWFBfdlktTnZWckZvMGZqQTVxSm5TUlNia2trMlFWQjN6bkxmQQ?oc=5",
+      "source": "Googleニュース（中国新聞デジタル）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "f8ee417808f1",
+      "date": "2026年11月16日",
+      "title": "ソウル市立大で個人情報流出か 市が調査",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZjNSbk02YjM0a2VtY2hjRGJWQmZtdzQyOXljYnJvTUdkWGZSSS1lZl92MldGUlF1UHNRSjZ4UXdDZkktODFIcGh5MDllWW45RlRzeFAzSjNYeWEyR1Z2aWs5LWNGdVh2TmVHSWJmSXhXNUdKcEpOTnFUM1pjbmxZT9IBlAFBVV95cUxOX0VXMDJuMldLbHc1U1JBZ3huZExCOVFVVF9YQ2RhZHdIZjJueS10cHRoT3l5YUJPSXN2Yzc3RnNXNkt2OXZpQ2xBdktDbXBEbnZHSEhSTmlRd1dicVJZSHE3TGFUZ2xDQWFMOWVfS1JNd2pNYUxMdk4xSmQ0aUhhd1IxSWc4dXFhYUpId0ZiX2QtSTRl?oc=5",
+      "source": "Googleニュース（Chosunbiz）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
     {
       "id": "f7e138d2757d",
       "date": "2026年11月14日",
