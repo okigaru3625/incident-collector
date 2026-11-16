@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月16日 19:24",
-  "lastUpdatedISO": "2026-11-16T19:24:43.819382+09:00",
-  "totalCount": 176,
+  "lastUpdated": "2026年11月17日 06:27",
+  "lastUpdatedISO": "2026-11-17T06:27:23.091125+09:00",
+  "totalCount": 177,
   "incidents": [
     {
       "id": "cb73cf202298",
@@ -45,6 +45,17 @@
       "source": "Googleニュース（Chosunbiz）",
       "category": "情報セキュリティ",
       "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "48dcc82d4ff0",
+      "date": "2026年11月16日",
+      "title": "スパコン「富岳」にも不正アクセス　世界トップ級の計算能力誇り　大学・企業の研究や製品の開発に利用　流出した情報は「確認中」",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ITlB3MmxLWWZzMEEzUXJjNVp6YUZYRXhhSDk5aVB4a3pZVU1EdmZVTDNyNzlmWWI1amFqUHIzRFgzOVJxZGFmTWlYZlJ6ZFA4VUoyMWhtU2J3TGg5VWtZclQzbGx2RlRDaUdzc25rWdIBdEFVX3lxTFBOVzlaYk1KeUY4cWkzN29pTTZXOWdTT1FkeWpGN2RsSlBGbGVBZjRHamlPWDJwSGpYY1NONVFnZVg3LTMwUncwLXlkSmJmRnFqbmQtZFhzNWU0c2ROU01fcW10T0E4akJGVlV3b2N2WndHU1Rk?oc=5",
+      "source": "Googleニュース（ｄメニューニュース）",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
