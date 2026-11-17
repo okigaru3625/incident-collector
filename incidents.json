@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月17日 06:27",
-  "lastUpdatedISO": "2026-11-17T06:27:23.091125+09:00",
-  "totalCount": 177,
+  "lastUpdated": "2026年11月17日 14:51",
+  "lastUpdatedISO": "2026-11-17T14:51:05.456978+09:00",
+  "totalCount": 178,
   "incidents": [
+    {
+      "id": "e5e351e57a8d",
+      "date": "2026年11月17日",
+      "title": "十文字学園女子大学へのサイバー攻撃、ランサムウェア グループ SafePayが犯行主張 セキュリティ対策Lab独自調査で学生情報や学内資料を確認",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZERNbzIxenEwa2dCRnNiT3FfMzg4dkxRdEdSbUdzT2lKbVVDUVczeTI0X2x0czRtOXZUc0hQbTRiVmMzNTRoQW1OMmlLa2hjOG5tZGhOQWpSSTRxMWVOUmFvT3c1NVprWUdUNkMyNTJKa1RHc3RKb204UTV5eGdGamRWWDBFNUdCS05kWHJGQ244dWpQQjVBNHE2N2dxM2pxYVE?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "ランサムウェア",
+      "color": "red",
+      "scale": ""
+    },
     {
       "id": "cb73cf202298",
       "date": "2026年11月16日",
