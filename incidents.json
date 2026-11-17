@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月17日 14:51",
-  "lastUpdatedISO": "2026-11-17T14:51:05.456978+09:00",
-  "totalCount": 178,
+  "lastUpdated": "2026年11月18日 00:15",
+  "lastUpdatedISO": "2026-11-18T00:15:06.369999+09:00",
+  "totalCount": 180,
   "incidents": [
+    {
+      "id": "91aaf1396046",
+      "date": "2026年11月18日",
+      "title": "都会大に不正アクセス、５千人の情報流出",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52LXRzUEZwbjBPeTVzeU1HUjd0Rlh3MEVBOTF0R01uNlNKaFNTOGZoVERPOUJ5UzFmYWxEbE9LMGM3eGFDa2c?oc=5",
+      "source": "Googleニュース（NNAアジア）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "e5e351e57a8d",
       "date": "2026年11月17日",
@@ -12,6 +23,17 @@
       "source": "Googleニュース（合同会社ロケットボーイズ）",
       "category": "ランサムウェア",
       "color": "red",
+      "scale": ""
+    },
+    {
+      "id": "5b7e7905527f",
+      "date": "2026年11月17日",
+      "title": "周南の中学校職員、生徒と教員360人分の個人情報など記録した私物のUSBメモリー紛失",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zOXgzcWE1UTMwU3FLeHA4ZHNVU1cwenMyVHFOYkJSUWVpX0ViR0ctVWRrelhpenA2SFk3OE5XZFdiWU8tUGpaQTJ2X0Y3UHZDSUloQWwyN1Z0dw?oc=5",
+      "source": "Googleニュース（中国新聞デジタル）",
+      "category": "紛失・盗難",
+      "color": "amber",
       "scale": ""
     },
     {
