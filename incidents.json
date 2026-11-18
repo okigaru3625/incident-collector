@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月18日 09:15",
-  "lastUpdatedISO": "2026-11-18T09:15:56.501196+09:00",
-  "totalCount": 184,
+  "lastUpdated": "2026年11月18日 19:54",
+  "lastUpdatedISO": "2026-11-18T19:54:53.564342+09:00",
+  "totalCount": 186,
   "incidents": [
     {
       "id": "91aaf1396046",
@@ -34,6 +34,28 @@
       "source": "Googleニュース（読売新聞）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "9ed112efe764",
+      "date": "2026年11月18日",
+      "title": "スクールカウンセラーが児童・生徒122人のカウンセリング記録含むUSBメモリ紛失（熊本ニュース KAB ONLINE）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IWmdTM096bU04Zk1HbGprbDFnUERmdDV4ZTJDa1puUWdMeDd0eWJTSm9YMnp3VFJnNlBDNlQ4S3FYeXA1bDdVbG1hZmRSUlF6azIyX1NUQ21TbVNJd01mNDgxV2tZWVFtQVpYYlducFRMdzBKQ2Q0aGRrNGVZZWc?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "dd265f633d27",
+      "date": "2026年11月18日",
+      "title": "大阪府堺市の阪和鳳自動車学校、入学事前登録者5,226名の個人情報が流出 委託先構築フォームの管理画面に不備",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlVBY0xaRC1PZjdWeVJxRm1CdWVrYUhFbmFLUkV1c0xHWEpCcTUwRzZ2SVRlTVJpYmJ3bnlJTmowY25yYUdtcWZTTFJsLUItSTkxankySlgweFFabGxCVU1jeWZkdjNOSVpwaGJFY1JJc0hOckdFQ2xldkdKb2xFZjJYQkZqQUdaS0RYZm0yWFotb0FFbWgySkpKSnJLdWpHMEVobWhCNkw?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
