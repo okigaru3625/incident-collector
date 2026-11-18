@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月18日 00:15",
-  "lastUpdatedISO": "2026-11-18T00:15:06.369999+09:00",
-  "totalCount": 180,
+  "lastUpdated": "2026年11月18日 09:15",
+  "lastUpdatedISO": "2026-11-18T09:15:56.501196+09:00",
+  "totalCount": 184,
   "incidents": [
     {
       "id": "91aaf1396046",
@@ -10,6 +10,28 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52LXRzUEZwbjBPeTVzeU1HUjd0Rlh3MEVBOTF0R01uNlNKaFNTOGZoVERPOUJ5UzFmYWxEbE9LMGM3eGFDa2c?oc=5",
       "source": "Googleニュース（NNAアジア）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "c8ea26a1367c",
+      "date": "2026年11月18日",
+      "title": "日本大学、公式Webサイト24件を改ざん 通信教育部のID・パスワード閲覧のおそれ、過去にも不正アクセス相次ぐ",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGM0N1I3aUtVQ0tmLWVYTUwzd1lmVEl0T2hxRW5GM29iZ2V6dktjNXRONm9SY3ZUb3owbFNjQlJOLTVUNjM2TGtMYUpMTjNVUUctaWI5c3ZWUU1MTE81YTNvYTdPUEIzeU5OSFpiRl8yM3NGLTRsbDVOUlBDaHhJXy0ybzE0MmtzU0VPZVFHaHVkZ25MR2lSTGxYZTdJQ2lEYi1ONW13U1NxdHhtaGpUZXE4TGRIWndhalpZWDhR?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "cda23d91c030",
+      "date": "2026年11月18日",
+      "title": "東京都板橋区:給食で中学生がアレルギー症状、教員が応急処置など適切な対応取らず…栄養士も保護者に改ざん書類を提出",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kVkF5TDFMcl9iSmN5eEZNdVo4LUE4aUFFWUZUQ1JOVnNFN1d0djhMVnRwZERtMnV2c0JlRDVOM2hfZGVvMmlNUjRjaF9YSjQ0UVpkOVdfMlhsUm5sU3FhbjFDaTRXUQ?oc=5",
+      "source": "Googleニュース（読売新聞）",
       "category": "不正アクセス",
       "color": "orange",
       "scale": ""
@@ -34,6 +56,28 @@
       "source": "Googleニュース（中国新聞デジタル）",
       "category": "紛失・盗難",
       "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "44190d36b66c",
+      "date": "2026年11月17日",
+      "title": "眼鏡大手ジンズＨＤ、個人情報１８２９万件漏えいの恐れ…アインＨＤでは１２００万件超の会員情報流出か",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15REZEakJiTTk0VUJOZmM1aHZvRzd1NzRxTF93VTVvdVoyX2JCMEZEZE51VDRHMzB5TXZmcGpIVUU2RF95b1pHcnhzOWhqUURXa01MMFNGWUJOU2twaTJhUmFSUUM?oc=5",
+      "source": "Googleニュース（読売新聞）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "557d696fe409",
+      "date": "2026年11月17日",
+      "title": "茅ケ崎市立中学で通知表誤記載 ３年生５２人分、計算式設定に誤り",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52a1VkZFRRdkUxSTluYmZnblRUTlFyMkxhbnEwYlhfcUh2eVJuN3Npc3ZFVE9zOXVodDRxZmtlWU5kcGJubWgxTzdhRlZBdGtzUWNFakE0MEZJTG1FZlhUWXY2ZnlXVHNyVDQyNw?oc=5",
+      "source": "Googleニュース（カナロコ）",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
