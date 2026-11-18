@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月18日 19:54",
-  "lastUpdatedISO": "2026-11-18T19:54:53.564342+09:00",
-  "totalCount": 186,
+  "lastUpdated": "2026年11月19日 04:46",
+  "lastUpdatedISO": "2026-11-19T04:46:37.992113+09:00",
+  "totalCount": 189,
   "incidents": [
     {
       "id": "91aaf1396046",
@@ -56,6 +56,39 @@
       "source": "Googleニュース（合同会社ロケットボーイズ）",
       "category": "情報セキュリティ",
       "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "b3ba375d5b20",
+      "date": "2026年11月18日",
+      "title": "「ふざけんな」『楽天証券』情報漏えいの可能性　ネット大混乱「全部もれてた」「NISA使ってんの後悔しかない」",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbUJ2cmd0R005Z25RT3d2TF9GMkdvUGh0aTZJdmZjOW1wbTREUFp1ZF9PZ2pDSjNsNE03a3FoVjNGUk5UXy1Da1BXbV9sakY4bDk4WllDaTFYUUU5V0NaM0Z6by1fOElDcFNLc05vZ0R4NFFXVGc2ZDlLcEhwQndOdtIBhgFBVV95cUxNZ3h6dkl2Wm9FMmhUb2hXRHF5SEU3ODg5aWNsTk9BQVFBelVZYVlNX092R2ViYWwzTy1ReXFUb1M5SWVPdmpHTk5NZDRXMGt1UWhHd0g1VkM3RVpaVklxRzFuNzM0bzRuV2R3OVZIcGNDRlJ6dldKMWtEVnc4V2xNMlpmVWQ5QQ?oc=5",
+      "source": "Googleニュース（ｄメニューニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "52de5b59bad8",
+      "date": "2026年11月18日",
+      "title": "板橋区の中学給食でアレルギー発症 栄養士が書類を改ざん (2026年11月18日掲載)",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeC1ONGRYREpUSEg5T3oyZ0xSbndaVmY1M0IyZ3luUUNnR0JiSGpMV3Q5QlFCWVQ0aEw3UnF0MjBiTGpnTUF6QTNNVl83akEyYmFfQXBVdVRSQTNzdnc?oc=5",
+      "source": "Googleニュース（ライブドアニュース）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "e4badb38e66c",
+      "date": "2026年11月18日",
+      "title": "東広島の全市立保育所・こども園で個人情報漏えいか 不正アクセスで保護者の名前やメアド",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aYzRRdnJKWnV6dVctNDJ0N2pZeHEzOUZiSzc3ZW5jd3pCWFk2TGtIclY4RVNjUGZuaTg4c0NJd3FKVWt5VDI5T0llbXZpNkQ5SXlseUhrY0lMZw?oc=5",
+      "source": "Googleニュース（中国新聞デジタル）",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
