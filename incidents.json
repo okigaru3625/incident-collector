@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月19日 11:09",
-  "lastUpdatedISO": "2026-11-19T11:09:15.814152+09:00",
-  "totalCount": 190,
+  "lastUpdated": "2026年11月19日 19:57",
+  "lastUpdatedISO": "2026-11-19T19:57:31.214644+09:00",
+  "totalCount": 191,
   "incidents": [
     {
       "id": "fae7d721e774",
@@ -10,6 +10,17 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOazVMUEZWNWt0UXZHVWtZNUlXOGROWnFBZ1AwUlNRQWxoTUppcHJQYkVNWE5rMmQ3bEpSYWtaUGVtaUFMcjhEWm5ZTQ?oc=5",
       "source": "Googleニュース（47NEWS）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "6766ce1533c8",
+      "date": "2026年11月19日",
+      "title": "Schoo Swingに不正アクセス 教員9名と77校の代表者情報が漏えい",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52dW9STUNBRFNXVmZpNUFqSmU4M2JuRmhsczJQM0JEdG01U1dOdXJPOUVrOGtOQ0ZCYmE3a3RvV0dGOE12T1FlRA?oc=5",
+      "source": "Googleニュース（株式会社アクト）",
       "category": "不正アクセス",
       "color": "orange",
       "scale": ""
