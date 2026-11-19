@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月19日 19:57",
-  "lastUpdatedISO": "2026-11-19T19:57:31.214644+09:00",
-  "totalCount": 191,
+  "lastUpdated": "2026年11月20日 04:47",
+  "lastUpdatedISO": "2026-11-20T04:47:38.067215+09:00",
+  "totalCount": 193,
   "incidents": [
+    {
+      "id": "5fcf15cf8c79",
+      "date": "2026年11月20日",
+      "title": "情報漏れ疑い企業が利用のシステムでも漏えいか 不正アクセス、１５０人分 島根県教委のバスツアー",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zN05meE1JNzBPSXhMbjZxazFJYlUtR1hUTExnUnJEMjE3RnpjT0ZfbEJVbWpmUTdzTUd3Q3p4QjA3cWdFTUtYYWVkakVGbzI3V0xKM3VtaHhlem8?oc=5",
+      "source": "Googleニュース（山陰中央新報デジタル）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "fae7d721e774",
       "date": "2026年11月19日",
@@ -155,6 +166,17 @@
       "source": "Googleニュース（カナロコ）",
       "category": "誤操作・誤公開",
       "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "d0c1acb610b7",
+      "date": "2026年11月17日",
+      "title": "大阪公立大学、委託先であるNECの個人情報漏えいについて発表、機密性の高い個人情報を削除せず保持",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGtaZkJsMFJIOVNPdkM1b0xnd0pwU2lKSWVmMEU4UzdJR0ZCd21TUXpvNnJWVkUwanliZEZsU2FMdE9kbFRWclAtUzBUT0ttS0t0c1JrcUg1MjlXdUZUZmYwYXhPQnc1VGFKVkg2dzRvbWFqZTBwLTg0TjFFUWtRLUVLUVNOczlYSUNJ0gGQAUFVX3lxTFBja3oyX3JkZHdad2lMWGljUlVEVVl2TV9pTC16UnQ0TVVVSHdwZTVKcXBiSEpZM05reTRrOG0wLVpBcmhwWjdwcEp3MHBKWE4ybHpJTDdvWmx2elFEYXRZMlBnN2hrbGE3TU91bGJTQldwQ2k4bjZoZWVuaFEtU0xtUkRiNEM2U3NwVkJnVGJPOQ?oc=5",
+      "source": "Googleニュース（ｄメニューニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
