@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月19日 04:46",
-  "lastUpdatedISO": "2026-11-19T04:46:37.992113+09:00",
-  "totalCount": 189,
+  "lastUpdated": "2026年11月19日 11:09",
+  "lastUpdatedISO": "2026-11-19T11:09:15.814152+09:00",
+  "totalCount": 190,
   "incidents": [
+    {
+      "id": "fae7d721e774",
+      "date": "2026年11月19日",
+      "title": "福島市教委、学校関係のメールアドレス62件漏えい アララへの不正アクセス問題で",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOazVMUEZWNWt0UXZHVWtZNUlXOGROWnFBZ1AwUlNRQWxoTUppcHJQYkVNWE5rMmQ3bEpSYWtaUGVtaUFMcjhEWm5ZTQ?oc=5",
+      "source": "Googleニュース（47NEWS）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "91aaf1396046",
       "date": "2026年11月18日",
