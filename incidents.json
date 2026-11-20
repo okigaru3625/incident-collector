@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月20日 10:57",
-  "lastUpdatedISO": "2026-11-20T10:57:55.398832+09:00",
-  "totalCount": 195,
+  "lastUpdated": "2026年11月20日 19:45",
+  "lastUpdatedISO": "2026-11-20T19:45:48.992419+09:00",
+  "totalCount": 198,
   "incidents": [
     {
       "id": "5fcf15cf8c79",
@@ -21,6 +21,39 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCRHZIWnYxOFNqLWZXR29NN1dsV08weURnWGdSMzkxWXMwVmlZZzhwUFVYMTFlek04YXhJM0tBYUJFUE1ydlQyS2JMWQ?oc=5",
       "source": "Googleニュース（47NEWS）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "e21836f8364f",
+      "date": "2026年11月20日",
+      "title": "一関市 児童生徒の個人情報が一時見られる状態に【岩手】（IAT岩手朝日テレビ）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MaWNqTDhqYW12ZWpJd1JZa2VlVjR1MHVzLUJMSzJzcW5rQXJhaFp6ak1nbEgtNndOb2drNTNJNXRtblRmaGpjTFN6ZVZ0ZWxOWjFlR1lmNFBqSlJIa0UyODVGbUpManF0V1RfVmc1VzltMml1R2tIN2czMTBndTg?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "5e37d3432555",
+      "date": "2026年11月20日",
+      "title": "不正アクセス、中小企業の苦慮 高価なソフト・人材教育「ベストの対策わからない」",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fU3hScm5rVUZkWWt3SUJzODRCTFhIVlExZHpYaDJMTmpnYjczaDh5LWlTTTlfYXBwNDlxNURMbVFSYloxU1dHNEUzRlc5WWY2YXBsWFNyYjVrT2tC?oc=5",
+      "source": "Googleニュース（朝日新聞）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "bb5063eb9294",
+      "date": "2026年11月20日",
+      "title": "楽天証券の不正アクセス、余波大きく＝情報管理体制に問題も",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0cUx5dW1JRFN6cDJNMElqcmZyT25ZU09ueEdKUTVyc093S0RRbklVOWNIdlBpSC05V2JWWDB4a1FiUDlpTlE4dVZwTmhHRGRUNmZReTEtVng?oc=5",
+      "source": "Googleニュース（リスク対策.com）",
       "category": "不正アクセス",
       "color": "orange",
       "scale": ""
