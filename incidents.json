@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月20日 19:45",
-  "lastUpdatedISO": "2026-11-20T19:45:48.992419+09:00",
-  "totalCount": 198,
+  "lastUpdated": "2026年11月21日 04:27",
+  "lastUpdatedISO": "2026-11-21T04:27:55.372540+09:00",
+  "totalCount": 202,
   "incidents": [
     {
       "id": "5fcf15cf8c79",
@@ -54,6 +54,28 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0cUx5dW1JRFN6cDJNMElqcmZyT25ZU09ueEdKUTVyc093S0RRbklVOWNIdlBpSC05V2JWWDB4a1FiUDlpTlE4dVZwTmhHRGRUNmZReTEtVng?oc=5",
       "source": "Googleニュース（リスク対策.com）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "7df1515f663f",
+      "date": "2026年11月20日",
+      "title": "小学校で児童154人分の個人情報流出　名前や体操服サイズ、保護者の携帯電話番号など",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjVOdG4wRGFiMVF3Q0wtOVN3YVBxZFR4aGF3WTVfUVgybHMxa0ZoYksycTZkbkl0dzVJM0I2bThCc1VlQlN0RV9zLTZFWDNkNFFlTWdSUzJaTjgtdG9vZEg4dWtTTlBsNkNyQ09RaVo2a3BaTHQyVEZraVlHT2ZlakVvTFh6QdIBiwFBVV95cUxOcmVIRm55VWRLOTBqVko1RWRNMkxWbk9nTEFDZEJXTk9vQWt6SmxHY1dDTW04M3NjbnoyTU0yUUNzSlg5TXFIakw0d0ZwUWo0X2RaZTloWldoMlAtX3R4VzEwZ2JNcUFmbE9jRWgzbVdRVE1WaEdGV251Y2JXNkpIUkZ6dmd5UnVvWlVN?oc=5",
+      "source": "Googleニュース（ｄメニューニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "ef997dd8de4c",
+      "date": "2026年11月20日",
+      "title": "京都大学で学生や教職員のメルアド4万2399件流出 安否確認システムに不正アクセス（京都新聞）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sVm5fZGtnUVdKUjVNWS1mTTJSd0lqekgxN2FsQ2N5RE5QY1RZeUJlOU9WeWxFeHJhdkp2WndKSUZNVmFEdzJ1dy1xcWFrZUkwSkM2RU5sSnR5SXQ5b2Mtc0h6ZG1rMlgxUWdTZXJ4SkNtVktZb2ZpakxlQ2NqWnM?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
       "category": "不正アクセス",
       "color": "orange",
       "scale": ""
@@ -164,6 +186,17 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aYzRRdnJKWnV6dVctNDJ0N2pZeHEzOUZiSzc3ZW5jd3pCWFk2TGtIclY4RVNjUGZuaTg4c0NJd3FKVWt5VDI5T0llbXZpNkQ5SXlseUhrY0lMZw?oc=5",
       "source": "Googleニュース（中国新聞デジタル）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "2a1ce28826fa",
+      "date": "2026年11月18日",
+      "title": "攻撃をリアルタイム検知 0.1秒未満で復旧 不正アクセス相次ぐなか…外部から攻撃されないための『最新セキュリティ』展示会 インテックス大阪 | MBSニュース | 関西の最新ニュースを分かりやすく。",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iUk9FV0tjM1VibXZYLVZDbzBQZ2pHdklHSmxIT3RwNjJyZXh0U1RjaWp2MzdhaXcxZXpSZnJTUkJvMUNTcTg3S3djY2MwMnE4VnQ4VEx3eW1lQQ?oc=5",
+      "source": "Googleニュース（TBS NEWS DIG）",
       "category": "不正アクセス",
       "color": "orange",
       "scale": ""
@@ -287,6 +320,17 @@
       "source": "Googleニュース（時事ドットコム）",
       "category": "情報セキュリティ",
       "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "82a63f1328b4",
+      "date": "2026年11月16日",
+      "title": "フランス郵政大手「ラ・ポスト」傘下企業でサイバー攻撃 2200万人分の個人情報流出",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNY2hrZnEzQjBBZlRWaldpaFpfcm80RlpidVpmV2tIcTB0b3gwS0E0cTUzSEowOHdqSU9DWHNKYVdoTmNsaTEwSWRPcEJNX0tzVFQtaGJ4TWNjZy1OV0c3QUtYLUhuWEp1Z213QVFR?oc=5",
+      "source": "Googleニュース（au Webポータル）",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
