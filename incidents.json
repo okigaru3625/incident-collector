@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月20日 04:47",
-  "lastUpdatedISO": "2026-11-20T04:47:38.067215+09:00",
-  "totalCount": 193,
+  "lastUpdated": "2026年11月20日 10:57",
+  "lastUpdatedISO": "2026-11-20T10:57:55.398832+09:00",
+  "totalCount": 195,
   "incidents": [
     {
       "id": "5fcf15cf8c79",
@@ -10,6 +10,17 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zN05meE1JNzBPSXhMbjZxazFJYlUtR1hUTExnUnJEMjE3RnpjT0ZfbEJVbWpmUTdzTUd3Q3p4QjA3cWdFTUtYYWVkakVGbzI3V0xKM3VtaHhlem8?oc=5",
       "source": "Googleニュース（山陰中央新報デジタル）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "28ee9d735f03",
+      "date": "2026年11月20日",
+      "title": "ふくしま花火大会とわらじまつりチケットサイトに不正アクセス 不審なメールや連絡に注意呼びかけ",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCRHZIWnYxOFNqLWZXR29NN1dsV08weURnWGdSMzkxWXMwVmlZZzhwUFVYMTFlek04YXhJM0tBYUJFUE1ydlQyS2JMWQ?oc=5",
+      "source": "Googleニュース（47NEWS）",
       "category": "不正アクセス",
       "color": "orange",
       "scale": ""
@@ -232,6 +243,17 @@
       "source": "Googleニュース（ｄメニューニュース）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "b5fcbf475a8f",
+      "date": "2026年11月16日",
+      "title": "【現役学生453名に聞く】Z世代学生の8割超が「情報漏洩が不安」と回答、しかし約8割がパスワードを使い回す矛盾が判明",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxYTFSeWJZcnZqM0NyTzhFTjZLbUtidENmMUEwN2VVZ1EzZWVEU29sVmxENExScnZaT2dxNHhWOHB3YlpOckxQYmtuMFR2YmlYY3VMUWlCNjZVM0NiaTVuTkMxaGFBeV9NZnRJ?oc=5",
+      "source": "Googleニュース（時事ドットコム）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
