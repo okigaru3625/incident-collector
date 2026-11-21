@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月21日 10:53",
-  "lastUpdatedISO": "2026-11-21T10:53:50.261322+09:00",
-  "totalCount": 203,
+  "lastUpdated": "2026年11月22日 03:29",
+  "lastUpdatedISO": "2026-11-22T03:29:24.739528+09:00",
+  "totalCount": 205,
   "incidents": [
     {
       "id": "709d3cff1ffe",
@@ -89,6 +89,28 @@
       "source": "Googleニュース（Yahoo!ニュース）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "33a51691b51d",
+      "date": "2026年11月20日",
+      "title": "楽天証券に報告徴求命令 最大1572万口座の個人情報漏えい問題で金融庁 片山大臣「非常に遺憾」最大447万口座は“年収”や“資産”も",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wcEh2V19jNTVFNGNSTUpLV3JRNDJBRXdxYkZLekVFOXRuYkE0ZzFCSHlJTndVQUpJWmFyRHpMMHM4WHpwUktQaTRrTjNtY0ZSOWpUZk9Ucw?oc=5",
+      "source": "Googleニュース（TBS NEWS DIG）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "1e1b68e634ad",
+      "date": "2026年11月20日",
+      "title": "横浜市立小、中学校４校で通知表の誤記載 横浜市教委、１１５人分",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51YnRDUnRCOUpPUmVrem1KZ1ZsZ2RrZzJ6bG5QcTZjczdybXVobWRLb0R2b2xNVERPR1JLWVk2NGVhRkt2Zk9LS3NWbTlMRkZvc3cxWi1tT1R0dkg3YVU2SmFFcWJvZk9SNEJfag?oc=5",
+      "source": "Googleニュース（カナロコ）",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
