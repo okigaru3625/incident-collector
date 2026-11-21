@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月21日 04:27",
-  "lastUpdatedISO": "2026-11-21T04:27:55.372540+09:00",
-  "totalCount": 202,
+  "lastUpdated": "2026年11月21日 10:53",
+  "lastUpdatedISO": "2026-11-21T10:53:50.261322+09:00",
+  "totalCount": 203,
   "incidents": [
+    {
+      "id": "709d3cff1ffe",
+      "date": "2026年11月21日",
+      "title": "不正アクセスの痕跡を見つけよ サイバー競技大会で実力を競う警察官 [秋田県] [情報漏洩・個人情報流出の最新ニュース]",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xUy1VNzlwU2lVamJpenFPLWxUT0FhdjhCbDdrdE1yaV9pWmh6MXVTUW9GVHNORi02eUV5bUtLZTdWVDVFSE12SnRwT2EwazU5X094bTRrNEZtb1hQSkY0REw0LVpIMTA?oc=5",
+      "source": "Googleニュース（朝日新聞）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "5fcf15cf8c79",
       "date": "2026年11月20日",
