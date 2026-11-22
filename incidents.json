@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月22日 03:29",
-  "lastUpdatedISO": "2026-11-22T03:29:24.739528+09:00",
-  "totalCount": 205,
+  "lastUpdated": "2026年11月22日 09:49",
+  "lastUpdatedISO": "2026-11-22T09:49:10.667711+09:00",
+  "totalCount": 207,
   "incidents": [
     {
       "id": "709d3cff1ffe",
@@ -12,6 +12,17 @@
       "source": "Googleニュース（朝日新聞）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "8b4327f6ea0c",
+      "date": "2026年11月21日",
+      "title": "ネット掲示板に個人情報投稿で賠償命じられた名古屋市の少女、学校貸与のタブレットで書き込みか",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VZDFkdGRXOTBRaTdOUnlTMVN0ZkZISm0zdC1sT2lqdHFQdEk1Z21vMFlYemxEdVFfdUFUaXQ3by1tSG9jRW1EcVNtVVRBOHNYQlhPMw?oc=5",
+      "source": "Googleニュース（中日新聞Web）",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
       "scale": ""
     },
     {
@@ -133,6 +144,17 @@
       "source": "Googleニュース（株式会社アクト）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "a7281970b0e9",
+      "date": "2026年11月19日",
+      "title": "プリント裏紙に採点済みテスト、いわきの公立学校 ２人の氏名、点数漏えい",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hakFRa2VlM21RNjJ2VEprbjRKR0F2N1JkTTFSak0wdi1kTjdreXBTaDl4VWkwbjZZWk9EckpUbG5iaEZ5ZWlTeVVQMA?oc=5",
+      "source": "Googleニュース（47NEWS）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
