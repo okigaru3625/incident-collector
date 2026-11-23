@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月22日 09:49",
-  "lastUpdatedISO": "2026-11-22T09:49:10.667711+09:00",
-  "totalCount": 207,
+  "lastUpdated": "2026年11月23日 20:33",
+  "lastUpdatedISO": "2026-11-23T20:33:30.915054+09:00",
+  "totalCount": 208,
   "incidents": [
     {
       "id": "709d3cff1ffe",
@@ -254,6 +254,17 @@
       "source": "Googleニュース（TBS NEWS DIG）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "431a9059f860",
+      "date": "2026年11月18日",
+      "title": "顔が写っていなくても特定される？SNS投稿に潜む危険…小学生が学んだ“個人情報流出”の怖さ　新潟",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yRkp4TGtHcWtDRlc3WkdDRlBxWjdUODQxbG1lV3BFbFRsajZCTjJnSUZxZjlrQklPdk1kX2VKaTdZMkxicll5bHI3TjZWNUhOa094QWRCbEZqd3MxdXJUR0Q0ckpKSFlrT2dXRThZM19SUdIBd0FVX3lxTE51RUphUEI2QlpTY3FzYThmYjRzU0ZjVmRvV29FRWpmel85Q1llMXNudW5xUmNrSnJ0X3FfZHdGTFFndkxwQUFadnpXUldSSlJrZmp2R1U3bDBlT3Vicm9aUFQ3UmF1UGwtZGxPLWtxenY3bEZiOUVJ?oc=5",
+      "source": "Googleニュース（ｄメニューニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
