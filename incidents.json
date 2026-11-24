@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月24日 16:43",
-  "lastUpdatedISO": "2026-11-24T16:43:35.933152+09:00",
-  "totalCount": 209,
+  "lastUpdated": "2026年11月25日 04:50",
+  "lastUpdatedISO": "2026-11-25T04:50:07.107031+09:00",
+  "totalCount": 210,
   "incidents": [
+    {
+      "id": "559d5d54d93e",
+      "date": "2026年11月24日",
+      "title": "高校の修学旅行引率中に生徒の個人情報を紛失 - 広島県",
+      "description": "広島県は、県内高校の修学旅行中に生徒の個人情報を紛失したことを明らかにした。",
+      "url": "https://www.security-next.com/192872",
+      "source": "Security NEXT",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "709d3cff1ffe",
       "date": "2026年11月21日",
