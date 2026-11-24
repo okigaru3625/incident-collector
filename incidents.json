@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月23日 20:33",
-  "lastUpdatedISO": "2026-11-23T20:33:30.915054+09:00",
-  "totalCount": 208,
+  "lastUpdated": "2026年11月24日 16:43",
+  "lastUpdatedISO": "2026-11-24T16:43:35.933152+09:00",
+  "totalCount": 209,
   "incidents": [
     {
       "id": "709d3cff1ffe",
@@ -318,6 +318,17 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGtaZkJsMFJIOVNPdkM1b0xnd0pwU2lKSWVmMEU4UzdJR0ZCd21TUXpvNnJWVkUwanliZEZsU2FMdE9kbFRWclAtUzBUT0ttS0t0c1JrcUg1MjlXdUZUZmYwYXhPQnc1VGFKVkg2dzRvbWFqZTBwLTg0TjFFUWtRLUVLUVNOczlYSUNJ0gGQAUFVX3lxTFBja3oyX3JkZHdad2lMWGljUlVEVVl2TV9pTC16UnQ0TVVVSHdwZTVKcXBiSEpZM05reTRrOG0wLVpBcmhwWjdwcEp3MHBKWE4ybHpJTDdvWmx2elFEYXRZMlBnN2hrbGE3TU91bGJTQldwQ2k4bjZoZWVuaFEtU0xtUkRiNEM2U3NwVkJnVGJPOQ?oc=5",
       "source": "Googleニュース（ｄメニューニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "7baec72b089d",
+      "date": "2026年11月17日",
+      "title": "理系学生の“県外流出\"を防げ!愛媛大工学部の学生と県内企業19社が直接交流 技術や研究成果をPR【愛媛】",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xUnVWQURmV2VNVXRjaExfRTVjRVRaUzFNZ3NaNGp0MFk2TXppd0k5SXUxNmpKaC1NQUhvRjFFdzBvODZwcldoQjlVVF83Zk5BUUlhRkhtN3JQLVZLQnhXS0RfYVBhcEU?oc=5",
+      "source": "Googleニュース（TBS NEWS DIG）",
       "category": "情報セキュリティ",
       "color": "gray",
       "scale": ""
