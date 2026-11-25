@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月25日 04:50",
-  "lastUpdatedISO": "2026-11-25T04:50:07.107031+09:00",
-  "totalCount": 210,
+  "lastUpdated": "2026年11月25日 12:53",
+  "lastUpdatedISO": "2026-11-25T12:53:58.562433+09:00",
+  "totalCount": 211,
   "incidents": [
+    {
+      "id": "fead1788c75f",
+      "date": "2026年11月25日",
+      "title": "柏市立小学校で医療的ケア児の健康状態を記した「医療的ケア日誌」を紛失、要配慮個人情報が漏れたおそれ",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQjQ2Uloxdmd4blRicXVpOWFWcW1zdEw5NDZBWmxWQVRKRXlCSkgtMHFFRzZUY1VhT0RjSHJ0a1lxVFVoaFdUTHRhZmdENUE?oc=5",
+      "source": "Googleニュース（柏つうしん）",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
     {
       "id": "559d5d54d93e",
       "date": "2026年11月24日",
