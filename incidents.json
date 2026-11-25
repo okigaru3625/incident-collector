@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月25日 12:53",
-  "lastUpdatedISO": "2026-11-25T12:53:58.562433+09:00",
-  "totalCount": 211,
+  "lastUpdated": "2026年11月26日 01:32",
+  "lastUpdatedISO": "2026-11-26T01:32:19.348557+09:00",
+  "totalCount": 212,
   "incidents": [
     {
       "id": "fead1788c75f",
@@ -177,6 +177,17 @@
       "source": "Googleニュース（47NEWS）",
       "category": "情報セキュリティ",
       "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "5015a4f4a385",
+      "date": "2026年11月19日",
+      "title": "【山口県】生徒の情報や写真保存の私物USB 中学校職員が紛失、説明は3週間後（日刊新周南）",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tLWlRamN2YVg1b3YwZHNVVmlfeTBBWDBwUEN1UWFxbmpCcDhWY0hFNkpycXdqWmpmUzdvZVc4YlhMRlo0VUVfcF9iWXZwTy1XTndWb0NkU3lMUWFtSEMtT3J4X3FwNmlPQnBaRXN4emUtSVdNY3VZc2FOQ096dE0?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "紛失・盗難",
+      "color": "amber",
       "scale": ""
     },
     {
