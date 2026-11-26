@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月26日 10:21",
-  "lastUpdatedISO": "2026-11-26T10:21:38.952315+09:00",
-  "totalCount": 213,
+  "lastUpdated": "2026年11月26日 20:43",
+  "lastUpdatedISO": "2026-11-26T20:43:35.530830+09:00",
+  "totalCount": 217,
   "incidents": [
     {
       "id": "a1d84c54878f",
@@ -15,6 +15,39 @@
       "scale": ""
     },
     {
+      "id": "3335643ea1bc",
+      "date": "2026年11月26日",
+      "title": "中学校生徒43人分のアレルギー情報を誤送信 京都府舞鶴市、ミス相次ぎ臨時校長会議",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hSlYzZU5Cd3hHbGE4Ukk3U1hxVGlnY0VJSUtPZVd1NGFCbW42NXBzNGlGYmxkSmdCNnNaTGYtUTVsbmZZVHVYNEtkQ2pUOE9obDZnS3lBSFk?oc=5",
+      "source": "Googleニュース（京都新聞デジタル）",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "f8e5630e36ba",
+      "date": "2026年11月26日",
+      "title": "グロービス経営大学院などの受講者・資料請求者の個人情報漏えい プレイド「KARTE」への不正アクセスで",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSFJwbDdIcDRXSmt5NlVVSFIwWDl2R25sc09YQ2Z6X01ib0NpZ1dFb0xzcDVQa2JWVHZzeFF2RURaOWhGblBMVjJidFRlUjhjb1ByT01nbWNOc2k1QjJHbkVQSXFJTmxLQ210TEFPTjJHQ29fWjNXRzB1SnNLWU1aMVA0a0hoU0w4VG1iQUhiVmRtNUhRbkE?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "ea941d2efd1d",
+      "date": "2026年11月26日",
+      "title": "中学生ら27人の情報漏えい 委託先へのサイバー攻撃で宮城・山元町教委",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoRmZpV2VadGw4Q1dOZWVyRm1fd1FFQlY0YU9TQTdBRHRtWHBlSmFLamVZUi05Ul8tNTd2ektnU2U4bk5CZUpsbjRYbw?oc=5",
+      "source": "Googleニュース（47NEWS）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
       "id": "fead1788c75f",
       "date": "2026年11月25日",
       "title": "柏市立小学校で医療的ケア児の健康状態を記した「医療的ケア日誌」を紛失、要配慮個人情報が漏れたおそれ",
@@ -23,6 +56,17 @@
       "source": "Googleニュース（柏つうしん）",
       "category": "紛失・盗難",
       "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "c9bfe4ed8790",
+      "date": "2026年11月25日",
+      "title": "子どもの成績や月謝、口座番号など最大5万件漏えいか　学習塾「ベスト個別」運営元に不正アクセス",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wWkhwU2NZaVM5ZTVKcWhsbTlHT2Qzd25wSzZRS09LaXlDVXd2bGE1SFA1ZzRoS0RJaThvSmJ3T2FBc21xTl9vZTR1Q0p5MERaRTlOR2o3MHQtVXQ1NWw5S204TE5Ia1gxT3lFMWJmSjNuVll2Uk9pQTUyWWvSAXxBVV95cUxOcFpIcFNjWWlTOWU1SnFobG05R09kM3ducEs2UUtPS2l5Q1V3dmxhNUhQNWc0aEtESWk4b0pid09hQXNtcU5fb2U0dUNKeTBEWkU5TkdqNzB0LVV0NTVsOUttOExOSGtYMU95RTFiZkozblZZdlJPaUE1Mllr?oc=5",
+      "source": "Googleニュース（Infoseek）",
+      "category": "不正アクセス",
+      "color": "orange",
       "scale": ""
     },
     {
