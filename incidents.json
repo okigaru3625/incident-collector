@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026年11月26日 01:32",
-  "lastUpdatedISO": "2026-11-26T01:32:19.348557+09:00",
-  "totalCount": 212,
+  "lastUpdated": "2026年11月26日 10:21",
+  "lastUpdatedISO": "2026-11-26T10:21:38.952315+09:00",
+  "totalCount": 213,
   "incidents": [
+    {
+      "id": "a1d84c54878f",
+      "date": "2026年11月26日",
+      "title": "サポート詐欺を未然防止 琴浦大山署、ローソン西伯名和店の従業員に感謝状",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xX3lvQkFGdVBmZ05UWGVYNEg5M3NYLXhiRmUzdy1aM1l6WWNURGotU2JLSi1fYkw5MVprV0c0SzNuZE1SYVpiZktFNjBVaDgzUHp4Y2VZeUlScDQ?oc=5",
+      "source": "Googleニュース（山陰中央新報デジタル）",
+      "category": "フィッシング",
+      "color": "purple",
+      "scale": ""
+    },
     {
       "id": "fead1788c75f",
       "date": "2026年11月25日",
