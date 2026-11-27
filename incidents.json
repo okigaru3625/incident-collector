@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026年11月27日 12:23",
-  "lastUpdatedISO": "2026-11-27T12:23:57.317278+09:00",
-  "totalCount": 220,
+  "lastUpdated": "2026年11月28日 00:53",
+  "lastUpdatedISO": "2026-11-28T00:53:18.882801+09:00",
+  "totalCount": 225,
   "incidents": [
     {
       "id": "ef6408fa2347",
@@ -34,6 +34,61 @@
       "source": "Googleニュース（サイバーセキュリティ.com）",
       "category": "不正アクセス",
       "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "8a454a06faa4",
+      "date": "2026年11月27日",
+      "title": "生徒1人の教育支援計画を紛失 熊本市立中",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSVF2RllFWlRqS2hNMC1uZ1BELXhDVUZseVBfVE84S1pfQ3dFZGZMbTZaYVhqSC1RNTBiVlNrb0hON0JHZDRuOE9xWGZnaVU?oc=5",
+      "source": "Googleニュース（熊本日日新聞社）",
+      "category": "紛失・盗難",
+      "color": "amber",
+      "scale": ""
+    },
+    {
+      "id": "9937a406c7d6",
+      "date": "2026年11月27日",
+      "title": "札幌市立小学校で“配慮を要する児童の情報７７人分漏洩” 他校の児童が発見し発覚 ３８人がデータ閲覧",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fSWtYM2h1NkdlZ3NkYVJxdkdDbVBITmNLSlFyRzFUYmFESVlwNTV0NVRZejlfRFJLTWxhUWdDdDVxT19naFN2ZkdCSlNiLWI3azdMcFMyWTN4Zw?oc=5",
+      "source": "Googleニュース（HTB 北海道テレビ）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "823419f1312b",
+      "date": "2026年11月27日",
+      "title": "高知市長 職員採用試験受験者の個人情報漏えいを陳謝【高知】（2026年11月27日掲載）｜RKC NEWS NNN",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NTXRVZjZSUHpyNmdzMGV3ektfTkZUcUk1VWZwanUzM09aRVIyYVhydGVtRWNWSm9VcXNnTmhwTlNncFdzVzk3UXA3a1BaWVBKWUpQQ0w4ZW5iMGFkMzN0WFJqRkxRR0ZROGRjbnNtV2lOZnFLRGN6R2xYN0xncXM?oc=5",
+      "source": "Googleニュース（日テレNEWS NNN）",
+      "category": "情報セキュリティ",
+      "color": "gray",
+      "scale": ""
+    },
+    {
+      "id": "df2cd5dc7a70",
+      "date": "2026年11月27日",
+      "title": "児童77人分の個人情報、閲覧可能に 札幌・新琴似西小",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDX3o5c0M4UVdSMGZBM1hQT0s0amJveEliZngtb2RJR0ItLU5DcWJtVWI0bjJ2OFh4RWxOYy1FQ3hZOHc5VTZpZFdKQQ?oc=5",
+      "source": "Googleニュース（47NEWS）",
+      "category": "誤操作・誤公開",
+      "color": "yellow",
+      "scale": ""
+    },
+    {
+      "id": "44eba849f47c",
+      "date": "2026年11月27日",
+      "title": "元教員がドイツでパソコン盗まれ1364人の個人情報漏洩の可能性 受講した学生の氏名・所属・学年・性別・成績 静岡大学",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02dnB2VGVac0VER2didVFZcG5JcjRuTjVlSi15eGRvNzBwRms5X2VIYmlveFNvbWN1VzJfWUVxbzVhS090VVdLMEhMV2tud3lBMHRGbldzNzAtd1JZbWJ4Wm9PRjR2NTM3TkFWSF9iSERUZU5vcHdLdkNGeHpXSmM?oc=5",
+      "source": "Googleニュース（Yahoo!ニュース）",
+      "category": "情報セキュリティ",
+      "color": "gray",
       "scale": ""
     },
     {
