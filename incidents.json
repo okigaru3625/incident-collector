@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026年11月26日 20:43",
-  "lastUpdatedISO": "2026-11-26T20:43:35.530830+09:00",
-  "totalCount": 217,
+  "lastUpdated": "2026年11月27日 12:23",
+  "lastUpdatedISO": "2026-11-27T12:23:57.317278+09:00",
+  "totalCount": 220,
   "incidents": [
+    {
+      "id": "ef6408fa2347",
+      "date": "2026年11月27日",
+      "title": "今日もどこかで情報漏えい 第54回「2026年10月の情報漏えい」教育委員会職員の不正アクセスが発覚した理由",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90UnFzU3J4aGJOV1VBVThiM2tmZWl3TUdHNktnel84NFBnNGthSDFiSGtpYjFMX2lwczR3RG1aM2R4M09tSE9ZQXQ3YlRzRnRtQU9nMXp3ajhRbVRONlVnV20xQ0kzalRQU2NFRg?oc=5",
+      "source": "Googleニュース（ScanNetSecurity）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "792c944cffe8",
+      "date": "2026年11月27日",
+      "title": "三重大学、学生・教職員9,756名のメールアドレス1万4,074件が情報漏えい 安否確認システム「ANPIC」が利用するアララへの不正アクセスで|セキュリティニュースのセキュリティ対策Lab",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTkwOG53QVk5cGg2V2NRaFBRT195X2U2cUhlUzBFdV9pZHU0amlQSnRSVmtwd3pvV1NmenptQml0RlZkZDc0a2otQnZhR1YxdHdHTDJvMUpkckRULXNEcGNraUxCVjNFTnRWVGVtYzMxMmt6RWcwZ1J1cTB1aTRIRWpFTUJyRVotVGVqTjFfX3NhdGU4MVpTOGJjelJmRmYxY1Zn?oc=5",
+      "source": "Googleニュース（合同会社ロケットボーイズ）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
+    {
+      "id": "d1b1252f1b98",
+      "date": "2026年11月27日",
+      "title": "神奈川大学が不正アクセスの第4報を公表、認証基盤のMNSアカウント情報が漏えいの可能性",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yeDloVzBXN1VWNHJkc0o1Z2xaejNJZ3JlOGF1SFE3WmhHa1E4SFhoLURQbXRSUERTN2xnT1dQODIyaHprSURHM3hBMkpidzNJdlE?oc=5",
+      "source": "Googleニュース（サイバーセキュリティ.com）",
+      "category": "不正アクセス",
+      "color": "orange",
+      "scale": ""
+    },
     {
       "id": "a1d84c54878f",
       "date": "2026年11月26日",
